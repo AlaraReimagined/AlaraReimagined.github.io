@@ -1,0 +1,1778 @@
+﻿[
+    {
+        "card_name": "Relentless Archangel",
+        "number": 25,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ethersworn Enigma",
+        "number": 43,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Emperor of Undeath",
+        "number": 70,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Flamespit Hellkite",
+        "number": 104,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Thoctar Herdcaller",
+        "number": 157,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Asha's Command",
+        "number": 3,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Etherium Conduit",
+        "number": 40,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Extractor Imp",
+        "number": 71,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Endless Hordes",
+        "number": 101,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Avenger of Valeron",
+        "number": 130,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Battlegrace Sigil",
+        "number": 4,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gwafa Hazid, Racketeer",
+        "number": 46,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Parasitic Frenzy",
+        "number": 79,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Goblin Hordelord",
+        "number": 107,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Monstrous Sapherd",
+        "number": 142,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Callio of the Ethersworn",
+        "number": 6,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sculptor's Scepter",
+        "number": 55,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Salvage Summoner",
+        "number": 83,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Molten Hellion",
+        "number": 112,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Mycolossus",
+        "number": 144,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Knight of Eos",
+        "number": 14,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Seventh Sea Leviathan",
+        "number": 57,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Shungus Nod, Fleshcrafter",
+        "number": 87,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Monumental Rannet",
+        "number": 113,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Runadi, Gargantuan Caller",
+        "number": 149,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sigil of Asha's Aid",
+        "number": 29,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Shardquake",
+        "number": 58,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tar Hulk",
+        "number": 89,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rakka Mar, Elementalist",
+        "number": 116,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scavenger's Renown",
+        "number": 152,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sigil of New Alara",
+        "number": 30,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Splintering Sphinx",
+        "number": 60,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Undying Devourer",
+        "number": 91,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Razerunner Clan",
+        "number": 117,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Spore Shambler",
+        "number": 156,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Benediction Angel",
+        "number": 5,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Escape Route",
+        "number": 37,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Architects of Fate",
+        "number": 65,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Avalanche Elemental",
+        "number": 97,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Behemoth Seeker",
+        "number": 131,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Etherium Prison",
+        "number": 9,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Esperzoa",
+        "number": 38,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Armix, Filigree Thrasher",
+        "number": 66,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Firestoker Exuberant",
+        "number": 103,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Fungal Rebirth",
+        "number": 137,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Knight-Captain Wyhorn",
+        "number": 15,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Essence Rejection",
+        "number": 39,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Bone Shards",
+        "number": 68,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Foraging Viashino",
+        "number": 105,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Jorshu of Clan Nel Toth",
+        "number": 140,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Maelstrom Crusade",
+        "number": 17,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Etherium Whirler",
+        "number": 42,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gruesome Realization",
+        "number": 74,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Hadran, Nayan Sunseeder",
+        "number": 108,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Maelstrom Boons",
+        "number": 141,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Metallic Medic",
+        "number": 19,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Flight Fabricator",
+        "number": 44,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Minion Maker",
+        "number": 75,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Limits of Solidarity",
+        "number": 110,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Mulchskulker",
+        "number": 143,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Nurturing Sunseeder",
+        "number": 20,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rannon, Vithian Holdout",
+        "number": 53,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scavenger Wyvern",
+        "number": 84,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Plasma Rift",
+        "number": 114,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Prowling Gharial",
+        "number": 145,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Outmatch",
+        "number": 21,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Regulation Stone",
+        "number": 54,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scrap Slasher",
+        "number": 85,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Restless Volcano",
+        "number": 118,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rannet Stomphowler",
+        "number": 146,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Path to Exile",
+        "number": 23,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Seer Strix",
+        "number": 56,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sedraxis Brute",
+        "number": 86,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Siege of the Savory",
+        "number": 120,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ridgescale Behemoth",
+        "number": 148,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Vectis Gargoyle",
+        "number": 31,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Watchtower Lookout",
+        "number": 62,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Unx Alchemist",
+        "number": 93,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Thunder-Thrash Viashino",
+        "number": 125,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scalegod Tracker",
+        "number": 151,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "White Orchid Paladin",
+        "number": 32,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Whirler Foundry",
+        "number": 63,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Zombie Haven",
+        "number": 96,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Volcanic Volley",
+        "number": 128,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Slime Invocation",
+        "number": 153,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Akrasan Duelist",
+        "number": 1,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Aerie Windcaller",
+        "number": 33,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Blazing Kathari",
+        "number": 67,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Deathspark Elemental",
+        "number": 98,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Aspect of the Coatl",
+        "number": 129,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ancestral Blade",
+        "number": 2,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Artificer's Epiphany",
+        "number": 34,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Dregscape Reaver",
+        "number": 69,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Defiant Incurable",
+        "number": 99,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Bloodbriar",
+        "number": 132,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Court Homunculi",
+        "number": 7,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Attended Aether-Lich",
+        "number": 35,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Feral Undead",
+        "number": 72,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Delicious Duo",
+        "number": 100,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Court Archers",
+        "number": 133,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Crystallize",
+        "number": 8,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Countervailing Winds",
+        "number": 36,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Grisly Survivor",
+        "number": 73,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Fiery Fall",
+        "number": 102,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Devastating Blow",
+        "number": 134,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Fencing Ace",
+        "number": 10,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Etherium Sculptor",
+        "number": 41,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Morbid Celebrant",
+        "number": 76,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Goblin Death-Raider",
+        "number": 106,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Edge of Conflux",
+        "number": 135,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gravebane Nacatl",
+        "number": 11,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Frontline Mage",
+        "number": 45,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Nesting Homunculus",
+        "number": 77,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Hellkite Juvenile",
+        "number": 109,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Foundation Fracture",
+        "number": 136,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Guardians of the Sanctum",
+        "number": 12,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Jhessian Smuggler",
+        "number": 47,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Onyx Capsule",
+        "number": 78,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Melted Majesty",
+        "number": 111,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gargantuan Gift",
+        "number": 138,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gustglider Exuberant",
+        "number": 13,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Kathari Scavenger",
+        "number": 48,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Reckoner's Bargain",
+        "number": 80,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Pyroclast",
+        "number": 115,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Godseeker Druid",
+        "number": 139,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Landscaper Plowbeast",
+        "number": 16,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Mask of the Sphinxes",
+        "number": 49,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Resource Requisition",
+        "number": 81,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Retromancy",
+        "number": 119,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rhox Charger",
+        "number": 147,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Marble Capsule",
+        "number": 18,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Messenger's Capsule",
+        "number": 50,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rotting Rager",
+        "number": 82,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Soul's Flame",
+        "number": 121,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Saproling Migration",
+        "number": 150,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Paladin's Shield",
+        "number": 22,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Numbing Chain",
+        "number": 51,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Stinging Swarm",
+        "number": 88,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Spitting Iguanar",
+        "number": 122,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Solitary Thoctar",
+        "number": 154,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Reconstruct",
+        "number": 24,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Planeshift",
+        "number": 52,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tragic Slip",
+        "number": 90,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Starving Ogre",
+        "number": 123,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Spiny Thallid",
+        "number": 155,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sanctum Gargoyle",
+        "number": 26,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Silverclad Winder",
+        "number": 59,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Unearth",
+        "number": 92,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Thornwhip Runner",
+        "number": 124,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Titanic Sledge",
+        "number": 158,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sculptor's Skill",
+        "number": 27,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Syncopate",
+        "number": 61,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Whispers of the Dead",
+        "number": 94,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Viashino Fearblade",
+        "number": 126,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Veil of Alara",
+        "number": 159,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Shining Strike",
+        "number": 28,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Winding Winds",
+        "number": 64,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "World-Weary",
+        "number": 95,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Vithian Alchemist",
+        "number": 127,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Webweaver Behemoth",
+        "number": 160,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "Archangel of Lost Alara",
+        "number": 163,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "The Endless Astrolabe",
+        "number": 174,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Malfegor the Butcher",
+        "number": 191,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Conflux Hydra",
+        "number": 170,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tiyan, Kha of Qasal",
+        "number": 224,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Lisha of the Azure",
+        "number": 190,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Silas Renn, Seeker Adept",
+        "number": 213,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Cunning Archdemon",
+        "number": 172,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Nimo, Bloodbraid Chief",
+        "number": 194,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Syeena, Godtoucher",
+        "number": 218,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Palandius Gargoyle",
+        "number": 196,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Shrieking Strix",
+        "number": 211,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Grim Attendant",
+        "number": 183,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Lifecycle Wurm",
+        "number": 189,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sigiled Gargantuan",
+        "number": 212,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ethercaste Knight",
+        "number": 175,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Cesspool Scrapfiend",
+        "number": 169,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Blightning",
+        "number": 164,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Burning Rebirth",
+        "number": 167,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Grizzled Leotau",
+        "number": 184,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Reality Lapse",
+        "number": 202,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Recoil from Reality",
+        "number": 203,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Exterminate",
+        "number": 176,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Canyon Weaver",
+        "number": 168,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Qasali Pridemage",
+        "number": 200,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Telemin Restorer",
+        "number": 219,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Kess, Renegade Arcanist",
+        "number": 186,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Marrow Cruncher",
+        "number": 192,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Knight of Vengeance",
+        "number": 187,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Seekers of Majesty",
+        "number": 209,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Corrupted Sigil",
+        "number": 171,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scrivener's Bloodpact",
+        "number": 207,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Necrotic Germination",
+        "number": 193,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gargantuan Impact",
+        "number": 181,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Unbeholden Stalker",
+        "number": 226,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tidehollow Dominator",
+        "number": 222,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Forbidden Inspiration",
+        "number": 179,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Predatory Thrinax",
+        "number": 199,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Territorial Tusker",
+        "number": 220,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Vedalken Apostate",
+        "number": 227,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Sharuum the Ascendant",
+        "number": 210,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Bolas, Conflux Schemer",
+        "number": 165,
+        "shape": "planeswalker",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Kresh, Deathbringer",
+        "number": 188,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ajani, Soul Sculptor",
+        "number": 161,
+        "shape": "planeswalker",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Elspeth, Returned to Bant",
+        "number": 173,
+        "shape": "planeswalker",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tezzeret, Prodigal Son",
+        "number": 221,
+        "shape": "planeswalker",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sedris, Grave Monarch",
+        "number": 208,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sarkhan, Dragons' Hunger",
+        "number": 205,
+        "shape": "planeswalker",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Godspeaker Mayael",
+        "number": 182,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rafiq, Knight-General",
+        "number": 201,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sovereign of Steel Wind",
+        "number": 215,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Olcot, Grixis Battlemage",
+        "number": 195,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Broodmate Thunder",
+        "number": 166,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Paleohemoth",
+        "number": 197,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Stoic Angel",
+        "number": 217,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sludge Sifter",
+        "number": 214,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Kederekt Specter",
+        "number": 185,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Apex Appeasement",
+        "number": 162,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Twinclaws of Marisi",
+        "number": 225,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Flurry of Wings",
+        "number": 178,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tine of Unbending",
+        "number": 223,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Pawn of Malfegor",
+        "number": 198,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sprouting Thrinax",
+        "number": 216,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Woolly Thoctar",
+        "number": 230,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rhox War Monk",
+        "number": 204,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Windwright Sage",
+        "number": 229,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Fire-Field Fiend",
+        "number": 177,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Scavenger Thrash",
+        "number": 206,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Gargantuan Behemoth",
+        "number": 180,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Waveskimmer Sentinel",
+        "number": 228,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "Lich's Obsession",
+        "number": 236,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Bant Monument",
+        "number": 231,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Chalice of Malfegor",
+        "number": 232,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Esper Monument",
+        "number": 233,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Grixis Monument",
+        "number": 234,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Jund Monument",
+        "number": 235,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Limitless Coil",
+        "number": 237,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Naya Monument",
+        "number": 238,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sigil of Valor",
+        "number": 240,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Relic of Lost Alara",
+        "number": 239,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Fieldmist Border",
+        "number": 245,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Mistvein Border",
+        "number": 250,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Veinfire Border",
+        "number": 256,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Firewild Border",
+        "number": 246,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Wildfield Border",
+        "number": 257,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Maelstrom Shrine",
+        "number": 249,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Bant Triome",
+        "number": 242,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Esper Triome",
+        "number": 244,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Grixis Triome",
+        "number": 247,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Jund Triome",
+        "number": 248,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Naya Triome",
+        "number": 251,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Ash Barrens",
+        "number": 241,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Contaminated Landscape",
+        "number": 243,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Seething Landscape",
+        "number": 252,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sheltering Landscape",
+        "number": 253,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tranquil Landscape",
+        "number": 254,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Twisted Landscape",
+        "number": 255,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->token",
+    {
+        "card_name": "Human Soldier",
+        "number": 1,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Kathari Shrieker",
+        "number": 4,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Dregscape Reaver",
+        "number": 5,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Extractor Imp",
+        "number": 6,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Feral Undead",
+        "number": 7,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Rotting Rager",
+        "number": 8,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Sedraxis Brute",
+        "number": 9,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Deathspark Elemental",
+        "number": 10,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Elemental",
+        "number": 11,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Goblin Hordelord",
+        "number": 12,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Starving Ogre",
+        "number": 13,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Angel",
+        "number": 2,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Cesspool Scrapfiend",
+        "number": 3,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Attended Aether-Lich",
+        "number": 14,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Dragon",
+        "number": 16,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Beast",
+        "number": 15,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Fire-Field Fiend",
+        "number": 17,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

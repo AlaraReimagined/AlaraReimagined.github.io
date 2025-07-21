@@ -1,0 +1,3520 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Court Homunculi",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact Creature — Homunculus",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/7_Court Homunculi.png"
+			}
+		},
+		{
+			"name": "Viashino Fearblade",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/126_Viashino Fearblade.png"
+			}
+		},
+		{
+			"name": "Goblin Death-Raider",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/106_Goblin Death-Raider.png"
+			}
+		},
+		{
+			"name": "Retromancy",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Sorcery",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/119_Retromancy.png"
+			}
+		},
+		{
+			"name": "Fiery Fall",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Instant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/102_Fiery Fall.png"
+			}
+		},
+		{
+			"name": "Frontline Mage",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/45_Frontline Mage.png"
+			}
+		},
+		{
+			"name": "Defiant Incurable",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Creature — Ogre Mutant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/99_Defiant Incurable.png"
+			}
+		},
+		{
+			"name": "Gwafa Hazid, Racketeer",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/46_Gwafa Hazid, Racketeer.png"
+			}
+		},
+		{
+			"name": "Pyroclast",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/115_Pyroclast.png"
+			}
+		},
+		{
+			"name": "Melted Majesty",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/111_Melted Majesty.png"
+			}
+		},
+		{
+			"name": "Whispers of the Dead",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/94_Whispers of the Dead.png"
+			}
+		},
+		{
+			"name": "Titanic Sledge",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/158_Titanic Sledge.png"
+			}
+		},
+		{
+			"name": "Morbid Celebrant",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/76_Morbid Celebrant.png"
+			}
+		},
+		{
+			"name": "Gustglider Exuberant",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/13_Gustglider Exuberant.png"
+			}
+		},
+		{
+			"name": "Spiny Thallid",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/155_Spiny Thallid.png"
+			}
+		},
+		{
+			"name": "Grisly Survivor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Minotaur Warrior",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/73_Grisly Survivor.png"
+			}
+		},
+		{
+			"name": "Fencing Ace",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/10_Fencing Ace.png"
+			}
+		},
+		{
+			"name": "Sanctum Gargoyle",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/26_Sanctum Gargoyle.png"
+			}
+		},
+		{
+			"name": "Sculptor's Skill",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/27_Sculptor's Skill.png"
+			}
+		},
+		{
+			"name": "Ancestral Blade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/2_Ancestral Blade.png"
+			}
+		},
+		{
+			"name": "Thunder-Thrash Viashino",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/125_Thunder-Thrash Viashino.png"
+			}
+		},
+		{
+			"name": "Seer Strix",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/56_Seer Strix.png"
+			}
+		},
+		{
+			"name": "Kathari Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Bird Zombie",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/48_Kathari Scavenger.png"
+			}
+		},
+		{
+			"name": "Silverclad Winder",
+			"rarity": "common",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Serpent",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/59_Silverclad Winder.png"
+			}
+		},
+		{
+			"name": "Countervailing Winds",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/36_Countervailing Winds.png"
+			}
+		},
+		{
+			"name": "Whirler Foundry",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/63_Whirler Foundry.png"
+			}
+		},
+		{
+			"name": "Numbing Chain",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/51_Numbing Chain.png"
+			}
+		},
+		{
+			"name": "Godseeker Druid",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Druid",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/139_Godseeker Druid.png"
+			}
+		},
+		{
+			"name": "Feral Undead",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/72_Feral Undead.png"
+			}
+		},
+		{
+			"name": "Nesting Homunculus",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Artifact Creature — Homunculus",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/77_Nesting Homunculus.png"
+			}
+		},
+		{
+			"name": "Bloodbriar",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Plant Elemental",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/132_Bloodbriar.png"
+			}
+		},
+		{
+			"name": "Court Archers",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Archer",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/133_Court Archers.png"
+			}
+		},
+		{
+			"name": "Webweaver Behemoth",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/160_Webweaver Behemoth.png"
+			}
+		},
+		{
+			"name": "Foundation Fracture",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/136_Foundation Fracture.png"
+			}
+		},
+		{
+			"name": "Devastating Blow",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/134_Devastating Blow.png"
+			}
+		},
+		{
+			"name": "World-Weary",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/95_World-Weary.png"
+			}
+		},
+		{
+			"name": "Bant Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/231_Bant Monument.png"
+			}
+		},
+		{
+			"name": "Blazing Kathari",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird Shaman",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/67_Blazing Kathari.png"
+			}
+		},
+		{
+			"name": "Fieldmist Border",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/245_Fieldmist Border.png"
+			}
+		},
+		{
+			"name": "Limitless Coil",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/237_Limitless Coil.png"
+			}
+		},
+		{
+			"name": "Akrasan Duelist",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/1_Akrasan Duelist.png"
+			}
+		},
+		{
+			"name": "Landscaper Plowbeast",
+			"rarity": "common",
+			"mana_cost": "{5}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/16_Landscaper Plowbeast.png"
+			}
+		},
+		{
+			"name": "Gravebane Nacatl",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/11_Gravebane Nacatl.png"
+			}
+		},
+		{
+			"name": "Crystallize",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/8_Crystallize.png"
+			}
+		},
+		{
+			"name": "Reconstruct",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Sorcery",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/24_Reconstruct.png"
+			}
+		},
+		{
+			"name": "Outmatch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/21_Outmatch.png"
+			}
+		},
+		{
+			"name": "Guardians of the Sanctum",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/12_Guardians of the Sanctum.png"
+			}
+		},
+		{
+			"name": "Winding Winds",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/64_Winding Winds.png"
+			}
+		},
+		{
+			"name": "Planeshift",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/52_Planeshift.png"
+			}
+		},
+		{
+			"name": "Rotting Rager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Zombie Ogre",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/82_Rotting Rager.png"
+			}
+		},
+		{
+			"name": "Jhessian Smuggler",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/47_Jhessian Smuggler.png"
+			}
+		},
+		{
+			"name": "Etherium Sculptor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Vedalken Artificer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/41_Etherium Sculptor.png"
+			}
+		},
+		{
+			"name": "Delicious Duo",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/100_Delicious Duo.png"
+			}
+		},
+		{
+			"name": "Soul's Flame",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/121_Soul's Flame.png"
+			}
+		},
+		{
+			"name": "Hellkite Juvenile",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/109_Hellkite Juvenile.png"
+			}
+		},
+		{
+			"name": "Thornwhip Runner",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/124_Thornwhip Runner.png"
+			}
+		},
+		{
+			"name": "Vithian Alchemist",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/127_Vithian Alchemist.png"
+			}
+		},
+		{
+			"name": "Starving Ogre",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Ogre Mutant",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/123_Starving Ogre.png"
+			}
+		},
+		{
+			"name": "Gargantuan Gift",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/138_Gargantuan Gift.png"
+			}
+		},
+		{
+			"name": "Fungal Rebirth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Instant",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/137_Fungal Rebirth.png"
+			}
+		},
+		{
+			"name": "Veil of Alara",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/159_Veil of Alara.png"
+			}
+		},
+		{
+			"name": "Ridgescale Behemoth",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/148_Ridgescale Behemoth.png"
+			}
+		},
+		{
+			"name": "Rhox Charger",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Rhino Soldier",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/147_Rhox Charger.png"
+			}
+		},
+		{
+			"name": "Onyx Capsule",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/78_Onyx Capsule.png"
+			}
+		},
+		{
+			"name": "Tragic Slip",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Instant",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/90_Tragic Slip.png"
+			}
+		},
+		{
+			"name": "Resource Requisition",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/81_Resource Requisition.png"
+			}
+		},
+		{
+			"name": "Dregscape Reaver",
+			"rarity": "common",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Creature — Zombie Beast",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/69_Dregscape Reaver.png"
+			}
+		},
+		{
+			"name": "Undying Devourer",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Golem",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/91_Undying Devourer.png"
+			}
+		},
+		{
+			"name": "Cesspool Scrapfiend",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Artifact Creature — Horror",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/169_Cesspool Scrapfiend.png"
+			}
+		},
+		{
+			"name": "Mask of the Sphinxes",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/49_Mask of the Sphinxes.png"
+			}
+		},
+		{
+			"name": "Ethercaste Knight",
+			"rarity": "common",
+			"mana_cost": "{W}{U}",
+			"type": "Artifact Creature — Human Knight",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/175_Ethercaste Knight.png"
+			}
+		},
+		{
+			"name": "Recoil from Reality",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/203_Recoil from Reality.png"
+			}
+		},
+		{
+			"name": "Attended Aether-Lich",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Zombie Wizard",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/35_Attended Aether-Lich.png"
+			}
+		},
+		{
+			"name": "Blightning",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Sorcery",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/164_Blightning.png"
+			}
+		},
+		{
+			"name": "Reality Lapse",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/202_Reality Lapse.png"
+			}
+		},
+		{
+			"name": "Exterminate",
+			"rarity": "common",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/176_Exterminate.png"
+			}
+		},
+		{
+			"name": "Lifecycle Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/189_Lifecycle Wurm.png"
+			}
+		},
+		{
+			"name": "Scalegod Tracker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Elf Shaman",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/151_Scalegod Tracker.png"
+			}
+		},
+		{
+			"name": "Grizzled Leotau",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Cat",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/184_Grizzled Leotau.png"
+			}
+		},
+		{
+			"name": "Windwright Sage",
+			"rarity": "common",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/229_Windwright Sage.png"
+			}
+		},
+		{
+			"name": "Qasali Pridemage",
+			"rarity": "common",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Cat Wizard",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/200_Qasali Pridemage.png"
+			}
+		},
+		{
+			"name": "Fire-Field Fiend",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Creature — Ogre Mutant",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/177_Fire-Field Fiend.png"
+			}
+		},
+		{
+			"name": "Scavenger Thrash",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Creature — Lizard Warrior",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/206_Scavenger Thrash.png"
+			}
+		},
+		{
+			"name": "Waveskimmer Sentinel",
+			"rarity": "common",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Creature — Bird Soldier",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/228_Waveskimmer Sentinel.png"
+			}
+		},
+		{
+			"name": "Esper Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/233_Esper Monument.png"
+			}
+		},
+		{
+			"name": "Grixis Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/234_Grixis Monument.png"
+			}
+		},
+		{
+			"name": "Jund Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/235_Jund Monument.png"
+			}
+		},
+		{
+			"name": "Naya Monument",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/238_Naya Monument.png"
+			}
+		},
+		{
+			"name": "Ash Barrens",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/241_Ash Barrens.png"
+			}
+		},
+		{
+			"name": "Mistvein Border",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/250_Mistvein Border.png"
+			}
+		},
+		{
+			"name": "Veinfire Border",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/256_Veinfire Border.png"
+			}
+		},
+		{
+			"name": "Firewild Border",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/246_Firewild Border.png"
+			}
+		},
+		{
+			"name": "Wildfield Border",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/257_Wildfield Border.png"
+			}
+		},
+		{
+			"name": "Contaminated Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/243_Contaminated Landscape.png"
+			}
+		},
+		{
+			"name": "Seething Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/252_Seething Landscape.png"
+			}
+		},
+		{
+			"name": "Twisted Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/255_Twisted Landscape.png"
+			}
+		},
+		{
+			"name": "Sheltering Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/253_Sheltering Landscape.png"
+			}
+		},
+		{
+			"name": "Tranquil Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/254_Tranquil Landscape.png"
+			}
+		},
+		{
+			"name": "Bant Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Forest Plains Island",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/242_Bant Triome.png"
+			}
+		},
+		{
+			"name": "Esper Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Plains Island Swamp",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/244_Esper Triome.png"
+			}
+		},
+		{
+			"name": "Grixis Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Island Swamp Mountain",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/247_Grixis Triome.png"
+			}
+		},
+		{
+			"name": "Jund Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Swamp Mountain Forest",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/248_Jund Triome.png"
+			}
+		},
+		{
+			"name": "Naya Triome",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land — Mountain Forest Plains",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/251_Naya Triome.png"
+			}
+		},
+		{
+			"name": "Plasma Rift",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/114_Plasma Rift.png"
+			}
+		},
+		{
+			"name": "Maelstrom Boons",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/141_Maelstrom Boons.png"
+			}
+		},
+		{
+			"name": "Sludge Sifter",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Artifact Creature — Insect",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/214_Sludge Sifter.png"
+			}
+		},
+		{
+			"name": "Rhox War Monk",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Creature — Rhino Monk",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/204_Rhox War Monk.png"
+			}
+		},
+		{
+			"name": "Flurry of Wings",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/178_Flurry of Wings.png"
+			}
+		},
+		{
+			"name": "Pawn of Malfegor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/198_Pawn of Malfegor.png"
+			}
+		},
+		{
+			"name": "Tine of Unbending",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Artifact",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/223_Tine of Unbending.png"
+			}
+		},
+		{
+			"name": "Apex Appeasement",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/162_Apex Appeasement.png"
+			}
+		},
+		{
+			"name": "Kederekt Specter",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Specter",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/185_Kederekt Specter.png"
+			}
+		},
+		{
+			"name": "Twinclaws of Marisi",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Creature — Cat Warrior",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/225_Twinclaws of Marisi.png"
+			}
+		},
+		{
+			"name": "Sprouting Thrinax",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/216_Sprouting Thrinax.png"
+			}
+		},
+		{
+			"name": "Woolly Thoctar",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/230_Woolly Thoctar.png"
+			}
+		},
+		{
+			"name": "Palandius Gargoyle",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/196_Palandius Gargoyle.png"
+			}
+		},
+		{
+			"name": "Shrieking Strix",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Artifact Creature — Bird",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/211_Shrieking Strix.png"
+			}
+		},
+		{
+			"name": "Grim Attendant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/183_Grim Attendant.png"
+			}
+		},
+		{
+			"name": "Nimo, Bloodbraid Chief",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Legendary Creature — Elf Berserker",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/194_Nimo, Bloodbraid Chief.png"
+			}
+		},
+		{
+			"name": "Sigiled Gargantuan",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/212_Sigiled Gargantuan.png"
+			}
+		},
+		{
+			"name": "Corrupted Sigil",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/171_Corrupted Sigil.png"
+			}
+		},
+		{
+			"name": "Necrotic Germination",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/193_Necrotic Germination.png"
+			}
+		},
+		{
+			"name": "Territorial Tusker",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/220_Territorial Tusker.png"
+			}
+		},
+		{
+			"name": "Unbeholden Stalker",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/226_Unbeholden Stalker.png"
+			}
+		},
+		{
+			"name": "Scrivener's Bloodpact",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Enchantment",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/207_Scrivener's Bloodpact.png"
+			}
+		},
+		{
+			"name": "Canyon Weaver",
+			"rarity": "common",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Spider",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/168_Canyon Weaver.png"
+			}
+		},
+		{
+			"name": "Silas Renn, Seeker Adept",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Legendary Artifact Creature — Human",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/213_Silas Renn, Seeker Adept.png"
+			}
+		},
+		{
+			"name": "Olcot, Grixis Battlemage",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/195_Olcot, Grixis Battlemage.png"
+			}
+		},
+		{
+			"name": "Esperzoa",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Jellyfish",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/38_Esperzoa.png"
+			}
+		},
+		{
+			"name": "Armix, Filigree Thrasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact Creature — Golem",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/66_Armix, Filigree Thrasher.png"
+			}
+		},
+		{
+			"name": "Bone Shards",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/68_Bone Shards.png"
+			}
+		},
+		{
+			"name": "Slime Invocation",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/153_Slime Invocation.png"
+			}
+		},
+		{
+			"name": "Aspect of the Coatl",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/129_Aspect of the Coatl.png"
+			}
+		},
+		{
+			"name": "Sedris, Grave Monarch",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}{R}",
+			"type": "Legendary Creature — Zombie Warrior",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/208_Sedris, Grave Monarch.png"
+			}
+		},
+		{
+			"name": "Sigil of Valor",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/240_Sigil of Valor.png"
+			}
+		},
+		{
+			"name": "Escape Route",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/37_Escape Route.png"
+			}
+		},
+		{
+			"name": "Flight Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Vedalken Wizard",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/44_Flight Fabricator.png"
+			}
+		},
+		{
+			"name": "Syncopate",
+			"rarity": "common",
+			"mana_cost": "{X}{U}",
+			"type": "Instant",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/61_Syncopate.png"
+			}
+		},
+		{
+			"name": "Zombie Haven",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/96_Zombie Haven.png"
+			}
+		},
+		{
+			"name": "Unearth",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/92_Unearth.png"
+			}
+		},
+		{
+			"name": "Foraging Viashino",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Lizard Shaman",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/105_Foraging Viashino.png"
+			}
+		},
+		{
+			"name": "Limits of Solidarity",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/110_Limits of Solidarity.png"
+			}
+		},
+		{
+			"name": "Saproling Migration",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/150_Saproling Migration.png"
+			}
+		},
+		{
+			"name": "Edge of Conflux",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/135_Edge of Conflux.png"
+			}
+		},
+		{
+			"name": "Razerunner Clan",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Goblin Warrior",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/117_Razerunner Clan.png"
+			}
+		},
+		{
+			"name": "Flamespit Hellkite",
+			"rarity": "mythic",
+			"mana_cost": "{5}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/104_Flamespit Hellkite.png"
+			}
+		},
+		{
+			"name": "Avalanche Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/97_Avalanche Elemental.png"
+			}
+		},
+		{
+			"name": "Restless Volcano",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/118_Restless Volcano.png"
+			}
+		},
+		{
+			"name": "Monumental Rannet",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Creature — Beast",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/113_Monumental Rannet.png"
+			}
+		},
+		{
+			"name": "Etherium Prison",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/9_Etherium Prison.png"
+			}
+		},
+		{
+			"name": "White Orchid Paladin",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/32_White Orchid Paladin.png"
+			}
+		},
+		{
+			"name": "Etherium Conduit",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Vedalken Wizard",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/40_Etherium Conduit.png"
+			}
+		},
+		{
+			"name": "Regulation Stone",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/54_Regulation Stone.png"
+			}
+		},
+		{
+			"name": "Architects of Fate",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/65_Architects of Fate.png"
+			}
+		},
+		{
+			"name": "Gargantuan Behemoth",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/180_Gargantuan Behemoth.png"
+			}
+		},
+		{
+			"name": "Nurturing Sunseeder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Druid Wizard",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/20_Nurturing Sunseeder.png"
+			}
+		},
+		{
+			"name": "Metallic Medic",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Cleric",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/19_Metallic Medic.png"
+			}
+		},
+		{
+			"name": "Firestoker Exuberant",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Druid Shaman",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/103_Firestoker Exuberant.png"
+			}
+		},
+		{
+			"name": "Behemoth Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Druid Warrior",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/131_Behemoth Seeker.png"
+			}
+		},
+		{
+			"name": "Prowling Gharial",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Crocodile",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/145_Prowling Gharial.png"
+			}
+		},
+		{
+			"name": "Scavenger Wyvern",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Drake",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/84_Scavenger Wyvern.png"
+			}
+		},
+		{
+			"name": "Siege of the Savory",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/120_Siege of the Savory.png"
+			}
+		},
+		{
+			"name": "Mycolossus",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Fungus",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/144_Mycolossus.png"
+			}
+		},
+		{
+			"name": "Solitary Thoctar",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/154_Solitary Thoctar.png"
+			}
+		},
+		{
+			"name": "Stoic Angel",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Creature — Angel",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/217_Stoic Angel.png"
+			}
+		},
+		{
+			"name": "Syeena, Godtoucher",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/218_Syeena, Godtoucher.png"
+			}
+		},
+		{
+			"name": "Cunning Archdemon",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Creature — Demon",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/172_Cunning Archdemon.png"
+			}
+		},
+		{
+			"name": "Sovereign of Steel Wind",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Artifact Creature — Sphinx",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/215_Sovereign of Steel Wind.png"
+			}
+		},
+		{
+			"name": "Broodmate Thunder",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/166_Broodmate Thunder.png"
+			}
+		},
+		{
+			"name": "Paleohemoth",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{G}{W}",
+			"type": "Creature — Beast",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/197_Paleohemoth.png"
+			}
+		},
+		{
+			"name": "Rannon, Vithian Holdout",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/53_Rannon, Vithian Holdout.png"
+			}
+		},
+		{
+			"name": "Sedraxis Brute",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Zombie Giant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/86_Sedraxis Brute.png"
+			}
+		},
+		{
+			"name": "Deathspark Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/98_Deathspark Elemental.png"
+			}
+		},
+		{
+			"name": "Marrow Cruncher",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Creature — Zombie Lizard",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/192_Marrow Cruncher.png"
+			}
+		},
+		{
+			"name": "Lisha of the Azure",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/190_Lisha of the Azure.png"
+			}
+		},
+		{
+			"name": "Knight-Captain Wyhorn",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/15_Knight-Captain Wyhorn.png"
+			}
+		},
+		{
+			"name": "Sculptor's Scepter",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/55_Sculptor's Scepter.png"
+			}
+		},
+		{
+			"name": "Aerie Windcaller",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Bird Wizard",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/33_Aerie Windcaller.png"
+			}
+		},
+		{
+			"name": "Rafiq, Knight-General",
+			"rarity": "mythic",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Human Knight",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/201_Rafiq, Knight-General.png"
+			}
+		},
+		{
+			"name": "Spore Shambler",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Fungus Horror",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/156_Spore Shambler.png"
+			}
+		},
+		{
+			"name": "Sigil of Asha's Aid",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/29_Sigil of Asha's Aid.png"
+			}
+		},
+		{
+			"name": "Maelstrom Crusade",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/17_Maelstrom Crusade.png"
+			}
+		},
+		{
+			"name": "Shining Strike",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Sorcery",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/28_Shining Strike.png"
+			}
+		},
+		{
+			"name": "Stinging Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/88_Stinging Swarm.png"
+			}
+		},
+		{
+			"name": "Mulchskulker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/143_Mulchskulker.png"
+			}
+		},
+		{
+			"name": "Jorshu of Clan Nel Toth",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/140_Jorshu of Clan Nel Toth.png"
+			}
+		},
+		{
+			"name": "Vectis Gargoyle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Gargoyle",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/31_Vectis Gargoyle.png"
+			}
+		},
+		{
+			"name": "Molten Hellion",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Hellion",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/112_Molten Hellion.png"
+			}
+		},
+		{
+			"name": "Runadi, Gargantuan Caller",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Cat Shaman",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/149_Runadi, Gargantuan Caller.png"
+			}
+		},
+		{
+			"name": "Paladin's Shield",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/22_Paladin's Shield.png"
+			}
+		},
+		{
+			"name": "Volcanic Volley",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/128_Volcanic Volley.png"
+			}
+		},
+		{
+			"name": "Spitting Iguanar",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Lizard",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/122_Spitting Iguanar.png"
+			}
+		},
+		{
+			"name": "Kresh, Deathbringer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/188_Kresh, Deathbringer.png"
+			}
+		},
+		{
+			"name": "Godspeaker Mayael",
+			"rarity": "mythic",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/182_Godspeaker Mayael.png"
+			}
+		},
+		{
+			"name": "Sharuum the Ascendant",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}{B}",
+			"type": "Legendary Artifact Creature — Sphinx",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/210_Sharuum the Ascendant.png"
+			}
+		},
+		{
+			"name": "Rakka Mar, Elementalist",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/116_Rakka Mar, Elementalist.png"
+			}
+		},
+		{
+			"name": "Monstrous Sapherd",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Fungus Beast",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/142_Monstrous Sapherd.png"
+			}
+		},
+		{
+			"name": "Scavenger's Renown",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/152_Scavenger's Renown.png"
+			}
+		},
+		{
+			"name": "Knight of Eos",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/14_Knight of Eos.png"
+			}
+		},
+		{
+			"name": "Asha's Command",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/3_Asha's Command.png"
+			}
+		},
+		{
+			"name": "Battlegrace Sigil",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/4_Battlegrace Sigil.png"
+			}
+		},
+		{
+			"name": "Endless Hordes",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/101_Endless Hordes.png"
+			}
+		},
+		{
+			"name": "Ethersworn Enigma",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Artifact Creature — Sphinx",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/43_Ethersworn Enigma.png"
+			}
+		},
+		{
+			"name": "Archangel of Lost Alara",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Artifact Creature — Angel",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/163_Archangel of Lost Alara.png"
+			}
+		},
+		{
+			"name": "Emperor of Undeath",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/70_Emperor of Undeath.png"
+			}
+		},
+		{
+			"name": "Thoctar Herdcaller",
+			"rarity": "mythic",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/157_Thoctar Herdcaller.png"
+			}
+		},
+		{
+			"name": "Relentless Archangel",
+			"rarity": "mythic",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/25_Relentless Archangel.png"
+			}
+		},
+		{
+			"name": "Callio of the Ethersworn",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact Creature — Human",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/6_Callio of the Ethersworn.png"
+			}
+		},
+		{
+			"name": "Shardquake",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/58_Shardquake.png"
+			}
+		},
+		{
+			"name": "Splintering Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Artifact Creature — Sphinx",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/60_Splintering Sphinx.png"
+			}
+		},
+		{
+			"name": "Watchtower Lookout",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue Scout",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/62_Watchtower Lookout.png"
+			}
+		},
+		{
+			"name": "Extractor Imp",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Imp",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/71_Extractor Imp.png"
+			}
+		},
+		{
+			"name": "Salvage Summoner",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Sphinx",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/83_Salvage Summoner.png"
+			}
+		},
+		{
+			"name": "Tar Hulk",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}",
+			"type": "Creature — Elemental Ooze",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/89_Tar Hulk.png"
+			}
+		},
+		{
+			"name": "Shungus Nod, Fleshcrafter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Zombie Wizard",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/87_Shungus Nod, Fleshcrafter.png"
+			}
+		},
+		{
+			"name": "Parasitic Frenzy",
+			"rarity": "rare",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/79_Parasitic Frenzy.png"
+			}
+		},
+		{
+			"name": "Goblin Hordelord",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Zombie",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/107_Goblin Hordelord.png"
+			}
+		},
+		{
+			"name": "Seventh Sea Leviathan",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Artifact Creature — Leviathan",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/57_Seventh Sea Leviathan.png"
+			}
+		},
+		{
+			"name": "Telemin Restorer",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{B}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/219_Telemin Restorer.png"
+			}
+		},
+		{
+			"name": "Seekers of Majesty",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Creature — Elf Rogue",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/209_Seekers of Majesty.png"
+			}
+		},
+		{
+			"name": "Knight of Vengeance",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Knight",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/187_Knight of Vengeance.png"
+			}
+		},
+		{
+			"name": "Kess, Renegade Arcanist",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Wizard",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/186_Kess, Renegade Arcanist.png"
+			}
+		},
+		{
+			"name": "Minion Maker",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/75_Minion Maker.png"
+			}
+		},
+		{
+			"name": "Essence Rejection",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/39_Essence Rejection.png"
+			}
+		},
+		{
+			"name": "Reckoner's Bargain",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/80_Reckoner's Bargain.png"
+			}
+		},
+		{
+			"name": "Scrap Slasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Human Assassin",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/85_Scrap Slasher.png"
+			}
+		},
+		{
+			"name": "Artificer's Epiphany",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/34_Artificer's Epiphany.png"
+			}
+		},
+		{
+			"name": "Benediction Angel",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/5_Benediction Angel.png"
+			}
+		},
+		{
+			"name": "Path to Exile",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/23_Path to Exile.png"
+			}
+		},
+		{
+			"name": "Burning Rebirth",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Instant",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/167_Burning Rebirth.png"
+			}
+		},
+		{
+			"name": "Sigil of New Alara",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/30_Sigil of New Alara.png"
+			}
+		},
+		{
+			"name": "Etherium Whirler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact Creature — Human Rogue",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/42_Etherium Whirler.png"
+			}
+		},
+		{
+			"name": "Unx Alchemist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Zombie Wizard",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/93_Unx Alchemist.png"
+			}
+		},
+		{
+			"name": "Gruesome Realization",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/74_Gruesome Realization.png"
+			}
+		},
+		{
+			"name": "Rannet Stomphowler",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Beast",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/146_Rannet Stomphowler.png"
+			}
+		},
+		{
+			"name": "Marble Capsule",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/18_Marble Capsule.png"
+			}
+		},
+		{
+			"name": "Messenger's Capsule",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/50_Messenger's Capsule.png"
+			}
+		},
+		{
+			"name": "The Endless Astrolabe",
+			"rarity": "mythic",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/174_The Endless Astrolabe.png"
+			}
+		},
+		{
+			"name": "Malfegor the Butcher",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{B}{R}{R}",
+			"type": "Legendary Creature — Demon Dragon",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/191_Malfegor the Butcher.png"
+			}
+		},
+		{
+			"name": "Conflux Hydra",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Creature — Hydra",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/170_Conflux Hydra.png"
+			}
+		},
+		{
+			"name": "Tiyan, Kha of Qasal",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Legendary Creature — Cat Warrior",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/224_Tiyan, Kha of Qasal.png"
+			}
+		},
+		{
+			"name": "Ajani, Soul Sculptor",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Planeswalker — Ajani",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/161_Ajani, Soul Sculptor.png"
+			}
+		},
+		{
+			"name": "Sarkhan, Dragons' Hunger",
+			"rarity": "mythic",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Legendary Planeswalker — Sarkhan",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/205_Sarkhan, Dragons' Hunger.png"
+			}
+		},
+		{
+			"name": "Tezzeret, Prodigal Son",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Planeswalker — Tezzeret",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/221_Tezzeret, Prodigal Son.png"
+			}
+		},
+		{
+			"name": "Forbidden Inspiration",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Instant",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/179_Forbidden Inspiration.png"
+			}
+		},
+		{
+			"name": "Tidehollow Dominator",
+			"rarity": "common",
+			"mana_cost": "{W}{B}",
+			"type": "Artifact Creature — Human Wizard",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/222_Tidehollow Dominator.png"
+			}
+		},
+		{
+			"name": "Gargantuan Impact",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Instant",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/181_Gargantuan Impact.png"
+			}
+		},
+		{
+			"name": "Vedalken Apostate",
+			"rarity": "common",
+			"mana_cost": "{G}{U}",
+			"type": "Creature — Vedalken Rogue",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/227_Vedalken Apostate.png"
+			}
+		},
+		{
+			"name": "Predatory Thrinax",
+			"rarity": "common",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Lizard",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/199_Predatory Thrinax.png"
+			}
+		},
+		{
+			"name": "Hadran, Nayan Sunseeder",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Elf Druid",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/108_Hadran, Nayan Sunseeder.png"
+			}
+		},
+		{
+			"name": "Maelstrom Shrine",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/249_Maelstrom Shrine.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/1_Human Soldier.png"
+			}
+		},
+		{
+			"name": "Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Beast",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/15_Beast.png"
+			}
+		},
+		{
+			"name": "Cesspool Scrapfiend",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Token Artifact Creature — Horror",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/3_Cesspool Scrapfiend.png"
+			}
+		},
+		{
+			"name": "Attended Aether-Lich",
+			"rarity": "common",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Token Artifact Creature — Zombie",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/14_Attended Aether-Lich.png"
+			}
+		},
+		{
+			"name": "Kathari Shrieker",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Token Creature — Bird Zombie",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/4_Kathari Shrieker.png"
+			}
+		},
+		{
+			"name": "Deathspark Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Token Creature — Elemental",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/10_Deathspark Elemental.png"
+			}
+		},
+		{
+			"name": "Goblin Hordelord",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Token Creature — Goblin Zombie",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/12_Goblin Hordelord.png"
+			}
+		},
+		{
+			"name": "Extractor Imp",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Token Creature — Imp",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/6_Extractor Imp.png"
+			}
+		},
+		{
+			"name": "Feral Undead",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Token Creature — Zombie",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/7_Feral Undead.png"
+			}
+		},
+		{
+			"name": "Dregscape Reaver",
+			"rarity": "common",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Token Creature — Zombie Beast",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/5_Dregscape Reaver.png"
+			}
+		},
+		{
+			"name": "Rotting Rager",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Token Creature — Zombie Ogre",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/8_Rotting Rager.png"
+			}
+		},
+		{
+			"name": "Sedraxis Brute",
+			"rarity": "common",
+			"mana_cost": "{5}{B}",
+			"type": "Token Creature — Zombie Giant",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/9_Sedraxis Brute.png"
+			}
+		},
+		{
+			"name": "Avenger of Valeron",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Knight",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/130_Avenger of Valeron.png"
+			}
+		},
+		{
+			"name": "Chalice of Malfegor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/232_Chalice of Malfegor.png"
+			}
+		},
+		{
+			"name": "Relic of Lost Alara",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/239_Relic of Lost Alara.png"
+			}
+		},
+		{
+			"name": "Bolas, Conflux Schemer",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Planeswalker — Bolas",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/165_Bolas, Conflux Schemer.png"
+			}
+		},
+		{
+			"name": "Lich's Obsession",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/236_Lich's Obsession.png"
+			}
+		},
+		{
+			"name": "Elspeth, Returned to Bant",
+			"rarity": "mythic",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Legendary Planeswalker — Elspeth",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/173_Elspeth, Returned to Bant.png"
+			}
+		},
+		{
+			"name": "Fire-Field Fiend",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Token Creature — Ogre Mutant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/17_Fire-Field Fiend.png"
+			}
+		},
+		{
+			"name": "Dragon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Dragon",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/16_Dragon.png"
+			}
+		},
+		{
+			"name": "Angel",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Token Creature — Angel",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/2_Angel.png"
+			}
+		},
+		{
+			"name": "Starving Ogre",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Token Creature — Ogre Mutant",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/13_Starving Ogre.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Token Creature — Elemental",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/11_Elemental.png"
+			}
+		}
+	]
+
+[rare(1)]
+	2 Gwafa Hazid, Racketeer
+	2 Undying Devourer
+	2 Bant Triome
+	2 Esper Triome
+	2 Grixis Triome
+	2 Jund Triome
+	2 Naya Triome
+	2 Nimo, Bloodbraid Chief
+	2 Silas Renn, Seeker Adept
+	2 Olcot, Grixis Battlemage
+	1 Sedris, Grave Monarch
+	2 Razerunner Clan
+	1 Flamespit Hellkite
+	2 Monumental Rannet
+	2 Etherium Conduit
+	2 Mycolossus
+	2 Stoic Angel
+	2 Syeena, Godtoucher
+	2 Cunning Archdemon
+	2 Sovereign of Steel Wind
+	2 Broodmate Thunder
+	2 Paleohemoth
+	2 Marrow Cruncher
+	2 Lisha of the Azure
+	2 Sculptor's Scepter
+	1 Rafiq, Knight-General
+	2 Spore Shambler
+	2 Sigil of Asha's Aid
+	2 Molten Hellion
+	2 Runadi, Gargantuan Caller
+	1 Kresh, Deathbringer
+	1 Godspeaker Mayael
+	1 Sharuum the Ascendant
+	2 Rakka Mar, Elementalist
+	2 Monstrous Sapherd
+	2 Scavenger's Renown
+	2 Knight of Eos
+	2 Asha's Command
+	2 Battlegrace Sigil
+	2 Endless Hordes
+	1 Ethersworn Enigma
+	1 Archangel of Lost Alara
+	1 Emperor of Undeath
+	1 Thoctar Herdcaller
+	1 Relentless Archangel
+	2 Callio of the Ethersworn
+	2 Shardquake
+	2 Splintering Sphinx
+	2 Extractor Imp
+	2 Salvage Summoner
+	2 Tar Hulk
+	2 Shungus Nod, Fleshcrafter
+	2 Parasitic Frenzy
+	2 Goblin Hordelord
+	2 Seventh Sea Leviathan
+	2 Telemin Restorer
+	2 Seekers of Majesty
+	2 Knight of Vengeance
+	2 Kess, Renegade Arcanist
+	2 Sigil of New Alara
+	1 The Endless Astrolabe
+	1 Malfegor the Butcher
+	1 Conflux Hydra
+	1 Tiyan, Kha of Qasal
+	1 Ajani, Soul Sculptor
+	1 Sarkhan, Dragons' Hunger
+	1 Tezzeret, Prodigal Son
+	1 Maelstrom Shrine
+	2 Avenger of Valeron
+	1 Bolas, Conflux Schemer
+	1 Lich's Obsession
+	1 Elspeth, Returned to Bant
+[uncommon(3)]
+	4 Thunder-Thrash Viashino
+	4 Seer Strix
+	4 Whirler Foundry
+	4 Bant Monument
+	4 Limitless Coil
+	4 Outmatch
+	4 Fungal Rebirth
+	4 Ridgescale Behemoth
+	4 Lifecycle Wurm
+	4 Scalegod Tracker
+	4 Esper Monument
+	4 Grixis Monument
+	4 Jund Monument
+	4 Naya Monument
+	4 Ash Barrens
+	4 Plasma Rift
+	4 Maelstrom Boons
+	4 Sludge Sifter
+	4 Rhox War Monk
+	4 Flurry of Wings
+	4 Pawn of Malfegor
+	4 Tine of Unbending
+	4 Apex Appeasement
+	4 Kederekt Specter
+	4 Twinclaws of Marisi
+	4 Sprouting Thrinax
+	4 Woolly Thoctar
+	4 Palandius Gargoyle
+	4 Shrieking Strix
+	4 Grim Attendant
+	4 Sigiled Gargantuan
+	4 Corrupted Sigil
+	4 Necrotic Germination
+	4 Unbeholden Stalker
+	4 Scrivener's Bloodpact
+	4 Esperzoa
+	4 Armix, Filigree Thrasher
+	4 Bone Shards
+	4 Slime Invocation
+	4 Sigil of Valor
+	4 Escape Route
+	4 Flight Fabricator
+	4 Zombie Haven
+	4 Foraging Viashino
+	4 Limits of Solidarity
+	4 Avalanche Elemental
+	4 Restless Volcano
+	4 Etherium Prison
+	4 White Orchid Paladin
+	4 Regulation Stone
+	4 Architects of Fate
+	4 Nurturing Sunseeder
+	4 Metallic Medic
+	4 Firestoker Exuberant
+	4 Behemoth Seeker
+	4 Prowling Gharial
+	4 Scavenger Wyvern
+	4 Siege of the Savory
+	4 Rannon, Vithian Holdout
+	4 Sedraxis Brute
+	4 Knight-Captain Wyhorn
+	4 Maelstrom Crusade
+	4 Mulchskulker
+	4 Jorshu of Clan Nel Toth
+	4 Vectis Gargoyle
+	4 Volcanic Volley
+	4 Watchtower Lookout
+	4 Minion Maker
+	4 Essence Rejection
+	4 Scrap Slasher
+	4 Benediction Angel
+	4 Path to Exile
+	4 Etherium Whirler
+	4 Unx Alchemist
+	4 Gruesome Realization
+	4 Rannet Stomphowler
+	4 Gargantuan Impact
+	4 Hadran, Nayan Sunseeder
+	4 Chalice of Malfegor
+[common(7)]
+	8 Court Homunculi
+	8 Viashino Fearblade
+	8 Goblin Death-Raider
+	8 Retromancy
+	8 Fiery Fall
+	8 Frontline Mage
+	8 Defiant Incurable
+	8 Pyroclast
+	8 Melted Majesty
+	8 Whispers of the Dead
+	8 Titanic Sledge
+	8 Morbid Celebrant
+	8 Gustglider Exuberant
+	8 Spiny Thallid
+	8 Grisly Survivor
+	8 Fencing Ace
+	8 Sanctum Gargoyle
+	8 Sculptor's Skill
+	8 Ancestral Blade
+	8 Kathari Scavenger
+	8 Silverclad Winder
+	8 Countervailing Winds
+	8 Numbing Chain
+	8 Godseeker Druid
+	8 Feral Undead
+	8 Nesting Homunculus
+	8 Bloodbriar
+	8 Court Archers
+	8 Webweaver Behemoth
+	8 Foundation Fracture
+	8 Devastating Blow
+	8 World-Weary
+	8 Blazing Kathari
+	8 Fieldmist Border
+	8 Akrasan Duelist
+	8 Landscaper Plowbeast
+	8 Gravebane Nacatl
+	8 Crystallize
+	8 Reconstruct
+	8 Guardians of the Sanctum
+	8 Winding Winds
+	8 Planeshift
+	8 Rotting Rager
+	8 Jhessian Smuggler
+	8 Etherium Sculptor
+	8 Delicious Duo
+	8 Soul's Flame
+	8 Hellkite Juvenile
+	8 Thornwhip Runner
+	8 Vithian Alchemist
+	8 Starving Ogre
+	8 Gargantuan Gift
+	8 Veil of Alara
+	8 Rhox Charger
+	8 Onyx Capsule
+	8 Tragic Slip
+	8 Resource Requisition
+	8 Dregscape Reaver
+	8 Cesspool Scrapfiend
+	8 Mask of the Sphinxes
+	8 Ethercaste Knight
+	8 Recoil from Reality
+	8 Attended Aether-Lich
+	8 Blightning
+	8 Reality Lapse
+	8 Exterminate
+	8 Grizzled Leotau
+	8 Windwright Sage
+	8 Qasali Pridemage
+	8 Fire-Field Fiend
+	8 Scavenger Thrash
+	8 Waveskimmer Sentinel
+	8 Mistvein Border
+	8 Veinfire Border
+	8 Firewild Border
+	8 Wildfield Border
+	8 Contaminated Landscape
+	8 Seething Landscape
+	8 Twisted Landscape
+	8 Sheltering Landscape
+	8 Tranquil Landscape
+	8 Territorial Tusker
+	8 Canyon Weaver
+	8 Aspect of the Coatl
+	8 Syncopate
+	8 Unearth
+	8 Saproling Migration
+	8 Edge of Conflux
+	8 Gargantuan Behemoth
+	8 Solitary Thoctar
+	8 Deathspark Elemental
+	8 Aerie Windcaller
+	8 Shining Strike
+	8 Stinging Swarm
+	8 Paladin's Shield
+	8 Spitting Iguanar
+	8 Reckoner's Bargain
+	8 Artificer's Epiphany
+	8 Burning Rebirth
+	8 Marble Capsule
+	8 Messenger's Capsule
+	8 Forbidden Inspiration
+	8 Tidehollow Dominator
+	8 Vedalken Apostate
+	8 Predatory Thrinax
+	8 Relic of Lost Alara
+[foil(1)]
+	12 Court Homunculi
+	12 Viashino Fearblade
+	12 Goblin Death-Raider
+	12 Retromancy
+	12 Fiery Fall
+	12 Frontline Mage
+	12 Defiant Incurable
+	2 Gwafa Hazid, Racketeer
+	12 Pyroclast
+	12 Melted Majesty
+	12 Whispers of the Dead
+	12 Titanic Sledge
+	12 Morbid Celebrant
+	12 Gustglider Exuberant
+	12 Spiny Thallid
+	12 Grisly Survivor
+	12 Fencing Ace
+	12 Sanctum Gargoyle
+	12 Sculptor's Skill
+	12 Ancestral Blade
+	6 Thunder-Thrash Viashino
+	6 Seer Strix
+	12 Kathari Scavenger
+	12 Silverclad Winder
+	12 Countervailing Winds
+	6 Whirler Foundry
+	12 Numbing Chain
+	12 Godseeker Druid
+	12 Feral Undead
+	12 Nesting Homunculus
+	12 Bloodbriar
+	12 Court Archers
+	12 Webweaver Behemoth
+	12 Foundation Fracture
+	12 Devastating Blow
+	12 World-Weary
+	6 Bant Monument
+	12 Blazing Kathari
+	12 Fieldmist Border
+	6 Limitless Coil
+	12 Akrasan Duelist
+	12 Landscaper Plowbeast
+	12 Gravebane Nacatl
+	12 Crystallize
+	12 Reconstruct
+	6 Outmatch
+	12 Guardians of the Sanctum
+	12 Winding Winds
+	12 Planeshift
+	12 Rotting Rager
+	12 Jhessian Smuggler
+	12 Etherium Sculptor
+	12 Delicious Duo
+	12 Soul's Flame
+	12 Hellkite Juvenile
+	12 Thornwhip Runner
+	12 Vithian Alchemist
+	12 Starving Ogre
+	12 Gargantuan Gift
+	6 Fungal Rebirth
+	12 Veil of Alara
+	6 Ridgescale Behemoth
+	12 Rhox Charger
+	12 Onyx Capsule
+	12 Tragic Slip
+	12 Resource Requisition
+	12 Dregscape Reaver
+	2 Undying Devourer
+	12 Cesspool Scrapfiend
+	12 Mask of the Sphinxes
+	12 Ethercaste Knight
+	12 Recoil from Reality
+	12 Attended Aether-Lich
+	12 Blightning
+	12 Reality Lapse
+	12 Exterminate
+	6 Lifecycle Wurm
+	6 Scalegod Tracker
+	12 Grizzled Leotau
+	12 Windwright Sage
+	12 Qasali Pridemage
+	12 Fire-Field Fiend
+	12 Scavenger Thrash
+	12 Waveskimmer Sentinel
+	6 Esper Monument
+	6 Grixis Monument
+	6 Jund Monument
+	6 Naya Monument
+	6 Ash Barrens
+	12 Mistvein Border
+	12 Veinfire Border
+	12 Firewild Border
+	12 Wildfield Border
+	12 Contaminated Landscape
+	12 Seething Landscape
+	12 Twisted Landscape
+	12 Sheltering Landscape
+	12 Tranquil Landscape
+	2 Bant Triome
+	2 Esper Triome
+	2 Grixis Triome
+	2 Jund Triome
+	2 Naya Triome
+	6 Plasma Rift
+	6 Maelstrom Boons
+	6 Sludge Sifter
+	6 Rhox War Monk
+	6 Flurry of Wings
+	6 Pawn of Malfegor
+	6 Tine of Unbending
+	6 Apex Appeasement
+	6 Kederekt Specter
+	6 Twinclaws of Marisi
+	6 Sprouting Thrinax
+	6 Woolly Thoctar
+	6 Palandius Gargoyle
+	6 Shrieking Strix
+	6 Grim Attendant
+	2 Nimo, Bloodbraid Chief
+	6 Sigiled Gargantuan
+	6 Corrupted Sigil
+	6 Necrotic Germination
+	12 Territorial Tusker
+	6 Unbeholden Stalker
+	6 Scrivener's Bloodpact
+	12 Canyon Weaver
+	2 Silas Renn, Seeker Adept
+	2 Olcot, Grixis Battlemage
+	6 Esperzoa
+	6 Armix, Filigree Thrasher
+	6 Bone Shards
+	6 Slime Invocation
+	12 Aspect of the Coatl
+	1 Sedris, Grave Monarch
+	6 Sigil of Valor
+	6 Escape Route
+	6 Flight Fabricator
+	12 Syncopate
+	6 Zombie Haven
+	12 Unearth
+	6 Foraging Viashino
+	6 Limits of Solidarity
+	12 Saproling Migration
+	12 Edge of Conflux
+	2 Razerunner Clan
+	1 Flamespit Hellkite
+	6 Avalanche Elemental
+	6 Restless Volcano
+	2 Monumental Rannet
+	6 Etherium Prison
+	6 White Orchid Paladin
+	2 Etherium Conduit
+	6 Regulation Stone
+	6 Architects of Fate
+	12 Gargantuan Behemoth
+	6 Nurturing Sunseeder
+	6 Metallic Medic
+	6 Firestoker Exuberant
+	6 Behemoth Seeker
+	6 Prowling Gharial
+	6 Scavenger Wyvern
+	6 Siege of the Savory
+	2 Mycolossus
+	12 Solitary Thoctar
+	2 Stoic Angel
+	2 Syeena, Godtoucher
+	2 Cunning Archdemon
+	2 Sovereign of Steel Wind
+	2 Broodmate Thunder
+	2 Paleohemoth
+	6 Rannon, Vithian Holdout
+	6 Sedraxis Brute
+	12 Deathspark Elemental
+	2 Marrow Cruncher
+	2 Lisha of the Azure
+	6 Knight-Captain Wyhorn
+	2 Sculptor's Scepter
+	12 Aerie Windcaller
+	1 Rafiq, Knight-General
+	2 Spore Shambler
+	2 Sigil of Asha's Aid
+	6 Maelstrom Crusade
+	12 Shining Strike
+	12 Stinging Swarm
+	6 Mulchskulker
+	6 Jorshu of Clan Nel Toth
+	6 Vectis Gargoyle
+	2 Molten Hellion
+	2 Runadi, Gargantuan Caller
+	12 Paladin's Shield
+	6 Volcanic Volley
+	12 Spitting Iguanar
+	1 Kresh, Deathbringer
+	1 Godspeaker Mayael
+	1 Sharuum the Ascendant
+	2 Rakka Mar, Elementalist
+	2 Monstrous Sapherd
+	2 Scavenger's Renown
+	2 Knight of Eos
+	2 Asha's Command
+	2 Battlegrace Sigil
+	2 Endless Hordes
+	1 Ethersworn Enigma
+	1 Archangel of Lost Alara
+	1 Emperor of Undeath
+	1 Thoctar Herdcaller
+	1 Relentless Archangel
+	2 Callio of the Ethersworn
+	2 Shardquake
+	2 Splintering Sphinx
+	6 Watchtower Lookout
+	2 Extractor Imp
+	2 Salvage Summoner
+	2 Tar Hulk
+	2 Shungus Nod, Fleshcrafter
+	2 Parasitic Frenzy
+	2 Goblin Hordelord
+	2 Seventh Sea Leviathan
+	2 Telemin Restorer
+	2 Seekers of Majesty
+	2 Knight of Vengeance
+	2 Kess, Renegade Arcanist
+	6 Minion Maker
+	6 Essence Rejection
+	12 Reckoner's Bargain
+	6 Scrap Slasher
+	12 Artificer's Epiphany
+	6 Benediction Angel
+	6 Path to Exile
+	12 Burning Rebirth
+	2 Sigil of New Alara
+	6 Etherium Whirler
+	6 Unx Alchemist
+	6 Gruesome Realization
+	6 Rannet Stomphowler
+	12 Marble Capsule
+	12 Messenger's Capsule
+	1 The Endless Astrolabe
+	1 Malfegor the Butcher
+	1 Conflux Hydra
+	1 Tiyan, Kha of Qasal
+	1 Ajani, Soul Sculptor
+	1 Sarkhan, Dragons' Hunger
+	1 Tezzeret, Prodigal Son
+	12 Forbidden Inspiration
+	12 Tidehollow Dominator
+	6 Gargantuan Impact
+	12 Vedalken Apostate
+	12 Predatory Thrinax
+	6 Hadran, Nayan Sunseeder
+	1 Maelstrom Shrine
+	2 Avenger of Valeron
+	6 Chalice of Malfegor
+	12 Relic of Lost Alara
+	1 Bolas, Conflux Schemer
+	1 Lich's Obsession
+	1 Elspeth, Returned to Bant
+[wildcard(1)]
+	6 Court Homunculi
+	6 Viashino Fearblade
+	6 Goblin Death-Raider
+	6 Retromancy
+	6 Fiery Fall
+	6 Frontline Mage
+	6 Defiant Incurable
+	7 Gwafa Hazid, Racketeer
+	6 Pyroclast
+	6 Melted Majesty
+	6 Whispers of the Dead
+	6 Titanic Sledge
+	6 Morbid Celebrant
+	6 Gustglider Exuberant
+	6 Spiny Thallid
+	6 Grisly Survivor
+	6 Fencing Ace
+	6 Sanctum Gargoyle
+	6 Sculptor's Skill
+	6 Ancestral Blade
+	15 Thunder-Thrash Viashino
+	15 Seer Strix
+	6 Kathari Scavenger
+	6 Silverclad Winder
+	6 Countervailing Winds
+	15 Whirler Foundry
+	6 Numbing Chain
+	6 Godseeker Druid
+	6 Feral Undead
+	6 Nesting Homunculus
+	6 Bloodbriar
+	6 Court Archers
+	6 Webweaver Behemoth
+	6 Foundation Fracture
+	6 Devastating Blow
+	6 World-Weary
+	15 Bant Monument
+	6 Blazing Kathari
+	6 Fieldmist Border
+	15 Limitless Coil
+	6 Akrasan Duelist
+	6 Landscaper Plowbeast
+	6 Gravebane Nacatl
+	6 Crystallize
+	6 Reconstruct
+	15 Outmatch
+	6 Guardians of the Sanctum
+	6 Winding Winds
+	6 Planeshift
+	6 Rotting Rager
+	6 Jhessian Smuggler
+	6 Etherium Sculptor
+	6 Delicious Duo
+	6 Soul's Flame
+	6 Hellkite Juvenile
+	6 Thornwhip Runner
+	6 Vithian Alchemist
+	6 Starving Ogre
+	6 Gargantuan Gift
+	15 Fungal Rebirth
+	6 Veil of Alara
+	15 Ridgescale Behemoth
+	6 Rhox Charger
+	6 Onyx Capsule
+	6 Tragic Slip
+	6 Resource Requisition
+	6 Dregscape Reaver
+	7 Undying Devourer
+	6 Cesspool Scrapfiend
+	6 Mask of the Sphinxes
+	6 Ethercaste Knight
+	6 Recoil from Reality
+	6 Attended Aether-Lich
+	6 Blightning
+	6 Reality Lapse
+	6 Exterminate
+	15 Lifecycle Wurm
+	15 Scalegod Tracker
+	6 Grizzled Leotau
+	6 Windwright Sage
+	6 Qasali Pridemage
+	6 Fire-Field Fiend
+	6 Scavenger Thrash
+	6 Waveskimmer Sentinel
+	15 Esper Monument
+	15 Grixis Monument
+	15 Jund Monument
+	15 Naya Monument
+	15 Ash Barrens
+	6 Mistvein Border
+	6 Veinfire Border
+	6 Firewild Border
+	6 Wildfield Border
+	6 Contaminated Landscape
+	6 Seething Landscape
+	6 Twisted Landscape
+	6 Sheltering Landscape
+	6 Tranquil Landscape
+	7 Bant Triome
+	7 Esper Triome
+	7 Grixis Triome
+	7 Jund Triome
+	7 Naya Triome
+	15 Plasma Rift
+	15 Maelstrom Boons
+	15 Sludge Sifter
+	15 Rhox War Monk
+	15 Flurry of Wings
+	15 Pawn of Malfegor
+	15 Tine of Unbending
+	15 Apex Appeasement
+	15 Kederekt Specter
+	15 Twinclaws of Marisi
+	15 Sprouting Thrinax
+	15 Woolly Thoctar
+	15 Palandius Gargoyle
+	15 Shrieking Strix
+	15 Grim Attendant
+	7 Nimo, Bloodbraid Chief
+	15 Sigiled Gargantuan
+	15 Corrupted Sigil
+	15 Necrotic Germination
+	6 Territorial Tusker
+	15 Unbeholden Stalker
+	15 Scrivener's Bloodpact
+	6 Canyon Weaver
+	7 Silas Renn, Seeker Adept
+	7 Olcot, Grixis Battlemage
+	15 Esperzoa
+	15 Armix, Filigree Thrasher
+	15 Bone Shards
+	15 Slime Invocation
+	6 Aspect of the Coatl
+	4 Sedris, Grave Monarch
+	15 Sigil of Valor
+	15 Escape Route
+	15 Flight Fabricator
+	6 Syncopate
+	15 Zombie Haven
+	6 Unearth
+	15 Foraging Viashino
+	15 Limits of Solidarity
+	6 Saproling Migration
+	6 Edge of Conflux
+	7 Razerunner Clan
+	4 Flamespit Hellkite
+	15 Avalanche Elemental
+	15 Restless Volcano
+	7 Monumental Rannet
+	15 Etherium Prison
+	15 White Orchid Paladin
+	7 Etherium Conduit
+	15 Regulation Stone
+	15 Architects of Fate
+	6 Gargantuan Behemoth
+	15 Nurturing Sunseeder
+	15 Metallic Medic
+	15 Firestoker Exuberant
+	15 Behemoth Seeker
+	15 Prowling Gharial
+	15 Scavenger Wyvern
+	15 Siege of the Savory
+	7 Mycolossus
+	6 Solitary Thoctar
+	7 Stoic Angel
+	7 Syeena, Godtoucher
+	7 Cunning Archdemon
+	7 Sovereign of Steel Wind
+	7 Broodmate Thunder
+	7 Paleohemoth
+	15 Rannon, Vithian Holdout
+	15 Sedraxis Brute
+	6 Deathspark Elemental
+	7 Marrow Cruncher
+	7 Lisha of the Azure
+	15 Knight-Captain Wyhorn
+	7 Sculptor's Scepter
+	6 Aerie Windcaller
+	4 Rafiq, Knight-General
+	7 Spore Shambler
+	7 Sigil of Asha's Aid
+	15 Maelstrom Crusade
+	6 Shining Strike
+	6 Stinging Swarm
+	15 Mulchskulker
+	15 Jorshu of Clan Nel Toth
+	15 Vectis Gargoyle
+	7 Molten Hellion
+	7 Runadi, Gargantuan Caller
+	6 Paladin's Shield
+	15 Volcanic Volley
+	6 Spitting Iguanar
+	4 Kresh, Deathbringer
+	4 Godspeaker Mayael
+	4 Sharuum the Ascendant
+	7 Rakka Mar, Elementalist
+	7 Monstrous Sapherd
+	7 Scavenger's Renown
+	7 Knight of Eos
+	7 Asha's Command
+	7 Battlegrace Sigil
+	7 Endless Hordes
+	4 Ethersworn Enigma
+	4 Archangel of Lost Alara
+	4 Emperor of Undeath
+	4 Thoctar Herdcaller
+	4 Relentless Archangel
+	7 Callio of the Ethersworn
+	7 Shardquake
+	7 Splintering Sphinx
+	15 Watchtower Lookout
+	7 Extractor Imp
+	7 Salvage Summoner
+	7 Tar Hulk
+	7 Shungus Nod, Fleshcrafter
+	7 Parasitic Frenzy
+	7 Goblin Hordelord
+	7 Seventh Sea Leviathan
+	7 Telemin Restorer
+	7 Seekers of Majesty
+	7 Knight of Vengeance
+	7 Kess, Renegade Arcanist
+	15 Minion Maker
+	15 Essence Rejection
+	6 Reckoner's Bargain
+	15 Scrap Slasher
+	6 Artificer's Epiphany
+	15 Benediction Angel
+	15 Path to Exile
+	6 Burning Rebirth
+	7 Sigil of New Alara
+	15 Etherium Whirler
+	15 Unx Alchemist
+	15 Gruesome Realization
+	15 Rannet Stomphowler
+	6 Marble Capsule
+	6 Messenger's Capsule
+	4 The Endless Astrolabe
+	4 Malfegor the Butcher
+	4 Conflux Hydra
+	4 Tiyan, Kha of Qasal
+	4 Ajani, Soul Sculptor
+	4 Sarkhan, Dragons' Hunger
+	4 Tezzeret, Prodigal Son
+	6 Forbidden Inspiration
+	6 Tidehollow Dominator
+	15 Gargantuan Impact
+	6 Vedalken Apostate
+	6 Predatory Thrinax
+	15 Hadran, Nayan Sunseeder
+	4 Maelstrom Shrine
+	7 Avenger of Valeron
+	15 Chalice of Malfegor
+	6 Relic of Lost Alara
+	4 Bolas, Conflux Schemer
+	4 Lich's Obsession
+	4 Elspeth, Returned to Bant
