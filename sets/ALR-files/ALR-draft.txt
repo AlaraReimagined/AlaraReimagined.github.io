@@ -7,7 +7,7 @@
 			"type": "Artifact Creature — Homunculus",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/7_Court Homunculi.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/7_Court Homunculi.png"
 			}
 		},
 		{
@@ -17,7 +17,7 @@
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/126_Viashino Fearblade.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/126_Viashino Fearblade.png"
 			}
 		},
 		{
@@ -27,7 +27,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/106_Goblin Death-Raider.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/106_Goblin Death-Raider.png"
 			}
 		},
 		{
@@ -37,7 +37,7 @@
 			"type": "Sorcery",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/119_Retromancy.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/119_Retromancy.png"
 			}
 		},
 		{
@@ -47,7 +47,7 @@
 			"type": "Instant",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/102_Fiery Fall.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/102_Fiery Fall.png"
 			}
 		},
 		{
@@ -57,7 +57,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/45_Frontline Mage.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/45_Frontline Mage.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Creature — Ogre Mutant",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/99_Defiant Incurable.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/99_Defiant Incurable.png"
 			}
 		},
 		{
@@ -77,7 +77,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/46_Gwafa Hazid, Racketeer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/46_Gwafa Hazid, Racketeer.png"
 			}
 		},
 		{
@@ -87,7 +87,7 @@
 			"type": "Instant",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/115_Pyroclast.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/115_Pyroclast.png"
 			}
 		},
 		{
@@ -97,7 +97,7 @@
 			"type": "Sorcery",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/111_Melted Majesty.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/111_Melted Majesty.png"
 			}
 		},
 		{
@@ -107,7 +107,7 @@
 			"type": "Sorcery",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/94_Whispers of the Dead.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/94_Whispers of the Dead.png"
 			}
 		},
 		{
@@ -117,7 +117,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/158_Titanic Sledge.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/158_Titanic Sledge.png"
 			}
 		},
 		{
@@ -127,7 +127,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/76_Morbid Celebrant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/76_Morbid Celebrant.png"
 			}
 		},
 		{
@@ -137,7 +137,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/13_Gustglider Exuberant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/13_Gustglider Exuberant.png"
 			}
 		},
 		{
@@ -147,7 +147,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/155_Spiny Thallid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/155_Spiny Thallid.png"
 			}
 		},
 		{
@@ -157,7 +157,7 @@
 			"type": "Creature — Minotaur Warrior",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/73_Grisly Survivor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/73_Grisly Survivor.png"
 			}
 		},
 		{
@@ -167,7 +167,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/10_Fencing Ace.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/10_Fencing Ace.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/26_Sanctum Gargoyle.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/26_Sanctum Gargoyle.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/27_Sculptor's Skill.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/27_Sculptor's Skill.png"
 			}
 		},
 		{
@@ -197,7 +197,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/2_Ancestral Blade.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/2_Ancestral Blade.png"
 			}
 		},
 		{
@@ -207,7 +207,7 @@
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/125_Thunder-Thrash Viashino.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/125_Thunder-Thrash Viashino.png"
 			}
 		},
 		{
@@ -217,7 +217,7 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/56_Seer Strix.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/56_Seer Strix.png"
 			}
 		},
 		{
@@ -227,7 +227,7 @@
 			"type": "Creature — Bird Zombie",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/48_Kathari Scavenger.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/48_Kathari Scavenger.png"
 			}
 		},
 		{
@@ -237,7 +237,7 @@
 			"type": "Artifact Creature — Serpent",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/59_Silverclad Winder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/59_Silverclad Winder.png"
 			}
 		},
 		{
@@ -247,7 +247,7 @@
 			"type": "Instant",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/36_Countervailing Winds.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/36_Countervailing Winds.png"
 			}
 		},
 		{
@@ -257,7 +257,7 @@
 			"type": "Artifact",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/63_Whirler Foundry.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/63_Whirler Foundry.png"
 			}
 		},
 		{
@@ -267,7 +267,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/51_Numbing Chain.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/51_Numbing Chain.png"
 			}
 		},
 		{
@@ -277,7 +277,7 @@
 			"type": "Creature — Elf Druid",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/139_Godseeker Druid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/139_Godseeker Druid.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Creature — Zombie",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/72_Feral Undead.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/72_Feral Undead.png"
 			}
 		},
 		{
@@ -297,7 +297,7 @@
 			"type": "Artifact Creature — Homunculus",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/77_Nesting Homunculus.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/77_Nesting Homunculus.png"
 			}
 		},
 		{
@@ -307,7 +307,7 @@
 			"type": "Creature — Plant Elemental",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/132_Bloodbriar.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/132_Bloodbriar.png"
 			}
 		},
 		{
@@ -317,7 +317,7 @@
 			"type": "Creature — Human Archer",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/133_Court Archers.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/133_Court Archers.png"
 			}
 		},
 		{
@@ -327,7 +327,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/160_Webweaver Behemoth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/160_Webweaver Behemoth.png"
 			}
 		},
 		{
@@ -337,7 +337,7 @@
 			"type": "Sorcery",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/136_Foundation Fracture.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/136_Foundation Fracture.png"
 			}
 		},
 		{
@@ -347,7 +347,7 @@
 			"type": "Instant",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/134_Devastating Blow.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/134_Devastating Blow.png"
 			}
 		},
 		{
@@ -357,7 +357,7 @@
 			"type": "Enchantment — Aura",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/95_World-Weary.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/95_World-Weary.png"
 			}
 		},
 		{
@@ -367,7 +367,7 @@
 			"type": "Artifact",
 			"collector_number": "231",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/231_Bant Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/231_Bant Monument.png"
 			}
 		},
 		{
@@ -377,7 +377,7 @@
 			"type": "Creature — Bird Shaman",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/67_Blazing Kathari.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/67_Blazing Kathari.png"
 			}
 		},
 		{
@@ -387,7 +387,7 @@
 			"type": "Land",
 			"collector_number": "245",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/245_Fieldmist Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/245_Fieldmist Border.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Artifact",
 			"collector_number": "237",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/237_Limitless Coil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/237_Limitless Coil.png"
 			}
 		},
 		{
@@ -407,7 +407,7 @@
 			"type": "Creature — Human Soldier",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/1_Akrasan Duelist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/1_Akrasan Duelist.png"
 			}
 		},
 		{
@@ -417,7 +417,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/16_Landscaper Plowbeast.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/16_Landscaper Plowbeast.png"
 			}
 		},
 		{
@@ -427,7 +427,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/11_Gravebane Nacatl.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/11_Gravebane Nacatl.png"
 			}
 		},
 		{
@@ -437,7 +437,7 @@
 			"type": "Enchantment",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/8_Crystallize.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/8_Crystallize.png"
 			}
 		},
 		{
@@ -447,7 +447,7 @@
 			"type": "Sorcery",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/24_Reconstruct.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/24_Reconstruct.png"
 			}
 		},
 		{
@@ -457,7 +457,7 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/21_Outmatch.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/21_Outmatch.png"
 			}
 		},
 		{
@@ -467,7 +467,7 @@
 			"type": "Artifact Creature — Human Soldier",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/12_Guardians of the Sanctum.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/12_Guardians of the Sanctum.png"
 			}
 		},
 		{
@@ -477,7 +477,7 @@
 			"type": "Sorcery",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/64_Winding Winds.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/64_Winding Winds.png"
 			}
 		},
 		{
@@ -487,7 +487,7 @@
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/52_Planeshift.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/52_Planeshift.png"
 			}
 		},
 		{
@@ -497,7 +497,7 @@
 			"type": "Creature — Zombie Ogre",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/82_Rotting Rager.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/82_Rotting Rager.png"
 			}
 		},
 		{
@@ -507,7 +507,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/47_Jhessian Smuggler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/47_Jhessian Smuggler.png"
 			}
 		},
 		{
@@ -517,7 +517,7 @@
 			"type": "Artifact Creature — Vedalken Artificer",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/41_Etherium Sculptor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/41_Etherium Sculptor.png"
 			}
 		},
 		{
@@ -527,7 +527,7 @@
 			"type": "Sorcery",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/100_Delicious Duo.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/100_Delicious Duo.png"
 			}
 		},
 		{
@@ -537,7 +537,7 @@
 			"type": "Instant",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/121_Soul's Flame.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/121_Soul's Flame.png"
 			}
 		},
 		{
@@ -547,7 +547,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/109_Hellkite Juvenile.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/109_Hellkite Juvenile.png"
 			}
 		},
 		{
@@ -557,7 +557,7 @@
 			"type": "Creature — Human Scout",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/124_Thornwhip Runner.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/124_Thornwhip Runner.png"
 			}
 		},
 		{
@@ -567,7 +567,7 @@
 			"type": "Creature — Human Shaman",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/127_Vithian Alchemist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/127_Vithian Alchemist.png"
 			}
 		},
 		{
@@ -577,7 +577,7 @@
 			"type": "Creature — Ogre Mutant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/123_Starving Ogre.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/123_Starving Ogre.png"
 			}
 		},
 		{
@@ -587,7 +587,7 @@
 			"type": "Sorcery",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/138_Gargantuan Gift.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/138_Gargantuan Gift.png"
 			}
 		},
 		{
@@ -597,7 +597,7 @@
 			"type": "Instant",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/137_Fungal Rebirth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/137_Fungal Rebirth.png"
 			}
 		},
 		{
@@ -607,7 +607,7 @@
 			"type": "Instant",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/159_Veil of Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/159_Veil of Alara.png"
 			}
 		},
 		{
@@ -617,7 +617,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/148_Ridgescale Behemoth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/148_Ridgescale Behemoth.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Creature — Rhino Soldier",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/147_Rhox Charger.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/147_Rhox Charger.png"
 			}
 		},
 		{
@@ -637,7 +637,7 @@
 			"type": "Artifact",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/78_Onyx Capsule.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/78_Onyx Capsule.png"
 			}
 		},
 		{
@@ -647,7 +647,7 @@
 			"type": "Instant",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/90_Tragic Slip.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/90_Tragic Slip.png"
 			}
 		},
 		{
@@ -657,7 +657,7 @@
 			"type": "Sorcery",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/81_Resource Requisition.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/81_Resource Requisition.png"
 			}
 		},
 		{
@@ -667,7 +667,7 @@
 			"type": "Creature — Zombie Beast",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/69_Dregscape Reaver.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/69_Dregscape Reaver.png"
 			}
 		},
 		{
@@ -677,7 +677,7 @@
 			"type": "Artifact Creature — Golem",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/91_Undying Devourer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/91_Undying Devourer.png"
 			}
 		},
 		{
@@ -687,7 +687,7 @@
 			"type": "Artifact Creature — Horror",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/169_Cesspool Scrapfiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/169_Cesspool Scrapfiend.png"
 			}
 		},
 		{
@@ -697,7 +697,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/49_Mask of the Sphinxes.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/49_Mask of the Sphinxes.png"
 			}
 		},
 		{
@@ -707,7 +707,7 @@
 			"type": "Artifact Creature — Human Knight",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/175_Ethercaste Knight.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/175_Ethercaste Knight.png"
 			}
 		},
 		{
@@ -717,7 +717,7 @@
 			"type": "Instant",
 			"collector_number": "203",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/203_Recoil from Reality.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/203_Recoil from Reality.png"
 			}
 		},
 		{
@@ -727,7 +727,7 @@
 			"type": "Artifact Creature — Zombie Wizard",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/35_Attended Aether-Lich.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/35_Attended Aether-Lich.png"
 			}
 		},
 		{
@@ -737,7 +737,7 @@
 			"type": "Sorcery",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/164_Blightning.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/164_Blightning.png"
 			}
 		},
 		{
@@ -747,7 +747,7 @@
 			"type": "Instant",
 			"collector_number": "202",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/202_Reality Lapse.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/202_Reality Lapse.png"
 			}
 		},
 		{
@@ -757,7 +757,7 @@
 			"type": "Instant",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/176_Exterminate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/176_Exterminate.png"
 			}
 		},
 		{
@@ -767,7 +767,7 @@
 			"type": "Creature — Wurm",
 			"collector_number": "189",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/189_Lifecycle Wurm.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/189_Lifecycle Wurm.png"
 			}
 		},
 		{
@@ -777,7 +777,7 @@
 			"type": "Creature — Elf Shaman",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/151_Scalegod Tracker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/151_Scalegod Tracker.png"
 			}
 		},
 		{
@@ -787,7 +787,7 @@
 			"type": "Creature — Cat",
 			"collector_number": "184",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/184_Grizzled Leotau.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/184_Grizzled Leotau.png"
 			}
 		},
 		{
@@ -797,7 +797,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "229",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/229_Windwright Sage.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/229_Windwright Sage.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Creature — Cat Wizard",
 			"collector_number": "200",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/200_Qasali Pridemage.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/200_Qasali Pridemage.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Creature — Ogre Mutant",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/177_Fire-Field Fiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/177_Fire-Field Fiend.png"
 			}
 		},
 		{
@@ -827,7 +827,7 @@
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "206",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/206_Scavenger Thrash.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/206_Scavenger Thrash.png"
 			}
 		},
 		{
@@ -837,7 +837,7 @@
 			"type": "Creature — Bird Soldier",
 			"collector_number": "228",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/228_Waveskimmer Sentinel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/228_Waveskimmer Sentinel.png"
 			}
 		},
 		{
@@ -847,7 +847,7 @@
 			"type": "Artifact",
 			"collector_number": "233",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/233_Esper Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/233_Esper Monument.png"
 			}
 		},
 		{
@@ -857,7 +857,7 @@
 			"type": "Artifact",
 			"collector_number": "234",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/234_Grixis Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/234_Grixis Monument.png"
 			}
 		},
 		{
@@ -867,7 +867,7 @@
 			"type": "Artifact",
 			"collector_number": "235",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/235_Jund Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/235_Jund Monument.png"
 			}
 		},
 		{
@@ -877,7 +877,7 @@
 			"type": "Artifact",
 			"collector_number": "238",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/238_Naya Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/238_Naya Monument.png"
 			}
 		},
 		{
@@ -887,7 +887,7 @@
 			"type": "Land",
 			"collector_number": "241",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/241_Ash Barrens.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/241_Ash Barrens.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Land",
 			"collector_number": "250",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/250_Mistvein Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/250_Mistvein Border.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Land",
 			"collector_number": "256",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/256_Veinfire Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/256_Veinfire Border.png"
 			}
 		},
 		{
@@ -917,7 +917,7 @@
 			"type": "Land",
 			"collector_number": "246",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/246_Firewild Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/246_Firewild Border.png"
 			}
 		},
 		{
@@ -927,7 +927,7 @@
 			"type": "Land",
 			"collector_number": "257",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/257_Wildfield Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/257_Wildfield Border.png"
 			}
 		},
 		{
@@ -937,7 +937,7 @@
 			"type": "Land",
 			"collector_number": "243",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/243_Contaminated Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/243_Contaminated Landscape.png"
 			}
 		},
 		{
@@ -947,7 +947,7 @@
 			"type": "Land",
 			"collector_number": "252",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/252_Seething Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/252_Seething Landscape.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Land",
 			"collector_number": "255",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/255_Twisted Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/255_Twisted Landscape.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Land",
 			"collector_number": "253",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/253_Sheltering Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/253_Sheltering Landscape.png"
 			}
 		},
 		{
@@ -977,7 +977,7 @@
 			"type": "Land",
 			"collector_number": "254",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/254_Tranquil Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/254_Tranquil Landscape.png"
 			}
 		},
 		{
@@ -987,7 +987,7 @@
 			"type": "Land — Forest Plains Island",
 			"collector_number": "242",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/242_Bant Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/242_Bant Triome.png"
 			}
 		},
 		{
@@ -997,7 +997,7 @@
 			"type": "Land — Plains Island Swamp",
 			"collector_number": "244",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/244_Esper Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/244_Esper Triome.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Land — Island Swamp Mountain",
 			"collector_number": "247",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/247_Grixis Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/247_Grixis Triome.png"
 			}
 		},
 		{
@@ -1017,7 +1017,7 @@
 			"type": "Land — Swamp Mountain Forest",
 			"collector_number": "248",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/248_Jund Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/248_Jund Triome.png"
 			}
 		},
 		{
@@ -1027,7 +1027,7 @@
 			"type": "Land — Mountain Forest Plains",
 			"collector_number": "251",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/251_Naya Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/251_Naya Triome.png"
 			}
 		},
 		{
@@ -1037,7 +1037,7 @@
 			"type": "Enchantment",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/114_Plasma Rift.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/114_Plasma Rift.png"
 			}
 		},
 		{
@@ -1047,7 +1047,7 @@
 			"type": "Enchantment",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/141_Maelstrom Boons.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/141_Maelstrom Boons.png"
 			}
 		},
 		{
@@ -1057,7 +1057,7 @@
 			"type": "Artifact Creature — Insect",
 			"collector_number": "214",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/214_Sludge Sifter.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/214_Sludge Sifter.png"
 			}
 		},
 		{
@@ -1067,7 +1067,7 @@
 			"type": "Creature — Rhino Monk",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/204_Rhox War Monk.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/204_Rhox War Monk.png"
 			}
 		},
 		{
@@ -1077,7 +1077,7 @@
 			"type": "Instant",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/178_Flurry of Wings.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/178_Flurry of Wings.png"
 			}
 		},
 		{
@@ -1087,7 +1087,7 @@
 			"type": "Instant",
 			"collector_number": "198",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/198_Pawn of Malfegor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/198_Pawn of Malfegor.png"
 			}
 		},
 		{
@@ -1097,7 +1097,7 @@
 			"type": "Artifact",
 			"collector_number": "223",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/223_Tine of Unbending.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/223_Tine of Unbending.png"
 			}
 		},
 		{
@@ -1107,7 +1107,7 @@
 			"type": "Enchantment",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/162_Apex Appeasement.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/162_Apex Appeasement.png"
 			}
 		},
 		{
@@ -1117,7 +1117,7 @@
 			"type": "Creature — Specter",
 			"collector_number": "185",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/185_Kederekt Specter.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/185_Kederekt Specter.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Creature — Cat Warrior",
 			"collector_number": "225",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/225_Twinclaws of Marisi.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/225_Twinclaws of Marisi.png"
 			}
 		},
 		{
@@ -1137,7 +1137,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "216",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/216_Sprouting Thrinax.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/216_Sprouting Thrinax.png"
 			}
 		},
 		{
@@ -1147,7 +1147,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "230",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/230_Woolly Thoctar.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/230_Woolly Thoctar.png"
 			}
 		},
 		{
@@ -1157,7 +1157,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/196_Palandius Gargoyle.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/196_Palandius Gargoyle.png"
 			}
 		},
 		{
@@ -1167,7 +1167,7 @@
 			"type": "Artifact Creature — Bird",
 			"collector_number": "211",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/211_Shrieking Strix.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/211_Shrieking Strix.png"
 			}
 		},
 		{
@@ -1177,7 +1177,7 @@
 			"type": "Creature — Human Wizard",
 			"collector_number": "183",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/183_Grim Attendant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/183_Grim Attendant.png"
 			}
 		},
 		{
@@ -1187,7 +1187,7 @@
 			"type": "Legendary Creature — Elf Berserker",
 			"collector_number": "194",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/194_Nimo, Bloodbraid Chief.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/194_Nimo, Bloodbraid Chief.png"
 			}
 		},
 		{
@@ -1197,7 +1197,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "212",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/212_Sigiled Gargantuan.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/212_Sigiled Gargantuan.png"
 			}
 		},
 		{
@@ -1207,7 +1207,7 @@
 			"type": "Artifact",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/171_Corrupted Sigil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/171_Corrupted Sigil.png"
 			}
 		},
 		{
@@ -1217,7 +1217,7 @@
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/193_Necrotic Germination.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/193_Necrotic Germination.png"
 			}
 		},
 		{
@@ -1227,7 +1227,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "220",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/220_Territorial Tusker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/220_Territorial Tusker.png"
 			}
 		},
 		{
@@ -1237,7 +1237,7 @@
 			"type": "Creature — Human Rogue",
 			"collector_number": "226",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/226_Unbeholden Stalker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/226_Unbeholden Stalker.png"
 			}
 		},
 		{
@@ -1247,7 +1247,7 @@
 			"type": "Enchantment",
 			"collector_number": "207",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/207_Scrivener's Bloodpact.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/207_Scrivener's Bloodpact.png"
 			}
 		},
 		{
@@ -1257,7 +1257,7 @@
 			"type": "Creature — Spider",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/168_Canyon Weaver.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/168_Canyon Weaver.png"
 			}
 		},
 		{
@@ -1267,7 +1267,7 @@
 			"type": "Legendary Artifact Creature — Human",
 			"collector_number": "213",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/213_Silas Renn, Seeker Adept.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/213_Silas Renn, Seeker Adept.png"
 			}
 		},
 		{
@@ -1277,7 +1277,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "195",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/195_Olcot, Grixis Battlemage.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/195_Olcot, Grixis Battlemage.png"
 			}
 		},
 		{
@@ -1287,7 +1287,7 @@
 			"type": "Artifact Creature — Jellyfish",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/38_Esperzoa.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/38_Esperzoa.png"
 			}
 		},
 		{
@@ -1297,7 +1297,7 @@
 			"type": "Legendary Artifact Creature — Golem",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/66_Armix, Filigree Thrasher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/66_Armix, Filigree Thrasher.png"
 			}
 		},
 		{
@@ -1307,7 +1307,7 @@
 			"type": "Sorcery",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/68_Bone Shards.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/68_Bone Shards.png"
 			}
 		},
 		{
@@ -1317,7 +1317,7 @@
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/153_Slime Invocation.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/153_Slime Invocation.png"
 			}
 		},
 		{
@@ -1327,7 +1327,7 @@
 			"type": "Instant",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/129_Aspect of the Coatl.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/129_Aspect of the Coatl.png"
 			}
 		},
 		{
@@ -1337,7 +1337,7 @@
 			"type": "Legendary Creature — Zombie Warrior",
 			"collector_number": "208",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/208_Sedris, Grave Monarch.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/208_Sedris, Grave Monarch.png"
 			}
 		},
 		{
@@ -1347,7 +1347,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "240",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/240_Sigil of Valor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/240_Sigil of Valor.png"
 			}
 		},
 		{
@@ -1357,7 +1357,7 @@
 			"type": "Enchantment",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/37_Escape Route.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/37_Escape Route.png"
 			}
 		},
 		{
@@ -1367,7 +1367,7 @@
 			"type": "Artifact Creature — Vedalken Wizard",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/44_Flight Fabricator.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/44_Flight Fabricator.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Instant",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/61_Syncopate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/61_Syncopate.png"
 			}
 		},
 		{
@@ -1387,7 +1387,7 @@
 			"type": "Enchantment",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/96_Zombie Haven.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/96_Zombie Haven.png"
 			}
 		},
 		{
@@ -1397,7 +1397,7 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/92_Unearth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/92_Unearth.png"
 			}
 		},
 		{
@@ -1407,7 +1407,7 @@
 			"type": "Creature — Lizard Shaman",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/105_Foraging Viashino.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/105_Foraging Viashino.png"
 			}
 		},
 		{
@@ -1417,7 +1417,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/110_Limits of Solidarity.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/110_Limits of Solidarity.png"
 			}
 		},
 		{
@@ -1427,7 +1427,7 @@
 			"type": "Sorcery",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/150_Saproling Migration.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/150_Saproling Migration.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/135_Edge of Conflux.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/135_Edge of Conflux.png"
 			}
 		},
 		{
@@ -1447,7 +1447,7 @@
 			"type": "Creature — Goblin Warrior",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/117_Razerunner Clan.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/117_Razerunner Clan.png"
 			}
 		},
 		{
@@ -1457,7 +1457,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/104_Flamespit Hellkite.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/104_Flamespit Hellkite.png"
 			}
 		},
 		{
@@ -1467,7 +1467,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/97_Avalanche Elemental.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/97_Avalanche Elemental.png"
 			}
 		},
 		{
@@ -1477,7 +1477,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/118_Restless Volcano.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/118_Restless Volcano.png"
 			}
 		},
 		{
@@ -1487,7 +1487,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/113_Monumental Rannet.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/113_Monumental Rannet.png"
 			}
 		},
 		{
@@ -1497,7 +1497,7 @@
 			"type": "Artifact",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/9_Etherium Prison.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/9_Etherium Prison.png"
 			}
 		},
 		{
@@ -1507,7 +1507,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/32_White Orchid Paladin.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/32_White Orchid Paladin.png"
 			}
 		},
 		{
@@ -1517,7 +1517,7 @@
 			"type": "Artifact Creature — Vedalken Wizard",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/40_Etherium Conduit.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/40_Etherium Conduit.png"
 			}
 		},
 		{
@@ -1527,7 +1527,7 @@
 			"type": "Artifact",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/54_Regulation Stone.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/54_Regulation Stone.png"
 			}
 		},
 		{
@@ -1537,7 +1537,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/65_Architects of Fate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/65_Architects of Fate.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "180",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/180_Gargantuan Behemoth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/180_Gargantuan Behemoth.png"
 			}
 		},
 		{
@@ -1557,7 +1557,7 @@
 			"type": "Creature — Human Druid Wizard",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/20_Nurturing Sunseeder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/20_Nurturing Sunseeder.png"
 			}
 		},
 		{
@@ -1567,7 +1567,7 @@
 			"type": "Artifact Creature — Human Cleric",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/19_Metallic Medic.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/19_Metallic Medic.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Creature — Human Druid Shaman",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/103_Firestoker Exuberant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/103_Firestoker Exuberant.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Creature — Human Druid Warrior",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/131_Behemoth Seeker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/131_Behemoth Seeker.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Creature — Crocodile",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/145_Prowling Gharial.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/145_Prowling Gharial.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Creature — Drake",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/84_Scavenger Wyvern.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/84_Scavenger Wyvern.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Enchantment",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/120_Siege of the Savory.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/120_Siege of the Savory.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Creature — Fungus",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/144_Mycolossus.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/144_Mycolossus.png"
 			}
 		},
 		{
@@ -1637,7 +1637,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/154_Solitary Thoctar.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/154_Solitary Thoctar.png"
 			}
 		},
 		{
@@ -1647,7 +1647,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "217",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/217_Stoic Angel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/217_Stoic Angel.png"
 			}
 		},
 		{
@@ -1657,7 +1657,7 @@
 			"type": "Legendary Creature — Elf Shaman",
 			"collector_number": "218",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/218_Syeena, Godtoucher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/218_Syeena, Godtoucher.png"
 			}
 		},
 		{
@@ -1667,7 +1667,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/172_Cunning Archdemon.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/172_Cunning Archdemon.png"
 			}
 		},
 		{
@@ -1677,7 +1677,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "215",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/215_Sovereign of Steel Wind.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/215_Sovereign of Steel Wind.png"
 			}
 		},
 		{
@@ -1687,7 +1687,7 @@
 			"type": "Creature — Dragon",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/166_Broodmate Thunder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/166_Broodmate Thunder.png"
 			}
 		},
 		{
@@ -1697,7 +1697,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "197",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/197_Paleohemoth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/197_Paleohemoth.png"
 			}
 		},
 		{
@@ -1707,7 +1707,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/53_Rannon, Vithian Holdout.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/53_Rannon, Vithian Holdout.png"
 			}
 		},
 		{
@@ -1717,7 +1717,7 @@
 			"type": "Creature — Zombie Giant",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/86_Sedraxis Brute.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/86_Sedraxis Brute.png"
 			}
 		},
 		{
@@ -1727,7 +1727,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/98_Deathspark Elemental.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/98_Deathspark Elemental.png"
 			}
 		},
 		{
@@ -1737,7 +1737,7 @@
 			"type": "Creature — Zombie Lizard",
 			"collector_number": "192",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/192_Marrow Cruncher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/192_Marrow Cruncher.png"
 			}
 		},
 		{
@@ -1747,7 +1747,7 @@
 			"type": "Legendary Creature — Human Rogue",
 			"collector_number": "190",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/190_Lisha of the Azure.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/190_Lisha of the Azure.png"
 			}
 		},
 		{
@@ -1757,7 +1757,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/15_Knight-Captain Wyhorn.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/15_Knight-Captain Wyhorn.png"
 			}
 		},
 		{
@@ -1767,7 +1767,7 @@
 			"type": "Legendary Artifact — Equipment",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/55_Sculptor's Scepter.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/55_Sculptor's Scepter.png"
 			}
 		},
 		{
@@ -1777,7 +1777,7 @@
 			"type": "Creature — Bird Wizard",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/33_Aerie Windcaller.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/33_Aerie Windcaller.png"
 			}
 		},
 		{
@@ -1787,7 +1787,7 @@
 			"type": "Legendary Creature — Human Knight",
 			"collector_number": "201",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/201_Rafiq, Knight-General.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/201_Rafiq, Knight-General.png"
 			}
 		},
 		{
@@ -1797,7 +1797,7 @@
 			"type": "Creature — Fungus Horror",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/156_Spore Shambler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/156_Spore Shambler.png"
 			}
 		},
 		{
@@ -1807,7 +1807,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/29_Sigil of Asha's Aid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/29_Sigil of Asha's Aid.png"
 			}
 		},
 		{
@@ -1817,7 +1817,7 @@
 			"type": "Enchantment",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/17_Maelstrom Crusade.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/17_Maelstrom Crusade.png"
 			}
 		},
 		{
@@ -1827,7 +1827,7 @@
 			"type": "Sorcery",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/28_Shining Strike.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/28_Shining Strike.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Sorcery",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/88_Stinging Swarm.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/88_Stinging Swarm.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Creature — Elemental",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/143_Mulchskulker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/143_Mulchskulker.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/140_Jorshu of Clan Nel Toth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/140_Jorshu of Clan Nel Toth.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Artifact Creature — Gargoyle",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/31_Vectis Gargoyle.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/31_Vectis Gargoyle.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Creature — Hellion",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/112_Molten Hellion.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/112_Molten Hellion.png"
 			}
 		},
 		{
@@ -1887,7 +1887,7 @@
 			"type": "Legendary Creature — Cat Shaman",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/149_Runadi, Gargantuan Caller.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/149_Runadi, Gargantuan Caller.png"
 			}
 		},
 		{
@@ -1897,7 +1897,7 @@
 			"type": "Artifact — Equipment",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/22_Paladin's Shield.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/22_Paladin's Shield.png"
 			}
 		},
 		{
@@ -1907,7 +1907,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/128_Volcanic Volley.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/128_Volcanic Volley.png"
 			}
 		},
 		{
@@ -1917,7 +1917,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/122_Spitting Iguanar.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/122_Spitting Iguanar.png"
 			}
 		},
 		{
@@ -1927,7 +1927,7 @@
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/188_Kresh, Deathbringer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/188_Kresh, Deathbringer.png"
 			}
 		},
 		{
@@ -1937,7 +1937,7 @@
 			"type": "Legendary Creature — Elf Shaman",
 			"collector_number": "182",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/182_Godspeaker Mayael.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/182_Godspeaker Mayael.png"
 			}
 		},
 		{
@@ -1947,7 +1947,7 @@
 			"type": "Legendary Artifact Creature — Sphinx",
 			"collector_number": "210",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/210_Sharuum the Ascendant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/210_Sharuum the Ascendant.png"
 			}
 		},
 		{
@@ -1957,7 +1957,7 @@
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/116_Rakka Mar, Elementalist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/116_Rakka Mar, Elementalist.png"
 			}
 		},
 		{
@@ -1967,7 +1967,7 @@
 			"type": "Creature — Fungus Beast",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/142_Monstrous Sapherd.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/142_Monstrous Sapherd.png"
 			}
 		},
 		{
@@ -1977,7 +1977,7 @@
 			"type": "Enchantment",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/152_Scavenger's Renown.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/152_Scavenger's Renown.png"
 			}
 		},
 		{
@@ -1987,7 +1987,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/14_Knight of Eos.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/14_Knight of Eos.png"
 			}
 		},
 		{
@@ -1997,7 +1997,7 @@
 			"type": "Sorcery",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/3_Asha's Command.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Asha's Command.png"
 			}
 		},
 		{
@@ -2007,7 +2007,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/4_Battlegrace Sigil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/4_Battlegrace Sigil.png"
 			}
 		},
 		{
@@ -2017,7 +2017,7 @@
 			"type": "Enchantment",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/101_Endless Hordes.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/101_Endless Hordes.png"
 			}
 		},
 		{
@@ -2027,7 +2027,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/43_Ethersworn Enigma.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/43_Ethersworn Enigma.png"
 			}
 		},
 		{
@@ -2037,7 +2037,7 @@
 			"type": "Artifact Creature — Angel",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/163_Archangel of Lost Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/163_Archangel of Lost Alara.png"
 			}
 		},
 		{
@@ -2047,7 +2047,7 @@
 			"type": "Creature — Demon",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/70_Emperor of Undeath.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/70_Emperor of Undeath.png"
 			}
 		},
 		{
@@ -2057,7 +2057,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/157_Thoctar Herdcaller.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/157_Thoctar Herdcaller.png"
 			}
 		},
 		{
@@ -2067,7 +2067,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/25_Relentless Archangel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/25_Relentless Archangel.png"
 			}
 		},
 		{
@@ -2077,7 +2077,7 @@
 			"type": "Legendary Artifact Creature — Human",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/6_Callio of the Ethersworn.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/6_Callio of the Ethersworn.png"
 			}
 		},
 		{
@@ -2087,7 +2087,7 @@
 			"type": "Sorcery",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/58_Shardquake.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/58_Shardquake.png"
 			}
 		},
 		{
@@ -2097,7 +2097,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/60_Splintering Sphinx.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/60_Splintering Sphinx.png"
 			}
 		},
 		{
@@ -2107,7 +2107,7 @@
 			"type": "Creature — Human Rogue Scout",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/62_Watchtower Lookout.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/62_Watchtower Lookout.png"
 			}
 		},
 		{
@@ -2117,7 +2117,7 @@
 			"type": "Creature — Imp",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/71_Extractor Imp.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/71_Extractor Imp.png"
 			}
 		},
 		{
@@ -2127,7 +2127,7 @@
 			"type": "Artifact Creature — Sphinx",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/83_Salvage Summoner.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/83_Salvage Summoner.png"
 			}
 		},
 		{
@@ -2137,7 +2137,7 @@
 			"type": "Creature — Elemental Ooze",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/89_Tar Hulk.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/89_Tar Hulk.png"
 			}
 		},
 		{
@@ -2147,7 +2147,7 @@
 			"type": "Legendary Creature — Zombie Wizard",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/87_Shungus Nod, Fleshcrafter.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/87_Shungus Nod, Fleshcrafter.png"
 			}
 		},
 		{
@@ -2157,7 +2157,7 @@
 			"type": "Sorcery",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/79_Parasitic Frenzy.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/79_Parasitic Frenzy.png"
 			}
 		},
 		{
@@ -2167,7 +2167,7 @@
 			"type": "Creature — Goblin Zombie",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/107_Goblin Hordelord.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/107_Goblin Hordelord.png"
 			}
 		},
 		{
@@ -2177,7 +2177,7 @@
 			"type": "Artifact Creature — Leviathan",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/57_Seventh Sea Leviathan.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/57_Seventh Sea Leviathan.png"
 			}
 		},
 		{
@@ -2187,7 +2187,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "219",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/219_Telemin Restorer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/219_Telemin Restorer.png"
 			}
 		},
 		{
@@ -2197,7 +2197,7 @@
 			"type": "Creature — Elf Rogue",
 			"collector_number": "209",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/209_Seekers of Majesty.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/209_Seekers of Majesty.png"
 			}
 		},
 		{
@@ -2207,7 +2207,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "187",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/187_Knight of Vengeance.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/187_Knight of Vengeance.png"
 			}
 		},
 		{
@@ -2217,7 +2217,7 @@
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "186",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/186_Kess, Renegade Arcanist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/186_Kess, Renegade Arcanist.png"
 			}
 		},
 		{
@@ -2227,7 +2227,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/75_Minion Maker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/75_Minion Maker.png"
 			}
 		},
 		{
@@ -2237,7 +2237,7 @@
 			"type": "Instant",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/39_Essence Rejection.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/39_Essence Rejection.png"
 			}
 		},
 		{
@@ -2247,7 +2247,7 @@
 			"type": "Instant",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/80_Reckoner's Bargain.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/80_Reckoner's Bargain.png"
 			}
 		},
 		{
@@ -2257,7 +2257,7 @@
 			"type": "Artifact Creature — Human Assassin",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/85_Scrap Slasher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/85_Scrap Slasher.png"
 			}
 		},
 		{
@@ -2267,7 +2267,7 @@
 			"type": "Instant",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/34_Artificer's Epiphany.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/34_Artificer's Epiphany.png"
 			}
 		},
 		{
@@ -2277,7 +2277,7 @@
 			"type": "Creature — Angel",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/5_Benediction Angel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/5_Benediction Angel.png"
 			}
 		},
 		{
@@ -2287,7 +2287,7 @@
 			"type": "Instant",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/23_Path to Exile.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/23_Path to Exile.png"
 			}
 		},
 		{
@@ -2297,7 +2297,7 @@
 			"type": "Instant",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/167_Burning Rebirth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/167_Burning Rebirth.png"
 			}
 		},
 		{
@@ -2307,7 +2307,7 @@
 			"type": "Artifact",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/30_Sigil of New Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/30_Sigil of New Alara.png"
 			}
 		},
 		{
@@ -2317,7 +2317,7 @@
 			"type": "Artifact Creature — Human Rogue",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/42_Etherium Whirler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/42_Etherium Whirler.png"
 			}
 		},
 		{
@@ -2327,7 +2327,7 @@
 			"type": "Artifact Creature — Zombie Wizard",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/93_Unx Alchemist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/93_Unx Alchemist.png"
 			}
 		},
 		{
@@ -2337,7 +2337,7 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/74_Gruesome Realization.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/74_Gruesome Realization.png"
 			}
 		},
 		{
@@ -2347,7 +2347,7 @@
 			"type": "Creature — Beast",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/146_Rannet Stomphowler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/146_Rannet Stomphowler.png"
 			}
 		},
 		{
@@ -2357,7 +2357,7 @@
 			"type": "Artifact",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/18_Marble Capsule.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/18_Marble Capsule.png"
 			}
 		},
 		{
@@ -2367,7 +2367,7 @@
 			"type": "Artifact",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/50_Messenger's Capsule.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/50_Messenger's Capsule.png"
 			}
 		},
 		{
@@ -2377,7 +2377,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/174_The Endless Astrolabe.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/174_The Endless Astrolabe.png"
 			}
 		},
 		{
@@ -2387,7 +2387,7 @@
 			"type": "Legendary Creature — Demon Dragon",
 			"collector_number": "191",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/191_Malfegor the Butcher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/191_Malfegor the Butcher.png"
 			}
 		},
 		{
@@ -2397,7 +2397,7 @@
 			"type": "Creature — Hydra",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/170_Conflux Hydra.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/170_Conflux Hydra.png"
 			}
 		},
 		{
@@ -2407,7 +2407,7 @@
 			"type": "Legendary Creature — Cat Warrior",
 			"collector_number": "224",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/224_Tiyan, Kha of Qasal.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/224_Tiyan, Kha of Qasal.png"
 			}
 		},
 		{
@@ -2417,7 +2417,7 @@
 			"type": "Legendary Planeswalker — Ajani",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/161_Ajani, Soul Sculptor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/161_Ajani, Soul Sculptor.png"
 			}
 		},
 		{
@@ -2427,7 +2427,7 @@
 			"type": "Legendary Planeswalker — Sarkhan",
 			"collector_number": "205",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/205_Sarkhan, Dragons' Hunger.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/205_Sarkhan, Dragons' Hunger.png"
 			}
 		},
 		{
@@ -2437,7 +2437,7 @@
 			"type": "Legendary Planeswalker — Tezzeret",
 			"collector_number": "221",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/221_Tezzeret, Prodigal Son.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/221_Tezzeret, Prodigal Son.png"
 			}
 		},
 		{
@@ -2447,7 +2447,7 @@
 			"type": "Instant",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/179_Forbidden Inspiration.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/179_Forbidden Inspiration.png"
 			}
 		},
 		{
@@ -2457,7 +2457,7 @@
 			"type": "Artifact Creature — Human Wizard",
 			"collector_number": "222",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/222_Tidehollow Dominator.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/222_Tidehollow Dominator.png"
 			}
 		},
 		{
@@ -2467,7 +2467,7 @@
 			"type": "Instant",
 			"collector_number": "181",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/181_Gargantuan Impact.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/181_Gargantuan Impact.png"
 			}
 		},
 		{
@@ -2477,7 +2477,7 @@
 			"type": "Creature — Vedalken Rogue",
 			"collector_number": "227",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/227_Vedalken Apostate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/227_Vedalken Apostate.png"
 			}
 		},
 		{
@@ -2487,7 +2487,7 @@
 			"type": "Creature — Lizard",
 			"collector_number": "199",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/199_Predatory Thrinax.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/199_Predatory Thrinax.png"
 			}
 		},
 		{
@@ -2497,7 +2497,7 @@
 			"type": "Legendary Creature — Elf Druid",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/108_Hadran, Nayan Sunseeder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/108_Hadran, Nayan Sunseeder.png"
 			}
 		},
 		{
@@ -2507,7 +2507,7 @@
 			"type": "Legendary Land",
 			"collector_number": "249",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/249_Maelstrom Shrine.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/249_Maelstrom Shrine.png"
 			}
 		},
 		{
@@ -2517,7 +2517,7 @@
 			"type": "Token Creature — Human Soldier",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/1_Human Soldier.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/1_Human Soldier.png"
 			}
 		},
 		{
@@ -2527,7 +2527,7 @@
 			"type": "Token Creature — Beast",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/15_Beast.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/15_Beast.png"
 			}
 		},
 		{
@@ -2537,7 +2537,7 @@
 			"type": "Token Artifact Creature — Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/3_Cesspool Scrapfiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Cesspool Scrapfiend.png"
 			}
 		},
 		{
@@ -2547,7 +2547,7 @@
 			"type": "Token Artifact Creature — Zombie",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/14_Attended Aether-Lich.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/14_Attended Aether-Lich.png"
 			}
 		},
 		{
@@ -2557,7 +2557,7 @@
 			"type": "Token Creature — Bird Zombie",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/4_Kathari Shrieker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/4_Kathari Shrieker.png"
 			}
 		},
 		{
@@ -2567,7 +2567,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/10_Deathspark Elemental.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/10_Deathspark Elemental.png"
 			}
 		},
 		{
@@ -2577,7 +2577,7 @@
 			"type": "Token Creature — Goblin Zombie",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/12_Goblin Hordelord.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/12_Goblin Hordelord.png"
 			}
 		},
 		{
@@ -2587,7 +2587,7 @@
 			"type": "Token Creature — Imp",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/6_Extractor Imp.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/6_Extractor Imp.png"
 			}
 		},
 		{
@@ -2597,7 +2597,7 @@
 			"type": "Token Creature — Zombie",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/7_Feral Undead.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/7_Feral Undead.png"
 			}
 		},
 		{
@@ -2607,7 +2607,7 @@
 			"type": "Token Creature — Zombie Beast",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/5_Dregscape Reaver.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/5_Dregscape Reaver.png"
 			}
 		},
 		{
@@ -2617,7 +2617,7 @@
 			"type": "Token Creature — Zombie Ogre",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/8_Rotting Rager.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/8_Rotting Rager.png"
 			}
 		},
 		{
@@ -2627,7 +2627,7 @@
 			"type": "Token Creature — Zombie Giant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/9_Sedraxis Brute.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/9_Sedraxis Brute.png"
 			}
 		},
 		{
@@ -2637,7 +2637,7 @@
 			"type": "Creature — Human Knight",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/130_Avenger of Valeron.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/130_Avenger of Valeron.png"
 			}
 		},
 		{
@@ -2647,7 +2647,7 @@
 			"type": "Artifact",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/232_Chalice of Malfegor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/232_Chalice of Malfegor.png"
 			}
 		},
 		{
@@ -2657,7 +2657,7 @@
 			"type": "Artifact",
 			"collector_number": "239",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/239_Relic of Lost Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/239_Relic of Lost Alara.png"
 			}
 		},
 		{
@@ -2667,7 +2667,7 @@
 			"type": "Legendary Planeswalker — Bolas",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/165_Bolas, Conflux Schemer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/165_Bolas, Conflux Schemer.png"
 			}
 		},
 		{
@@ -2677,7 +2677,7 @@
 			"type": "Legendary Artifact",
 			"collector_number": "236",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/236_Lich's Obsession.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/236_Lich's Obsession.png"
 			}
 		},
 		{
@@ -2687,7 +2687,7 @@
 			"type": "Legendary Planeswalker — Elspeth",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/173_Elspeth, Returned to Bant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/173_Elspeth, Returned to Bant.png"
 			}
 		},
 		{
@@ -2697,7 +2697,7 @@
 			"type": "Token Creature — Ogre Mutant",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/17_Fire-Field Fiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/17_Fire-Field Fiend.png"
 			}
 		},
 		{
@@ -2707,7 +2707,7 @@
 			"type": "Token Creature — Dragon",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/16_Dragon.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/16_Dragon.png"
 			}
 		},
 		{
@@ -2717,7 +2717,7 @@
 			"type": "Token Creature — Angel",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/2_Angel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/2_Angel.png"
 			}
 		},
 		{
@@ -2727,7 +2727,7 @@
 			"type": "Token Creature — Ogre Mutant",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/13_Starving Ogre.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/13_Starving Ogre.png"
 			}
 		},
 		{
@@ -2737,7 +2737,7 @@
 			"type": "Token Creature — Elemental",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://AustinHale6.mse-hub/sets/ALR-files/img/11_Elemental.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/11_Elemental.png"
 			}
 		}
 	]
