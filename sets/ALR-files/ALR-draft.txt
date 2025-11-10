@@ -385,9 +385,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/245_Fieldmist Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/252_Fieldmist Border.png"
 			}
 		},
 		{
@@ -395,9 +395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "237",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/237_Limitless Coil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/238_Limitless Coil.png"
 			}
 		},
 		{
@@ -761,16 +761,6 @@
 			}
 		},
 		{
-			"name": "Lifecycle Wurm",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}{G}",
-			"type": "Creature — Wurm",
-			"collector_number": "189",
-			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/189_Lifecycle Wurm.png"
-			}
-		},
-		{
 			"name": "Scalegod Tracker",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
@@ -875,19 +865,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "238",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/238_Naya Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/239_Naya Monument.png"
 			}
 		},
 		{
 			"name": "Ash Barrens",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "241",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/241_Ash Barrens.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/250_Ash Barrens.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/250_Mistvein Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/254_Mistvein Border.png"
 			}
 		},
 		{
@@ -905,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/256_Veinfire Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/259_Veinfire Border.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/246_Firewild Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/253_Firewild Border.png"
 			}
 		},
 		{
@@ -925,9 +915,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/257_Wildfield Border.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/260_Wildfield Border.png"
 			}
 		},
 		{
@@ -935,9 +925,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/243_Contaminated Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/251_Contaminated Landscape.png"
 			}
 		},
 		{
@@ -945,9 +935,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/252_Seething Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/255_Seething Landscape.png"
 			}
 		},
 		{
@@ -955,9 +945,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/255_Twisted Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/258_Twisted Landscape.png"
 			}
 		},
 		{
@@ -965,9 +955,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/253_Sheltering Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/256_Sheltering Landscape.png"
 			}
 		},
 		{
@@ -975,9 +965,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/254_Tranquil Landscape.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/257_Tranquil Landscape.png"
 			}
 		},
 		{
@@ -985,9 +975,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains Island",
-			"collector_number": "242",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/242_Bant Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/243_Bant Triome.png"
 			}
 		},
 		{
@@ -1005,9 +995,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp Mountain",
-			"collector_number": "247",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/247_Grixis Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/245_Grixis Triome.png"
 			}
 		},
 		{
@@ -1015,9 +1005,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain Forest",
-			"collector_number": "248",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/248_Jund Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/246_Jund Triome.png"
 			}
 		},
 		{
@@ -1025,9 +1015,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest Plains",
-			"collector_number": "251",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/251_Naya Triome.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/248_Naya Triome.png"
 			}
 		},
 		{
@@ -1345,9 +1335,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "240",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/240_Sigil of Valor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/241_Sigil of Valor.png"
 			}
 		},
 		{
@@ -1921,16 +1911,6 @@
 			}
 		},
 		{
-			"name": "Kresh, Deathbringer",
-			"rarity": "mythic",
-			"mana_cost": "{2}{B}{R}{G}",
-			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "188",
-			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/188_Kresh, Deathbringer.png"
-			}
-		},
-		{
 			"name": "Godspeaker Mayael",
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
@@ -2491,13 +2471,13 @@
 			}
 		},
 		{
-			"name": "Hadran, Nayan Sunseeder",
+			"name": "Hadran, Sunseeder Chief",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — Elf Druid",
+			"type": "Legendary Creature — Cat Druid",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/108_Hadran, Nayan Sunseeder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/108_Hadran, Sunseeder Chief.png"
 			}
 		},
 		{
@@ -2505,9 +2485,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/249_Maelstrom Shrine.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/247_Maelstrom Shrine.png"
 			}
 		},
 		{
@@ -2655,9 +2635,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/239_Relic of Lost Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/240_Relic of Lost Alara.png"
 			}
 		},
 		{
@@ -2675,9 +2655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "236",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/236_Lich's Obsession.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/237_Lich's Obsession.png"
 			}
 		},
 		{
@@ -2739,6 +2719,56 @@
 			"image_uris": {
 				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/11_Elemental.png"
 			}
+		},
+		{
+			"name": "Terror Tiller",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/242_Terror Tiller.png"
+			}
+		},
+		{
+			"name": "Terrepository",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/249_Terrepository.png"
+			}
+		},
+		{
+			"name": "Kaleidoshard",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/236_Kaleidoshard.png"
+			}
+		},
+		{
+			"name": "Lifecycle Wurm",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{G}",
+			"type": "Creature — Wurm",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/189_Lifecycle Wurm.png"
+			}
+		},
+		{
+			"name": "Kresh, Mage Slayer",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/188_Kresh, Mage Slayer.png"
+			}
 		}
 	]
 
@@ -2773,7 +2803,6 @@
 	2 Sigil of Asha's Aid
 	2 Molten Hellion
 	2 Runadi, Gargantuan Caller
-	1 Kresh, Deathbringer
 	1 Godspeaker Mayael
 	1 Sharuum the Ascendant
 	2 Rakka Mar, Elementalist
@@ -2815,6 +2844,7 @@
 	1 Bolas, Conflux Schemer
 	1 Lich's Obsession
 	1 Elspeth, Returned to Bant
+	1 Kresh, Mage Slayer
 [uncommon(3)]
 	4 Thunder-Thrash Viashino
 	4 Seer Strix
@@ -2824,13 +2854,11 @@
 	4 Outmatch
 	4 Fungal Rebirth
 	4 Ridgescale Behemoth
-	4 Lifecycle Wurm
 	4 Scalegod Tracker
 	4 Esper Monument
 	4 Grixis Monument
 	4 Jund Monument
 	4 Naya Monument
-	4 Ash Barrens
 	4 Plasma Rift
 	4 Maelstrom Boons
 	4 Sludge Sifter
@@ -2893,8 +2921,12 @@
 	4 Gruesome Realization
 	4 Rannet Stomphowler
 	4 Gargantuan Impact
-	4 Hadran, Nayan Sunseeder
+	4 Hadran, Sunseeder Chief
 	4 Chalice of Malfegor
+	4 Terror Tiller
+	4 Terrepository
+	4 Kaleidoshard
+	4 Lifecycle Wurm
 [common(7)]
 	8 Court Homunculi
 	8 Viashino Fearblade
@@ -2968,6 +3000,7 @@
 	8 Fire-Field Fiend
 	8 Scavenger Thrash
 	8 Waveskimmer Sentinel
+	8 Ash Barrens
 	8 Mistvein Border
 	8 Veinfire Border
 	8 Firewild Border
@@ -3079,7 +3112,6 @@
 	12 Blightning
 	12 Reality Lapse
 	12 Exterminate
-	6 Lifecycle Wurm
 	6 Scalegod Tracker
 	12 Grizzled Leotau
 	12 Windwright Sage
@@ -3091,7 +3123,7 @@
 	6 Grixis Monument
 	6 Jund Monument
 	6 Naya Monument
-	6 Ash Barrens
+	12 Ash Barrens
 	12 Mistvein Border
 	12 Veinfire Border
 	12 Firewild Border
@@ -3195,7 +3227,6 @@
 	12 Paladin's Shield
 	6 Volcanic Volley
 	12 Spitting Iguanar
-	1 Kresh, Deathbringer
 	1 Godspeaker Mayael
 	1 Sharuum the Ascendant
 	2 Rakka Mar, Elementalist
@@ -3252,7 +3283,7 @@
 	6 Gargantuan Impact
 	12 Vedalken Apostate
 	12 Predatory Thrinax
-	6 Hadran, Nayan Sunseeder
+	6 Hadran, Sunseeder Chief
 	1 Maelstrom Shrine
 	2 Avenger of Valeron
 	6 Chalice of Malfegor
@@ -3260,6 +3291,11 @@
 	1 Bolas, Conflux Schemer
 	1 Lich's Obsession
 	1 Elspeth, Returned to Bant
+	6 Terror Tiller
+	6 Terrepository
+	6 Kaleidoshard
+	6 Lifecycle Wurm
+	1 Kresh, Mage Slayer
 [wildcard(1)]
 	6 Court Homunculi
 	6 Viashino Fearblade
@@ -3337,7 +3373,6 @@
 	6 Blightning
 	6 Reality Lapse
 	6 Exterminate
-	15 Lifecycle Wurm
 	15 Scalegod Tracker
 	6 Grizzled Leotau
 	6 Windwright Sage
@@ -3349,7 +3384,7 @@
 	15 Grixis Monument
 	15 Jund Monument
 	15 Naya Monument
-	15 Ash Barrens
+	6 Ash Barrens
 	6 Mistvein Border
 	6 Veinfire Border
 	6 Firewild Border
@@ -3453,7 +3488,6 @@
 	6 Paladin's Shield
 	15 Volcanic Volley
 	6 Spitting Iguanar
-	4 Kresh, Deathbringer
 	4 Godspeaker Mayael
 	4 Sharuum the Ascendant
 	7 Rakka Mar, Elementalist
@@ -3510,7 +3544,7 @@
 	15 Gargantuan Impact
 	6 Vedalken Apostate
 	6 Predatory Thrinax
-	15 Hadran, Nayan Sunseeder
+	15 Hadran, Sunseeder Chief
 	4 Maelstrom Shrine
 	7 Avenger of Valeron
 	15 Chalice of Malfegor
@@ -3518,3 +3552,8 @@
 	4 Bolas, Conflux Schemer
 	4 Lich's Obsession
 	4 Elspeth, Returned to Bant
+	15 Terror Tiller
+	15 Terrepository
+	15 Kaleidoshard
+	15 Lifecycle Wurm
+	4 Kresh, Mage Slayer

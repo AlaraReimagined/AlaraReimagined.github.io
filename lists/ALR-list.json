@@ -318,7 +318,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Hadran, Nayan Sunseeder",
+        "card_name": "Hadran, Sunseeder Chief",
         "number": 108,
         "shape": "normal",
         "set": "ALR"
@@ -1255,7 +1255,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Kresh, Deathbringer",
+        "card_name": "Kresh, Mage Slayer",
         "number": 188,
         "shape": "normal",
         "set": "ALR"
@@ -1437,7 +1437,7 @@
     "a->colorless",
     {
         "card_name": "Lich's Obsession",
-        "number": 236,
+        "number": 237,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1472,28 +1472,49 @@
         "set": "ALR"
     },
     {
-        "card_name": "Limitless Coil",
-        "number": 237,
+        "card_name": "Kaleidoshard",
+        "number": 236,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Naya Monument",
+        "card_name": "Limitless Coil",
         "number": 238,
         "shape": "normal",
         "set": "ALR"
     },
     {
+        "card_name": "Naya Monument",
+        "number": 239,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
         "card_name": "Sigil of Valor",
-        "number": 240,
+        "number": 241,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Terror Tiller",
+        "number": 242,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Relic of Lost Alara",
-        "number": 239,
+        "number": 240,
         "shape": "normal",
         "set": "ALR"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1512,31 +1533,31 @@
     },
     {
         "card_name": "Fieldmist Border",
-        "number": 245,
+        "number": 252,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Mistvein Border",
-        "number": 250,
+        "number": 254,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Veinfire Border",
-        "number": 256,
+        "number": 259,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Firewild Border",
-        "number": 246,
+        "number": 253,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Wildfield Border",
-        "number": 257,
+        "number": 260,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1557,13 +1578,13 @@
     },
     {
         "card_name": "Maelstrom Shrine",
-        "number": 249,
+        "number": 247,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Bant Triome",
-        "number": 242,
+        "number": 243,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1575,60 +1596,63 @@
     },
     {
         "card_name": "Grixis Triome",
-        "number": 247,
+        "number": 245,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Jund Triome",
-        "number": 248,
+        "number": 246,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Naya Triome",
-        "number": 251,
+        "number": 248,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Terrepository",
+        "number": 249,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Ash Barrens",
-        "number": 241,
+        "number": 250,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Contaminated Landscape",
-        "number": 243,
+        "number": 251,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Seething Landscape",
-        "number": 252,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Sheltering Landscape",
-        "number": 253,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Tranquil Landscape",
-        "number": 254,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Twisted Landscape",
         "number": 255,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "e"
+        "card_name": "Sheltering Landscape",
+        "number": 256,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Tranquil Landscape",
+        "number": 257,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Twisted Landscape",
+        "number": 258,
+        "shape": "normal",
+        "set": "ALR"
     },
     {
         "card_name": "e"
