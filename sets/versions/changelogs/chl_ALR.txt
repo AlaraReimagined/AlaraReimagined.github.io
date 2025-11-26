@@ -1,4 +1,71 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+No changes.
+
+VERSION 3 CHANGELOG
+====================
+
+Reborn in Spores added.
+Sigil of Mortar's Wings added.
+
+Fungal Rebirth removed.
+Sigil of Asha's Aid removed.
+
+Godseeker Druid
+
+Gargantuan Gift
+
+Maelstrom Boons
+
+Slime Invocation
+cost: {1}{G} => {2}{G}
+rules_text: Create a tapped 0/0 green Ooze creature token, then choose one —
+• Put X +1/+1 counters on it, where X is the greatest toughness among creatures that died this turn.
+• Put X +1/+1 counters on it, where X is the number of creatures that died this turn. => Create a 0/0 green Ooze creature token, then choose one —
+• Put X +1/+1 counters on it, where X is the greatest toughness among creatures that died this turn.
+• Put X +1/+1 counters on it, where X is the number of creatures that died this turn.
+
+Etherium Prison
+cost: {1}{W} => {4}{W}
+rules_text: Flash
+When this artifact enters, exile target tapped creature an opponent controls until this artifact leaves the battlefield. => Flash
+This spell costs {1} less to cast for each attacking creature.
+When this artifact enters, exile target creature an opponent controls until this artifact leaves the battlefield.
+
+Nurturing Sunseeder
+cost: {1}{W} => {2}{W}
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, you gain 2 life.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, you gain 3 life.
+{T}: Add {C}.
+pt: 0/2 => 1/3
+
+Firestoker Exuberant
+cost: {2}{R} => {1}{R}
+pt: 1/2 => 0/2
+
+Prowling Gharial
+
+Mycolossus
+
+Mulchskulker
+
+Jorshu of Clan Nel Toth
+rules_text: {2G}: Exile target card from a graveyard. If it was a creature card, put a +1/+1 counter on Jorshu. Activate only as a sorcery.
+{2}{G}, Exile a creature card from your graveyard: Create two 1/1 green Saproling creature tokens. Activate only as a sorcery. => Flash
+[i]Morbid[/i] — When Jorshu enters, if a creature died this turn, return up to one target card from your graveyard to your hand.
+
+Monstrous Sapherd
+
+Callio of the Ethersworn
+cost: {1}{W} => {2}{W}
+pt: 2/2 => 2/3
+
+Rannet Stomphowler
+cost: {5}{G} => {3}{G}{G}
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Hadran, Sunseeder Chief added.

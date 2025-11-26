@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/139_Godseeker Druid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/138_Godseeker Druid.png"
 			}
 		},
 		{
@@ -585,19 +585,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/138_Gargantuan Gift.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/137_Gargantuan Gift.png"
 			}
 		},
 		{
-			"name": "Fungal Rebirth",
+			"name": "Reborn in Spores",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/137_Fungal Rebirth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/146_Reborn in Spores.png"
 			}
 		},
 		{
@@ -1035,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/141_Maelstrom Boons.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/140_Maelstrom Boons.png"
 			}
 		},
 		{
@@ -1303,7 +1303,7 @@
 		{
 			"name": "Slime Invocation",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Instant",
 			"collector_number": "153",
 			"image_uris": {
@@ -1483,7 +1483,7 @@
 		{
 			"name": "Etherium Prison",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{4}{W}",
 			"type": "Artifact",
 			"collector_number": "9",
 			"image_uris": {
@@ -1543,7 +1543,7 @@
 		{
 			"name": "Nurturing Sunseeder",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Druid Wizard",
 			"collector_number": "20",
 			"image_uris": {
@@ -1563,7 +1563,7 @@
 		{
 			"name": "Firestoker Exuberant",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Druid Shaman",
 			"collector_number": "103",
 			"image_uris": {
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Crocodile",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/145_Prowling Gharial.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/144_Prowling Gharial.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/144_Mycolossus.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/143_Mycolossus.png"
 			}
 		},
 		{
@@ -1791,13 +1791,13 @@
 			}
 		},
 		{
-			"name": "Sigil of Asha's Aid",
+			"name": "Sigil of Mortar's Wings",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact — Equipment",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/29_Sigil of Asha's Aid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/29_Sigil of Mortar's Wings.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/143_Mulchskulker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/142_Mulchskulker.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/140_Jorshu of Clan Nel Toth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/139_Jorshu of Clan Nel Toth.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Fungus Beast",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/142_Monstrous Sapherd.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/141_Monstrous Sapherd.png"
 			}
 		},
 		{
@@ -2053,7 +2053,7 @@
 		{
 			"name": "Callio of the Ethersworn",
 			"rarity": "rare",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact Creature — Human",
 			"collector_number": "6",
 			"image_uris": {
@@ -2323,11 +2323,11 @@
 		{
 			"name": "Rannet Stomphowler",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{G}",
+			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/146_Rannet Stomphowler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/145_Rannet Stomphowler.png"
 			}
 		},
 		{
@@ -2800,7 +2800,7 @@
 	2 Sculptor's Scepter
 	1 Rafiq, Knight-General
 	2 Spore Shambler
-	2 Sigil of Asha's Aid
+	2 Sigil of Mortar's Wings
 	2 Molten Hellion
 	2 Runadi, Gargantuan Caller
 	1 Godspeaker Mayael
@@ -2852,7 +2852,7 @@
 	4 Bant Monument
 	4 Limitless Coil
 	4 Outmatch
-	4 Fungal Rebirth
+	4 Reborn in Spores
 	4 Ridgescale Behemoth
 	4 Scalegod Tracker
 	4 Esper Monument
@@ -3095,7 +3095,7 @@
 	12 Vithian Alchemist
 	12 Starving Ogre
 	12 Gargantuan Gift
-	6 Fungal Rebirth
+	6 Reborn in Spores
 	12 Veil of Alara
 	6 Ridgescale Behemoth
 	12 Rhox Charger
@@ -3215,7 +3215,7 @@
 	12 Aerie Windcaller
 	1 Rafiq, Knight-General
 	2 Spore Shambler
-	2 Sigil of Asha's Aid
+	2 Sigil of Mortar's Wings
 	6 Maelstrom Crusade
 	12 Shining Strike
 	12 Stinging Swarm
@@ -3356,7 +3356,7 @@
 	6 Vithian Alchemist
 	6 Starving Ogre
 	6 Gargantuan Gift
-	15 Fungal Rebirth
+	15 Reborn in Spores
 	6 Veil of Alara
 	15 Ridgescale Behemoth
 	6 Rhox Charger
@@ -3476,7 +3476,7 @@
 	6 Aerie Windcaller
 	4 Rafiq, Knight-General
 	7 Spore Shambler
-	7 Sigil of Asha's Aid
+	7 Sigil of Mortar's Wings
 	15 Maelstrom Crusade
 	6 Shining Strike
 	6 Stinging Swarm
