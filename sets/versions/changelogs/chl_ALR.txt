@@ -1,4 +1,125 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Fungal Rebirth added.
+Surge of Sangrite added.
+
+Reborn in Spores removed.
+Twinclaws of Marisi removed.
+
+Goblin Death-Raider
+rules_text: This creature gets +2/+0 and has trample as long as you've sacrificed a permanent or discarded a card this turn. => Trample
+This creature gets +2/+0 as long as you've discarded a card this turn.
+
+Godseeker Druid
+
+Gargantuan Gift
+
+Scavenger Thrash
+cost: {1}{B}{R}{G} => {2}{B}{R}{G}
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+[i]Morbid[/i] — At the beginning of your end step, create a 1/1 red Goblin creature token if a creature died this turn. => Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, return target creature card with lesser mana value from your graveyard to your hand.
+
+Maelstrom Boons
+
+Tine of Unbending
+
+Grim Attendant
+rules_text: Lifelink
+This creature has first strike as long as you've discarded a card this turn.
+This creature gets +1/+1 as long as you've sacrificed a permanent this turn. => Lifelink
+This creature has first strike as long as you've discarded a card this turn.
+Whenever a creature token you control dies, put a +1/+1 counter on this creature.
+pt: 3/2 => 2/2
+
+Necrotic Germination
+cost: {2}{B}{G} => {B}{G}
+rules_text: Whenever a nontoken creature you control dies, you gain 1 life and create a 1/1 green Saproling creature token.
+{2}, Sacrifice a creature: Draw a card. => [i]Morbid[/i] — At the beginning of your end step, create a 1/1 green Saproling creature token if a creature died this turn.
+{1}{B}, Sacrifice a creature: Draw a card.
+
+Territorial Tusker
+
+Razerunner Clan
+rules_text: Whenever you sacrifice a permanent, put a +1/+1 counter on this creature.
+{2}{R}, Sacrifice a creature or land: This creature deals 1 damage to any target. A creature dealt damage this way can't block this turn. => Whenever you sacrifice a permanent or discard a card, put a +1/+1 counter on this creature.
+{1}, Remove a +1/+1 counter from this creature: It deals 1 damage to any target.
+
+Avalanche Elemental
+rules_text: Trample
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn. => During your turn, this creature has first strike.
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn.
+
+Prowling Gharial
+
+Mycolossus
+
+Syeena, Godtoucher
+
+Mulchskulker
+
+Jorshu of Clan Nel Toth
+rules_text: Flash
+[i]Morbid[/i] — When Jorshu enters, if a creature died this turn, return up to one target card from your graveyard to your hand. => Flash
+When Jorshu enters, you may sacrifice a creature. If you do, create X 1/1 green Saproling creature tokens, where X is the sacrificed creature's toughness.
+
+Rakka Mar, Elementalist
+rules_text: Ward—Pay 3 life.
+At the beginning of each combat, create a 3/1 red Elemental creature token if you sacrificed a nontoken permanent or discarded a card this turn.
+Creature tokens you control have trample and haste. => Ward—Pay 3 life.
+At the beginning of each combat, create a 3/1 red Elemental creature token if you discarded a card this turn.
+Creature tokens you control have trample and haste.
+
+Monstrous Sapherd
+
+Shardquake
+rules_text: Return all nontoken creatures to their owners' hands. Phase out all creature tokens until your next turn. => Return all nontoken creatures to their owners' hands. All creature tokens you don't control phase out.
+
+Telemin Restorer
+rules_text: Flash
+When this creature enters, choose one —
+• Return target artifact card with mana value 5 or less from your graveyard to the battlefield.
+• Return two target artifact cards with mana value 3 or less from your graveyard to the battlefield. => Flash
+When this creature enters, choose one —
+• Return target artifact card with mana value 5 or less from your graveyard to the battlefield.
+• Return two target artifact cards each with mana value 3 or less from your graveyard to the battlefield.
+
+Rannet Stomphowler
+
+Tiyan, Kha of Qasal
+
+Tezzeret, Prodigal Son
+
+Tidehollow Dominator
+
+Human Soldier
+
+Beast
+
+Cesspool Scrapfiend
+cost: {3}{U} => {2}{U}{B}
+
+Attended Aether-Lich
+cost: {2}{U}{B} => {3}{U}
+
+Feral Undead
+cost: {B} => {1}{B}
+
+Dregscape Reaver
+cost: {5}{B}{B} => {4}{B}{B}
+
+Sedraxis Brute
+cost: {5}{B} => {4}{B}
+
+Angel
+cost: {2}{U} => 
+
+Elemental
+cost: {1}{R} => 
+
+
+VERSION 4 CHANGELOG
 ====================
 
 No changes.

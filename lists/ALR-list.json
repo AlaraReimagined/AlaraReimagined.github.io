@@ -85,7 +85,7 @@
     },
     {
         "card_name": "Monstrous Sapherd",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "ALR"
     },
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "Mycolossus",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "ALR"
     },
@@ -264,8 +264,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Jorshu of Clan Nel Toth",
-        "number": 139,
+        "card_name": "Fungal Rebirth",
+        "number": 137,
         "shape": "normal",
         "set": "ALR"
     },
@@ -294,7 +294,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Maelstrom Boons",
+        "card_name": "Jorshu of Clan Nel Toth",
         "number": 140,
         "shape": "normal",
         "set": "ALR"
@@ -324,8 +324,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Mulchskulker",
-        "number": 142,
+        "card_name": "Maelstrom Boons",
+        "number": 141,
         "shape": "normal",
         "set": "ALR"
     },
@@ -354,8 +354,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Prowling Gharial",
-        "number": 144,
+        "card_name": "Mulchskulker",
+        "number": 143,
         "shape": "normal",
         "set": "ALR"
     },
@@ -384,7 +384,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Rannet Stomphowler",
+        "card_name": "Prowling Gharial",
         "number": 145,
         "shape": "normal",
         "set": "ALR"
@@ -414,7 +414,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Reborn in Spores",
+        "card_name": "Rannet Stomphowler",
         "number": 146,
         "shape": "normal",
         "set": "ALR"
@@ -715,7 +715,7 @@
     },
     {
         "card_name": "Gargantuan Gift",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "ALR"
     },
@@ -745,7 +745,7 @@
     },
     {
         "card_name": "Godseeker Druid",
-        "number": 138,
+        "number": 139,
         "shape": "normal",
         "set": "ALR"
     },
@@ -998,7 +998,7 @@
     },
     {
         "card_name": "Tiyan, Kha of Qasal",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1028,7 +1028,7 @@
     },
     {
         "card_name": "Syeena, Godtoucher",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1139,7 +1139,7 @@
     },
     {
         "card_name": "Telemin Restorer",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1199,7 +1199,7 @@
     },
     {
         "card_name": "Tidehollow Dominator",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1217,7 +1217,7 @@
     },
     {
         "card_name": "Territorial Tusker",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1274,7 +1274,7 @@
     },
     {
         "card_name": "Tezzeret, Prodigal Son",
-        "number": 221,
+        "number": 222,
         "shape": "planeswalker",
         "set": "ALR"
     },
@@ -1351,8 +1351,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Twinclaws of Marisi",
-        "number": 225,
+        "card_name": "Surge of Sangrite",
+        "number": 218,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1364,7 +1364,7 @@
     },
     {
         "card_name": "Tine of Unbending",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1674,8 +1674,20 @@
     },
     "a->token",
     {
-        "card_name": "Human Soldier",
+        "card_name": "Angel",
         "number": 1,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Human Soldier",
+        "number": 2,
+        "shape": "token",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Attended Aether-Lich",
+        "number": 3,
         "shape": "token",
         "set": "ALR"
     },
@@ -1740,20 +1752,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Angel",
-        "number": 2,
-        "shape": "token",
-        "set": "ALR"
-    },
-    {
         "card_name": "Cesspool Scrapfiend",
-        "number": 3,
-        "shape": "token",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Attended Aether-Lich",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "ALR"
     },
@@ -1765,7 +1765,7 @@
     },
     {
         "card_name": "Beast",
-        "number": 15,
+        "number": 14,
         "shape": "token",
         "set": "ALR"
     },

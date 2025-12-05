@@ -275,9 +275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "138",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/138_Godseeker Druid.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/139_Godseeker Druid.png"
 			}
 		},
 		{
@@ -585,19 +585,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "137",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/137_Gargantuan Gift.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/138_Gargantuan Gift.png"
 			}
 		},
 		{
-			"name": "Reborn in Spores",
+			"name": "Fungal Rebirth",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "146",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/146_Reborn in Spores.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/137_Fungal Rebirth.png"
 			}
 		},
 		{
@@ -813,7 +813,7 @@
 		{
 			"name": "Scavenger Thrash",
 			"rarity": "common",
-			"mana_cost": "{1}{B}{R}{G}",
+			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Lizard Warrior",
 			"collector_number": "206",
 			"image_uris": {
@@ -1035,9 +1035,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "140",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/140_Maelstrom Boons.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/141_Maelstrom Boons.png"
 			}
 		},
 		{
@@ -1085,9 +1085,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Artifact",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/223_Tine of Unbending.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/224_Tine of Unbending.png"
 			}
 		},
 		{
@@ -1111,13 +1111,13 @@
 			}
 		},
 		{
-			"name": "Twinclaws of Marisi",
+			"name": "Surge of Sangrite",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}{W}",
-			"type": "Creature — Cat Warrior",
-			"collector_number": "225",
+			"type": "Sorcery",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/225_Twinclaws of Marisi.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/218_Surge of Sangrite.png"
 			}
 		},
 		{
@@ -1203,7 +1203,7 @@
 		{
 			"name": "Necrotic Germination",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{G}",
+			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
 			"collector_number": "193",
 			"image_uris": {
@@ -1215,9 +1215,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "220",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/220_Territorial Tusker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/221_Territorial Tusker.png"
 			}
 		},
 		{
@@ -1585,9 +1585,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Crocodile",
-			"collector_number": "144",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/144_Prowling Gharial.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/145_Prowling Gharial.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "143",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/143_Mycolossus.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/144_Mycolossus.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Elf Shaman",
-			"collector_number": "218",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/218_Syeena, Godtoucher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/219_Syeena, Godtoucher.png"
 			}
 		},
 		{
@@ -1835,9 +1835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "142",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/142_Mulchskulker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/143_Mulchskulker.png"
 			}
 		},
 		{
@@ -1845,9 +1845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "139",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/139_Jorshu of Clan Nel Toth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/140_Jorshu of Clan Nel Toth.png"
 			}
 		},
 		{
@@ -1945,9 +1945,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Fungus Beast",
-			"collector_number": "141",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/141_Monstrous Sapherd.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/142_Monstrous Sapherd.png"
 			}
 		},
 		{
@@ -2165,9 +2165,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{B}",
 			"type": "Artifact Creature — Human Wizard",
-			"collector_number": "219",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/219_Telemin Restorer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/220_Telemin Restorer.png"
 			}
 		},
 		{
@@ -2325,9 +2325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "145",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/145_Rannet Stomphowler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/146_Rannet Stomphowler.png"
 			}
 		},
 		{
@@ -2385,9 +2385,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Cat Warrior",
-			"collector_number": "224",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/224_Tiyan, Kha of Qasal.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/225_Tiyan, Kha of Qasal.png"
 			}
 		},
 		{
@@ -2415,9 +2415,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Planeswalker — Tezzeret",
-			"collector_number": "221",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/221_Tezzeret, Prodigal Son.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/222_Tezzeret, Prodigal Son.png"
 			}
 		},
 		{
@@ -2435,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact Creature — Human Wizard",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/222_Tidehollow Dominator.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/223_Tidehollow Dominator.png"
 			}
 		},
 		{
@@ -2495,9 +2495,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Soldier",
-			"collector_number": "1",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/1_Human Soldier.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/2_Human Soldier.png"
 			}
 		},
 		{
@@ -2505,29 +2505,29 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/15_Beast.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/14_Beast.png"
 			}
 		},
 		{
 			"name": "Cesspool Scrapfiend",
 			"rarity": "common",
-			"mana_cost": "{3}{U}",
+			"mana_cost": "{2}{U}{B}",
 			"type": "Token Artifact Creature — Horror",
-			"collector_number": "3",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Cesspool Scrapfiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/15_Cesspool Scrapfiend.png"
 			}
 		},
 		{
 			"name": "Attended Aether-Lich",
 			"rarity": "common",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{3}{U}",
 			"type": "Token Artifact Creature — Zombie",
-			"collector_number": "14",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/14_Attended Aether-Lich.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Attended Aether-Lich.png"
 			}
 		},
 		{
@@ -2573,7 +2573,7 @@
 		{
 			"name": "Feral Undead",
 			"rarity": "common",
-			"mana_cost": "{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Token Creature — Zombie",
 			"collector_number": "7",
 			"image_uris": {
@@ -2583,7 +2583,7 @@
 		{
 			"name": "Dregscape Reaver",
 			"rarity": "common",
-			"mana_cost": "{5}{B}{B}",
+			"mana_cost": "{4}{B}{B}",
 			"type": "Token Creature — Zombie Beast",
 			"collector_number": "5",
 			"image_uris": {
@@ -2603,7 +2603,7 @@
 		{
 			"name": "Sedraxis Brute",
 			"rarity": "common",
-			"mana_cost": "{5}{B}",
+			"mana_cost": "{4}{B}",
 			"type": "Token Creature — Zombie Giant",
 			"collector_number": "9",
 			"image_uris": {
@@ -2693,11 +2693,11 @@
 		{
 			"name": "Angel",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "",
 			"type": "Token Creature — Angel",
-			"collector_number": "2",
+			"collector_number": "1",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/2_Angel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/1_Angel.png"
 			}
 		},
 		{
@@ -2713,7 +2713,7 @@
 		{
 			"name": "Elemental",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "",
 			"type": "Token Creature — Elemental",
 			"collector_number": "11",
 			"image_uris": {
@@ -2852,7 +2852,7 @@
 	4 Bant Monument
 	4 Limitless Coil
 	4 Outmatch
-	4 Reborn in Spores
+	4 Fungal Rebirth
 	4 Ridgescale Behemoth
 	4 Scalegod Tracker
 	4 Esper Monument
@@ -2868,7 +2868,7 @@
 	4 Tine of Unbending
 	4 Apex Appeasement
 	4 Kederekt Specter
-	4 Twinclaws of Marisi
+	4 Surge of Sangrite
 	4 Sprouting Thrinax
 	4 Woolly Thoctar
 	4 Palandius Gargoyle
@@ -3095,7 +3095,7 @@
 	12 Vithian Alchemist
 	12 Starving Ogre
 	12 Gargantuan Gift
-	6 Reborn in Spores
+	6 Fungal Rebirth
 	12 Veil of Alara
 	6 Ridgescale Behemoth
 	12 Rhox Charger
@@ -3147,7 +3147,7 @@
 	6 Tine of Unbending
 	6 Apex Appeasement
 	6 Kederekt Specter
-	6 Twinclaws of Marisi
+	6 Surge of Sangrite
 	6 Sprouting Thrinax
 	6 Woolly Thoctar
 	6 Palandius Gargoyle
@@ -3356,7 +3356,7 @@
 	6 Vithian Alchemist
 	6 Starving Ogre
 	6 Gargantuan Gift
-	15 Reborn in Spores
+	15 Fungal Rebirth
 	6 Veil of Alara
 	15 Ridgescale Behemoth
 	6 Rhox Charger
@@ -3408,7 +3408,7 @@
 	15 Tine of Unbending
 	15 Apex Appeasement
 	15 Kederekt Specter
-	15 Twinclaws of Marisi
+	15 Surge of Sangrite
 	15 Sprouting Thrinax
 	15 Woolly Thoctar
 	15 Palandius Gargoyle
