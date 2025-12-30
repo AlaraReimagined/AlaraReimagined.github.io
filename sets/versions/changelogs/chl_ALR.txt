@@ -1,4 +1,412 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Agent of Incursion added.
+Neutralize added.
+Bellowing Brute added.
+Patrol Protocol added.
+Identity Fracture added.
+Charging Gargantuan added.
+Defense of the Domain added.
+Exercise Authority added.
+Whip of Vertebrae added.
+Kresh, Hellkite Hunter added.
+Bellowing Brute added.
+
+Whispers of the Dead removed.
+Countervailing Winds removed.
+Grim Attendant removed.
+Escape Route removed.
+Architects of Fate removed.
+Gargantuan Behemoth removed.
+Asha's Command removed.
+Essence Rejection removed.
+Chalice of Malfegor removed.
+Kresh, Mage Slayer removed.
+Grim Attendant removed.
+
+Court Homunculi
+
+Frontline Mage
+
+Gwafa Hazid, Racketeer
+
+Morbid Celebrant
+
+Gustglider Exuberant
+rules_text: Flying
+[i]Stout[/i] — Whenever this creature attacks while you control a creature with toughness 4 or greater, this creature gets +1/+1 until end of turn.
+{T}: Target creature gains flying until end of turn. => Flying
+[i]Stout[/i] — Whenever this creature attacks, if you control a creature with toughness 4 or greater, untap this creature.
+{T}: Target creature gains flying until end of turn.
+
+Faerie Engineer
+
+Kathari Scavenger
+rules_text: Flying
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Flying
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Numbing Chain
+cost: {2}{U} => {3}{U}
+rules_text: Enchant artifact, creature, or planeswalker
+When this Aura enters, tap enchanted permanent.
+Enchanted permanent loses all abilities and doesn't untap during its controller's untap step. => Enchant artifact or creature
+When this Aura enters, tap enchanted permanent.
+You control enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.
+
+Feral Undead
+rules_text: Deathtouch
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Deathtouch
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Nesting Homunculus
+
+Titan's Herald
+
+Kathari Marauder
+rules_text: Flying
+Whenever this creature deals combat damage to an opponent, you may sacrifice it. If you do, that player sacrifices a creature of their choice.
+When this creature dies, create a 1/1 red Goblin creature token. => Flying
+Whenever this creature deals combat damage to an opponent, you may sacrifice it. If you do, that player sacrifices a creature of their choice.
+This creature has haste as long as you control a creature token.
+
+Limitless Coil
+cost: {2} => {3}
+
+Crystallize
+
+Outmatch
+rules_text: [i]Stout[/i] — Choose one. If you control a creature with toughness 4 or greater as you cast this spell, you may choose both.
+• Exile up to three cards from target player's graveyard. You gain 3 life.
+• Outmatch deals damage to target creature equal to the number of creatures you control. => [i]Stout[/i] — If you control a creature with toughness 4 or greater, Outmatch has lifelink.
+Outmatch deals damage to target creature equal to the number of creatures you control.
+
+Rotting Rager
+rules_text: Cycling {2B} [i]({2B}, Discard this card: Draw a card.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Cycling—Pay 2 life [i](Pay 2 life, Discard this card: Draw a card.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Jhessian Smuggler
+
+Etherium Sculptor
+
+Hellkite Juvenile
+rules_text: Flying
+Sacrifice another creature: This creature gets +1/+1 and gains haste until end of turn. Activate only once each turn.
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i] => Flying
+Sacrifice another creature: This creature gets +1/+1 and gains haste until end of turn. Activate only once each turn.
+Cycling—Sacrifice a creature. [i](Sacrifice a creature, Discard this card: Draw a card.)[/i]
+
+Vithian Sparkslinger
+rules_text: Whenever a creature token you control enters, this creature deals 1 damage to each opponent.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Whenever one or more creature tokens you control enter, this creature deals 1 damage to each opponent.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Starving Ogre
+rules_text: Trample
+Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Trample
+Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Onyx Capsule
+
+Tragic Slip
+
+Resource Requisition
+
+Dregscape Reaver
+rules_text: Menace [i](This creature can't be blocked except by two or more creatures.)[/i]
+Cycling {2} [i]({2}, Discard this card: Draw a card.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Menace
+Cycling {2B} [i]({2B}, Discard this card: Draw a card.)[/i]
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Undying Devourer
+
+Cesspool Scrapfiend
+rules_text: [i]Metallurgy[/i] — When this artifact enters and whenever you cast an artifact spell, draw a card, then discard a card.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => [i]Metallurgy[/i] — When this artifact enters and whenever you cast an artifact spell, draw a card, then discard a card.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Mask of the Sphinxes
+
+Ethercaste Knight
+
+Attended Aether-Lich
+rules_text: When this creature enters, create a 1/1 blue Thopter artifact creature token with flying.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => When this creature enters, create a 1/1 blue Thopter artifact creature token with flying.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Blightning
+
+Exterminate
+
+Fire-Field Fiend
+rules_text: This creature has first strike and haste as long as you've discarded a card this turn.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => This creature has first strike and haste as long as you've discarded a card this turn.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Esper Monument
+
+Grixis Monument
+
+Jund Monument
+
+Naya Monument
+
+Flurry of Wings
+
+Tine of Unbending
+rules_text: Untap all noncreature artifacts you control during each other player's untap step.
+{T}: The next artifact spell you cast this turn can be cast as though it had flash. => You may cast artifact spells as though they had flash.
+{T}: Untap another target permanent.
+
+Corrupted Sigil
+
+Necrotic Germination
+rules_text: [i]Morbid[/i] — At the beginning of your end step, create a 1/1 green Saproling creature token if a creature died this turn.
+{1}{B}, Sacrifice a creature: Draw a card. => [i]Morbid[/i] — At the beginning of your end step, create a 1/1 green Saproling creature token if a creature died this turn.
+{3}, Sacrifice a creature: Draw a card.
+
+Territorial Tusker
+cost: {4}{R}{W} => {5}{R}{W}
+
+Canyon Weaver
+
+Esperzoa
+
+Sigil of Valor
+
+Flight Fabricator
+
+Unearth
+
+Avalanche Elemental
+rules_text: During your turn, this creature has first strike.
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn. => This creature has first strike during your turn.
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn.
+
+Filigree Formthief
+rules_text: You may have this creature enter as a copy of an artifact or creature you control, except it's a 2/2 artifact creature in addition to its other types.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => You may have this creature enter as a copy of any artifact or creature on the battlefield, except it's a 2/2 artifact creature.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Regulation Stone
+rules_text: {2}, {T}: Choose one —
+• Tap target nonartifact creature.
+• Untap another target artifact. => {2}, {T}: Choose one —
+• Tap target creature.
+• Creatures your opponents control get -1/-0 until end of turn.
+
+Nurturing Sunseeder
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, you gain 3 life.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, you gain 2 life.
+{T}: Add {C}.
+
+Firestoker Exuberant
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, this creature deals 2 damage to each opponent.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, this creature deals 1 damage to each opponent.
+{T}: Add {C}.
+
+Scavenger Wyvern
+
+Siege of the Savory
+rules_text: At the beginning of combat on your turn, create a 1/1 red Goblin creature token with haste. Sacrifice it at the beginning of the next end step. => At the beginning of combat on your turn, you may create a 1/1 red Goblin creature token with haste. Sacrifice it at the beginning of the next end step.
+
+Cunning Archdemon
+pt: 5/5 => 4/4
+
+Broodmate Thunder
+
+Rannon, Vithian Holdout
+rules_text: At the beginning of your upkeep, surveil 1.
+Whenever you discard a card, target player mills two cards. => At the beginning of your upkeep, surveil 1.
+Whenever one or more cards are put into your graveyard from your hand or library, each opponent mills two cards.
+
+Sedraxis Brute
+rules_text: When this creature enters, exile up to one card from a graveyard and create a 2/2 black Zombie creature token.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => When this creature enters, exile up to one card from a graveyard and create a 2/2 black Zombie creature token.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Sigil of Mortar's Wings
+rules_text: Whenever a creature attacks alone, you create a 1/1 white Bird Soldier creature token with flying.
+Tap two untapped Soldiers you control: Tap target creature. => Whenever a creature attacks alone, you create a tapped 1/1 white Bird Soldier creature token with flying.
+Tap two untapped creatures you control: Tap target creature. Activate only once each turn.
+
+Stinging Swarm
+
+Jorshu of Clan Nel Toth
+
+Godspeaker Mayael
+
+Battlegrace Sigil
+
+Ethersworn Enigma
+
+Thoctar Herdcaller
+rules_text: [i]Stout[/i] — Whenever a nontoken creature with toughness 4 or greater you control dies, create an 8/8 Beast creature token that's red, green, and white. => [i]Stout[/i] — Whenever a nontoken creature you control with toughness 4 or greater dies, create an 8/8 Beast creature token that's red, green, and white.
+
+Callio of the Ethersworn
+
+Extractor Imp
+rules_text: Flying
+Whenever a creature token you control dies, target player mills two cards.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Flying
+Whenever a creature token you control dies, target player mills two cards.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Salvage Summoner
+
+Tar Hulk
+
+Shungus Nod, Fleshcrafter
+
+Parasitic Frenzy
+
+Goblin Hordelord
+rules_text: Creature tokens you control get +1/+1.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. The copy becomes a token. Then exile this card.)[/i] => Creature tokens you control get +1/+1.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Knight of Vengeance
+rules_text: This creature gets +1/+1 for each land card in your graveyard.
+Whenever a land card is put into your graveyard from anywhere, you gain 2 life.
+Whenever this creature attacks, you may discard a card or sacrifice a land. If you do, draw a card. => This creature gets +1/+1 for each land card in your graveyard.
+{2}, Sacrifice a land: Draw a card.
+Whenever you sacrifice a land or discard a land card, create a 1/1 white Soldier creature token.
+
+Kess, Renegade Arcanist
+rules_text: Flying
+During your turn, each instant and sorcery card in your graveyard has lunge. [i](You may cast a copy of the spell from your graveyard by discarding a card in addition to paying its other costs. Then exile the card.)[/i] => Flying
+During your turn, each instant and sorcery card in your graveyard has lunge. [i](You may cast a copy of the spell from your graveyard by discarding a card in addition to its other costs. Then exile the card.)[/i]
+
+Minion Maker
+
+Reckoner's Bargain
+
+Scrap Slasher
+rules_text: When this creature enters, you may pay 2 life. When you do, destroy target creature with toughness 4 or greater.
+When you discard this card, you may cast it from your graveyard. It costs {2} less to cast this way. => When this creature enters, you may pay 2 life. When you do, destroy target creature with toughness 4 or greater.
+When you discard this card, you may cast it from your graveyard. It costs {1} less to cast this way.
+
+Benediction Angel
+
+Burning Rebirth
+
+Etherium Whirler
+
+Unx Alchemist
+rules_text: When this creature enters, target nonland card in your graveyard gains lunge until end of turn. [i](You may cast a copy of that spell from your graveyard by discarding a card in addition to paying its other costs. If it's a permanent spell, the copy becomes a token. Then exile the card.)[/i] => When this creature enters, target nonland card in your graveyard gains lunge until end of turn. [i](You may cast a copy of that spell from your graveyard by discarding a card in addition to its other costs. If it's a permanent spell, the copy becomes a token. Then exile the card.)[/i]
+
+Messenger's Capsule
+
+The Endless Astrolabe
+rules_text: Flash
+[i]Metallurgy[/i] — When this artifact enters and whenever you cast an artifact spell, you may untap an artifact you control.
+{T}, Sacrifice two artifacts: Draw a card. => Flash
+[i]Metallurgy[/i] — When this artifact enters and whenever you cast an artifact spell, you may untap an artifact you control.
+{1}, {T}, Sacrifice an artifact: Draw a card. This ability costs {1} less to activate during your turn.
+
+Conflux Hydra
+
+Sarkhan, Dragons' Hunger
+rules_text: [i]Morbid[/i] — At the beginning of each end step, put a loyalty counter on Sarkhan if a creature died this turn.
+[0]: Create a 1/1 red Goblin creature token.
+[-2]: Create a 1/1 red and green Dragon creature token with flying and devour 2.
+[-X]: Target creature gains haste until end of turn. If it has mana value X, untap and gain control of it until end of turn. => [i]Morbid[/i] — At the beginning of each end step, put a loyalty counter on Sarkhan if a creature died this turn.
+[0]: Create a 1/1 red Goblin creature token.
+[-3]: Create a 1/1 red and green Dragon creature token with flying and devour 2.
+[-X]: Target creature gains haste until end of turn. If it has mana value X, untap and gain control of it until end of turn.
+special_text: [i]Morbid[/i] — At the beginning of each end step, put a loyalty counter on Sarkhan if a creature died this turn.
+[0]: Create a 1/1 red Goblin creature token.
+[-2]: Create a 1/1 red and green Dragon creature token with flying and devour 2.
+[-X]: Target creature gains haste until end of turn. If it has mana value X, untap and gain control of it until end of turn. => [i]Morbid[/i] — At the beginning of each end step, put a loyalty counter on Sarkhan if a creature died this turn.
+[0]: Create a 1/1 red Goblin creature token.
+[-3]: Create a 1/1 red and green Dragon creature token with flying and devour 2.
+[-X]: Target creature gains haste until end of turn. If it has mana value X, untap and gain control of it until end of turn.
+
+Forbidden Inspiration
+rules_text: Discard a card, then draw two cards. Forbidden Inspiration deals 1 damage to each player.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i] => Discard a card, then draw two cards. Forbidden Inspiration deals 1 damage to each player.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. Exile this card.)[/i]
+
+Gargantuan Impact
+
+Hadran, Sunseeder Chief
+rules_text: At the beginning of your first main phase, add {G} for each creature you control that's a Druid or a Shaman.
+[i]Stout[/i] — Whenever a creature with toughness 4 or greater you control enters, you may exile the top card of your library. If you do, you may play that card until you exile another card with Hadran. => At the beginning of your first main phase, add {G} for each creature you control that's a Druid or a Shaman.
+[i]Stout[/i] — Whenever a creature you control with toughness 4 or greater enters, you may exile the top card of your library. If you do, you may play that card until you exile another card with Hadran.
+
+Cesspool Scrapfiend
+
+Relic of Lost Alara
+
+Bolas, Cruel Schemer
+
+Lich's Obsession
+
+Elspeth, Returned to Bant
+
+Fire-Field Fiend
+
+Dragon
+
+Terror Tiller
+
+Terrepository
+rules_text: {T}: Add {C}.
+{2}, {T}: Target creature gets +1/+1 until end of turn for each land card in your graveyard. Activate only as a sorcery.
+{3}, {T}, Sacrifice a land: Search your library for a land card, put it into your hand, then shuffle. => {T}: Add {C}.
+{1}, {T}, Sacrifice a land: Search your library for a land card, put it into your hand, then shuffle.
+{2}, {T}: Target creature gets +1/+1 until end of turn for each land card in your graveyard. Activate only as a sorcery.
+
+Kaleidoshard
+
+Bant Emissary
+rules_text: Vigilance
+{2}{G}, {T}: Draw a card. Activate only if this creature is attacking.
+{2}{U}, {T}: Draw a card. Activate only if this creature is blocking. => Vigilance
+{2}{G}, {T}: Put a +1/+1 counter on this creature. Activate only during your turn.
+{2}{U}, {T}: Draw a card. Activate only during an opponent's turn.
+
+Esper Emissary
+rules_text: Flash
+{2}{W}, Sacrifice an artifact: Draw a card.
+{1}{B}, Exile an artifact card from your graveyard: Surveil 2. => Flash
+{1}{W}, Sacrifice an artifact: Draw a card.
+{1}{B}, Exile an artifact card from your graveyard: Surveil 2.
+
+Grixis Emissary
+type: Creature — Zombie Ogre => Creature — Horror
+
+Jund Emissary
+rules_text: Haste
+{B}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.
+{2}{G}, Exile a creature card from your graveyard: Draw a card. => Haste
+{B}, Sacrifice another creature: This creature gains indestructible until end of turn. Tap it.
+{3}{G}, Exile a creature card from your graveyard: Draw a card.
+
+Naya Emissary
+rules_text: Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{2}{W}, Exile a land card from your graveyard: Destroy target artifact or enchantment. => Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{2}{W}, Exile a land card from your graveyard: Tap target creature.
+
+Vithian Sparkslinger
+rules_text: Whenever a creature token you control enters, this creature deals 1 damage to each opponent.
+[i](This token's mana cost is {1}{R}.)[/i] => Whenever one or more creature tokens you control enter, this creature deals 1 damage to each opponent.
+[i](This token's mana cost is {1}{R}.)[/i]
+
+Filigree Formthief
+rules_text: You may have this creature enter as a copy of an artifact or creature you control, except it's a 2/2 artifact creature in addition to its other types.
+[i](This token's mana cost is {2}{U}.)[/i] => You may have this creature enter as a copy of any artifact or creature on the battlefield, except it's a 2/2 artifact creature.
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Blistering Vermin added.

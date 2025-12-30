@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/7_Court Homunculi.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/6_Court Homunculi.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "46",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/46_Frontline Mage.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/44_Frontline Mage.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{U}",
 			"type": "Legendary Creature — Human Rogue",
-			"collector_number": "47",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/47_Gwafa Hazid, Racketeer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/45_Gwafa Hazid, Racketeer.png"
 			}
 		},
 		{
@@ -101,13 +101,13 @@
 			}
 		},
 		{
-			"name": "Whispers of the Dead",
+			"name": "Agent of Incursion",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "94",
+			"type": "Artifact Creature — Human Rogue",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/94_Whispers of the Dead.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/65_Agent of Incursion.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "76",
+			"collector_number": "77",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/76_Morbid Celebrant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/77_Morbid Celebrant.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Artifact Creature — Faerie Artificer",
-			"collector_number": "43",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/43_Faerie Engineer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/41_Faerie Engineer.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Bird Zombie",
-			"collector_number": "49",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/49_Kathari Scavenger.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/47_Kathari Scavenger.png"
 			}
 		},
 		{
@@ -241,13 +241,13 @@
 			}
 		},
 		{
-			"name": "Countervailing Winds",
+			"name": "Neutralize",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
-			"collector_number": "36",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/36_Countervailing Winds.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/50_Neutralize.png"
 			}
 		},
 		{
@@ -262,12 +262,12 @@
 		},
 		{
 			"name": "Numbing Chain",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "52",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/52_Numbing Chain.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/51_Numbing Chain.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Artifact Creature — Homunculus",
-			"collector_number": "77",
+			"collector_number": "78",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/77_Nesting Homunculus.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/78_Nesting Homunculus.png"
 			}
 		},
 		{
@@ -375,9 +375,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird Warrior",
-			"collector_number": "74",
+			"collector_number": "75",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/74_Kathari Marauder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/75_Kathari Marauder.png"
 			}
 		},
 		{
@@ -393,11 +393,11 @@
 		{
 			"name": "Limitless Coil",
 			"rarity": "uncommon",
-			"mana_cost": "{2}",
+			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/243_Limitless Coil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/242_Limitless Coil.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/8_Crystallize.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/7_Crystallize.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Zombie Ogre",
-			"collector_number": "82",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/82_Rotting Rager.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/83_Rotting Rager.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "48",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/48_Jhessian Smuggler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/46_Jhessian Smuggler.png"
 			}
 		},
 		{
@@ -515,9 +515,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Vedalken Artificer",
-			"collector_number": "40",
+			"collector_number": "37",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/40_Etherium Sculptor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/37_Etherium Sculptor.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact",
-			"collector_number": "78",
+			"collector_number": "79",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/78_Onyx Capsule.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/79_Onyx Capsule.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/90_Tragic Slip.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/91_Tragic Slip.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "81",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/81_Resource Requisition.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/82_Resource Requisition.png"
 			}
 		},
 		{
@@ -675,9 +675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/91_Undying Devourer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/92_Undying Devourer.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Artifact Creature — Horror",
-			"collector_number": "169",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/169_Cesspool Scrapfiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/170_Cesspool Scrapfiend.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Artifact — Equipment",
-			"collector_number": "50",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/50_Mask of the Sphinxes.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/48_Mask of the Sphinxes.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Artifact Creature — Human Knight",
-			"collector_number": "175",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/175_Ethercaste Knight.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/177_Ethercaste Knight.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "164",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/164_Blightning.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/165_Blightning.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "176",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/176_Exterminate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/178_Exterminate.png"
 			}
 		},
 		{
@@ -805,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Creature — Ogre Mutant",
-			"collector_number": "177",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/177_Fire-Field Fiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/179_Fire-Field Fiend.png"
 			}
 		},
 		{
@@ -835,9 +835,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "238",
+			"collector_number": "237",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/238_Esper Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/237_Esper Monument.png"
 			}
 		},
 		{
@@ -845,9 +845,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "239",
+			"collector_number": "238",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/239_Grixis Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/238_Grixis Monument.png"
 			}
 		},
 		{
@@ -855,9 +855,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "240",
+			"collector_number": "239",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/240_Jund Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/239_Jund Monument.png"
 			}
 		},
 		{
@@ -865,9 +865,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/244_Naya Monument.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/243_Naya Monument.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Instant",
-			"collector_number": "178",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/178_Flurry of Wings.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/180_Flurry of Wings.png"
 			}
 		},
 		{
@@ -1161,13 +1161,13 @@
 			}
 		},
 		{
-			"name": "Grim Attendant",
+			"name": "Bellowing Brute",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "183",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Creature — Zombie Ogre",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/183_Grim Attendant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/164_Bellowing Brute.png"
 			}
 		},
 		{
@@ -1195,9 +1195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
 			"type": "Artifact",
-			"collector_number": "171",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/171_Corrupted Sigil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/173_Corrupted Sigil.png"
 			}
 		},
 		{
@@ -1213,7 +1213,7 @@
 		{
 			"name": "Territorial Tusker",
 			"rarity": "common",
-			"mana_cost": "{4}{R}{W}",
+			"mana_cost": "{5}{R}{W}",
 			"type": "Creature — Beast",
 			"collector_number": "221",
 			"image_uris": {
@@ -1245,9 +1245,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}{G}",
 			"type": "Creature — Spider",
-			"collector_number": "168",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/168_Canyon Weaver.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/169_Canyon Weaver.png"
 			}
 		},
 		{
@@ -1275,9 +1275,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Jellyfish",
-			"collector_number": "38",
+			"collector_number": "36",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/38_Esperzoa.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/36_Esperzoa.png"
 			}
 		},
 		{
@@ -1335,19 +1335,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/246_Sigil of Valor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/245_Sigil of Valor.png"
 			}
 		},
 		{
-			"name": "Escape Route",
+			"name": "Patrol Protocol",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
-			"collector_number": "37",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/37_Escape Route.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/52_Patrol Protocol.png"
 			}
 		},
 		{
@@ -1355,9 +1355,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact Creature — Vedalken Wizard",
-			"collector_number": "45",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/45_Flight Fabricator.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/43_Flight Fabricator.png"
 			}
 		},
 		{
@@ -1385,9 +1385,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/92_Unearth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/93_Unearth.png"
 			}
 		},
 		{
@@ -1505,9 +1505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Human Wizard",
-			"collector_number": "44",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/44_Filigree Formthief.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/42_Filigree Formthief.png"
 			}
 		},
 		{
@@ -1521,23 +1521,23 @@
 			}
 		},
 		{
-			"name": "Architects of Fate",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Human Wizard",
-			"collector_number": "65",
+			"name": "Identity Fracture",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "74",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/65_Architects of Fate.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/74_Identity Fracture.png"
 			}
 		},
 		{
-			"name": "Gargantuan Behemoth",
+			"name": "Charging Gargantuan",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Beast",
-			"collector_number": "180",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/180_Gargantuan Behemoth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/171_Charging Gargantuan.png"
 			}
 		},
 		{
@@ -1595,9 +1595,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Drake",
-			"collector_number": "84",
+			"collector_number": "85",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/84_Scavenger Wyvern.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/85_Scavenger Wyvern.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Creature — Demon",
-			"collector_number": "172",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/172_Cunning Archdemon.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/174_Cunning Archdemon.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "166",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/166_Broodmate Thunder.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/167_Broodmate Thunder.png"
 			}
 		},
 		{
@@ -1705,9 +1705,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Zombie Giant",
-			"collector_number": "86",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/86_Sedraxis Brute.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/87_Sedraxis Brute.png"
 			}
 		},
 		{
@@ -1825,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/88_Stinging Swarm.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/89_Stinging Swarm.png"
 			}
 		},
 		{
@@ -1915,9 +1915,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Legendary Creature — Elf Shaman",
-			"collector_number": "182",
+			"collector_number": "183",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/182_Godspeaker Mayael.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/183_Godspeaker Mayael.png"
 			}
 		},
 		{
@@ -1971,13 +1971,13 @@
 			}
 		},
 		{
-			"name": "Asha's Command",
+			"name": "Defense of the Domain",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Asha's Command.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/8_Defense of the Domain.png"
 			}
 		},
 		{
@@ -1985,9 +1985,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Legendary Artifact",
-			"collector_number": "4",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/4_Battlegrace Sigil.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/3_Battlegrace Sigil.png"
 			}
 		},
 		{
@@ -2005,9 +2005,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}{U}{U}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "42",
+			"collector_number": "39",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/42_Ethersworn Enigma.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/39_Ethersworn Enigma.png"
 			}
 		},
 		{
@@ -2055,9 +2055,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Legendary Artifact Creature — Human",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/6_Callio of the Ethersworn.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/5_Callio of the Ethersworn.png"
 			}
 		},
 		{
@@ -2092,7 +2092,7 @@
 		},
 		{
 			"name": "Extractor Imp",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Imp",
 			"collector_number": "71",
@@ -2105,9 +2105,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Artifact Creature — Sphinx",
-			"collector_number": "83",
+			"collector_number": "84",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/83_Salvage Summoner.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/84_Salvage Summoner.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{B}",
 			"type": "Creature — Elemental Ooze",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/89_Tar Hulk.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/90_Tar Hulk.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}",
 			"type": "Legendary Creature — Zombie Wizard",
-			"collector_number": "87",
+			"collector_number": "88",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/87_Shungus Nod, Fleshcrafter.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/88_Shungus Nod, Fleshcrafter.png"
 			}
 		},
 		{
@@ -2135,9 +2135,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "79",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/79_Parasitic Frenzy.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/80_Parasitic Frenzy.png"
 			}
 		},
 		{
@@ -2205,19 +2205,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Human Wizard",
-			"collector_number": "75",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/75_Minion Maker.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/76_Minion Maker.png"
 			}
 		},
 		{
-			"name": "Essence Rejection",
-			"rarity": "uncommon",
+			"name": "Exercise Authority",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
-			"collector_number": "39",
+			"collector_number": "40",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/39_Essence Rejection.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/40_Exercise Authority.png"
 			}
 		},
 		{
@@ -2225,9 +2225,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "80",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/80_Reckoner's Bargain.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/81_Reckoner's Bargain.png"
 			}
 		},
 		{
@@ -2235,9 +2235,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Artifact Creature — Human Assassin",
-			"collector_number": "85",
+			"collector_number": "86",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/85_Scrap Slasher.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/86_Scrap Slasher.png"
 			}
 		},
 		{
@@ -2255,9 +2255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "5",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/5_Benediction Angel.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/4_Benediction Angel.png"
 			}
 		},
 		{
@@ -2275,9 +2275,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Instant",
-			"collector_number": "167",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/167_Burning Rebirth.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/168_Burning Rebirth.png"
 			}
 		},
 		{
@@ -2295,9 +2295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Artifact Creature — Human Rogue",
-			"collector_number": "41",
+			"collector_number": "38",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/41_Etherium Whirler.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/38_Etherium Whirler.png"
 			}
 		},
 		{
@@ -2305,9 +2305,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Artifact Creature — Zombie Wizard",
-			"collector_number": "93",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/93_Unx Alchemist.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/94_Unx Alchemist.png"
 			}
 		},
 		{
@@ -2345,9 +2345,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Artifact",
-			"collector_number": "51",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/51_Messenger's Capsule.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/49_Messenger's Capsule.png"
 			}
 		},
 		{
@@ -2355,9 +2355,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Artifact",
-			"collector_number": "174",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/174_The Endless Astrolabe.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/176_The Endless Astrolabe.png"
 			}
 		},
 		{
@@ -2375,9 +2375,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{X}{R}{G}",
 			"type": "Creature — Hydra",
-			"collector_number": "170",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/170_Conflux Hydra.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/172_Conflux Hydra.png"
 			}
 		},
 		{
@@ -2425,9 +2425,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/179_Forbidden Inspiration.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/181_Forbidden Inspiration.png"
 			}
 		},
 		{
@@ -2445,9 +2445,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Instant",
-			"collector_number": "181",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/181_Gargantuan Impact.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/182_Gargantuan Impact.png"
 			}
 		},
 		{
@@ -2515,9 +2515,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Token Artifact Creature — Horror",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/16_Cesspool Scrapfiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/17_Cesspool Scrapfiend.png"
 			}
 		},
 		{
@@ -2611,13 +2611,13 @@
 			}
 		},
 		{
-			"name": "Chalice of Malfegor",
+			"name": "Whip of Vertebrae",
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "237",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/237_Chalice of Malfegor.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/247_Whip of Vertebrae.png"
 			}
 		},
 		{
@@ -2625,9 +2625,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/245_Relic of Lost Alara.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/244_Relic of Lost Alara.png"
 			}
 		},
 		{
@@ -2635,9 +2635,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Planeswalker — Bolas",
-			"collector_number": "165",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/165_Bolas, Cruel Schemer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/166_Bolas, Cruel Schemer.png"
 			}
 		},
 		{
@@ -2645,9 +2645,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact",
-			"collector_number": "242",
+			"collector_number": "241",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/242_Lich's Obsession.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/241_Lich's Obsession.png"
 			}
 		},
 		{
@@ -2655,9 +2655,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Legendary Planeswalker — Elspeth",
-			"collector_number": "173",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/173_Elspeth, Returned to Bant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/175_Elspeth, Returned to Bant.png"
 			}
 		},
 		{
@@ -2665,9 +2665,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Token Creature — Ogre Mutant",
-			"collector_number": "18",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/18_Fire-Field Fiend.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/19_Fire-Field Fiend.png"
 			}
 		},
 		{
@@ -2675,9 +2675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Dragon",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/17_Dragon.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/18_Dragon.png"
 			}
 		},
 		{
@@ -2715,9 +2715,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/247_Terror Tiller.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/246_Terror Tiller.png"
 			}
 		},
 		{
@@ -2735,9 +2735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "241",
+			"collector_number": "240",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/241_Kaleidoshard.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/240_Kaleidoshard.png"
 			}
 		},
 		{
@@ -2751,13 +2751,13 @@
 			}
 		},
 		{
-			"name": "Kresh, Mage Slayer",
+			"name": "Kresh, Hellkite Hunter",
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "188",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/188_Kresh, Mage Slayer.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/188_Kresh, Hellkite Hunter.png"
 			}
 		},
 		{
@@ -2784,7 +2784,7 @@
 			"name": "Grixis Emissary",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U/R}{B}",
-			"type": "Creature — Zombie Ogre",
+			"type": "Creature — Horror",
 			"collector_number": "233",
 			"image_uris": {
 				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/233_Grixis Emissary.png"
@@ -2831,13 +2831,13 @@
 			}
 		},
 		{
-			"name": "Grim Attendant",
+			"name": "Bellowing Brute",
 			"rarity": "common",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Token Creature — Human Shaman",
-			"collector_number": "19",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Token Creature — Zombie Ogre",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/19_Grim Attendant.png"
+				"en": "https://AlaraReimagined.github.io/sets/ALR-files/img/16_Bellowing Brute.png"
 			}
 		}
 	]
@@ -2858,6 +2858,7 @@
 	1 Flamespit Hellkite
 	2 Monumental Rannet
 	2 Filigree Formthief
+	2 Identity Fracture
 	2 Mycolossus
 	2 Stoic Angel
 	2 Syeena, Godtoucher
@@ -2879,7 +2880,7 @@
 	2 Monstrous Sapherd
 	2 Scavenger's Renown
 	2 Knight of Eos
-	2 Asha's Command
+	2 Defense of the Domain
 	2 Battlegrace Sigil
 	2 Endless Hordes
 	1 Ethersworn Enigma
@@ -2890,7 +2891,6 @@
 	2 Callio of the Ethersworn
 	2 Shardquake
 	2 Splintering Sphinx
-	2 Extractor Imp
 	2 Salvage Summoner
 	2 Tar Hulk
 	2 Shungus Nod, Fleshcrafter
@@ -2914,11 +2914,12 @@
 	1 Bolas, Cruel Schemer
 	1 Lich's Obsession
 	1 Elspeth, Returned to Bant
-	1 Kresh, Mage Slayer
+	1 Kresh, Hellkite Hunter
 [uncommon(3)]
 	4 Thunder-Thrash Viashino
 	4 Seer Strix
 	4 Whirler Foundry
+	4 Numbing Chain
 	4 Bant Monument
 	4 Limitless Coil
 	4 Outmatch
@@ -2943,7 +2944,7 @@
 	4 Woolly Thoctar
 	4 Palandius Gargoyle
 	4 Shrieking Strix
-	4 Grim Attendant
+	4 Bellowing Brute
 	4 Sigiled Gargantuan
 	4 Corrupted Sigil
 	4 Necrotic Germination
@@ -2954,7 +2955,7 @@
 	4 Bone Shards
 	4 Slime Invocation
 	4 Sigil of Valor
-	4 Escape Route
+	4 Patrol Protocol
 	4 Flight Fabricator
 	4 Zombie Haven
 	4 Pitch-Thrash Patrol
@@ -2963,7 +2964,6 @@
 	4 Etherium Prison
 	4 White Orchid Paladin
 	4 Regulation Stone
-	4 Architects of Fate
 	4 Nurturing Sunseeder
 	4 Metallic Medic
 	4 Firestoker Exuberant
@@ -2981,8 +2981,8 @@
 	4 Volcanic Volley
 	4 Spitting Iguanar
 	4 Watchtower Lookout
+	4 Extractor Imp
 	4 Minion Maker
-	4 Essence Rejection
 	4 Scrap Slasher
 	4 Benediction Angel
 	4 Path to Exile
@@ -2992,7 +2992,7 @@
 	4 Rannet Stomphowler
 	4 Gargantuan Impact
 	4 Hadran, Sunseeder Chief
-	4 Chalice of Malfegor
+	4 Whip of Vertebrae
 	4 Terror Tiller
 	4 Terrepository
 	4 Kaleidoshard
@@ -3012,7 +3012,7 @@
 	8 Defiant Incurable
 	8 Pyroclast
 	8 Melted Majesty
-	8 Whispers of the Dead
+	8 Agent of Incursion
 	8 Titanic Sledge
 	8 Morbid Celebrant
 	8 Gustglider Exuberant
@@ -3024,8 +3024,7 @@
 	8 Ancestral Blade
 	8 Kathari Scavenger
 	8 Silverclad Winder
-	8 Countervailing Winds
-	8 Numbing Chain
+	8 Neutralize
 	8 Godseeker Druid
 	8 Feral Undead
 	8 Nesting Homunculus
@@ -3093,13 +3092,14 @@
 	8 Limits of Solidarity
 	8 Saproling Migration
 	8 Edge of Conflux
-	8 Gargantuan Behemoth
+	8 Charging Gargantuan
 	8 Solitary Thoctar
 	8 Deathspark Elemental
 	8 Aerie Windcaller
 	8 Shining Strike
 	8 Stinging Swarm
 	8 Paladin's Shield
+	8 Exercise Authority
 	8 Reckoner's Bargain
 	8 Artificer's Epiphany
 	8 Burning Rebirth
@@ -3121,7 +3121,7 @@
 	2 Gwafa Hazid, Racketeer
 	12 Pyroclast
 	12 Melted Majesty
-	12 Whispers of the Dead
+	12 Agent of Incursion
 	12 Titanic Sledge
 	12 Morbid Celebrant
 	12 Gustglider Exuberant
@@ -3135,9 +3135,9 @@
 	6 Seer Strix
 	12 Kathari Scavenger
 	12 Silverclad Winder
-	12 Countervailing Winds
+	12 Neutralize
 	6 Whirler Foundry
-	12 Numbing Chain
+	6 Numbing Chain
 	12 Godseeker Druid
 	12 Feral Undead
 	12 Nesting Homunculus
@@ -3227,7 +3227,7 @@
 	6 Woolly Thoctar
 	6 Palandius Gargoyle
 	6 Shrieking Strix
-	6 Grim Attendant
+	6 Bellowing Brute
 	2 Nimo, Bloodbraid Chief
 	6 Sigiled Gargantuan
 	6 Corrupted Sigil
@@ -3245,7 +3245,7 @@
 	12 Aspect of the Coatl
 	1 Sedris, Grave Monarch
 	6 Sigil of Valor
-	6 Escape Route
+	6 Patrol Protocol
 	6 Flight Fabricator
 	12 Syncopate
 	6 Zombie Haven
@@ -3263,8 +3263,8 @@
 	6 White Orchid Paladin
 	2 Filigree Formthief
 	6 Regulation Stone
-	6 Architects of Fate
-	12 Gargantuan Behemoth
+	2 Identity Fracture
+	12 Charging Gargantuan
 	6 Nurturing Sunseeder
 	6 Metallic Medic
 	6 Firestoker Exuberant
@@ -3308,7 +3308,7 @@
 	2 Monstrous Sapherd
 	2 Scavenger's Renown
 	2 Knight of Eos
-	2 Asha's Command
+	2 Defense of the Domain
 	2 Battlegrace Sigil
 	2 Endless Hordes
 	1 Ethersworn Enigma
@@ -3320,7 +3320,7 @@
 	2 Shardquake
 	2 Splintering Sphinx
 	6 Watchtower Lookout
-	2 Extractor Imp
+	6 Extractor Imp
 	2 Salvage Summoner
 	2 Tar Hulk
 	2 Shungus Nod, Fleshcrafter
@@ -3332,7 +3332,7 @@
 	2 Knight of Vengeance
 	2 Kess, Renegade Arcanist
 	6 Minion Maker
-	6 Essence Rejection
+	12 Exercise Authority
 	12 Reckoner's Bargain
 	6 Scrap Slasher
 	12 Artificer's Epiphany
@@ -3361,7 +3361,7 @@
 	6 Hadran, Sunseeder Chief
 	1 Maelstrom Shrine
 	2 Avenger of Valeron
-	6 Chalice of Malfegor
+	6 Whip of Vertebrae
 	12 Relic of Lost Alara
 	1 Bolas, Cruel Schemer
 	1 Lich's Obsession
@@ -3370,7 +3370,7 @@
 	6 Terrepository
 	6 Kaleidoshard
 	6 Lifecycle Wurm
-	1 Kresh, Mage Slayer
+	1 Kresh, Hellkite Hunter
 	6 Bant Emissary
 	6 Esper Emissary
 	6 Grixis Emissary
@@ -3387,7 +3387,7 @@
 	7 Gwafa Hazid, Racketeer
 	6 Pyroclast
 	6 Melted Majesty
-	6 Whispers of the Dead
+	6 Agent of Incursion
 	6 Titanic Sledge
 	6 Morbid Celebrant
 	6 Gustglider Exuberant
@@ -3401,9 +3401,9 @@
 	15 Seer Strix
 	6 Kathari Scavenger
 	6 Silverclad Winder
-	6 Countervailing Winds
+	6 Neutralize
 	15 Whirler Foundry
-	6 Numbing Chain
+	15 Numbing Chain
 	6 Godseeker Druid
 	6 Feral Undead
 	6 Nesting Homunculus
@@ -3493,7 +3493,7 @@
 	15 Woolly Thoctar
 	15 Palandius Gargoyle
 	15 Shrieking Strix
-	15 Grim Attendant
+	15 Bellowing Brute
 	7 Nimo, Bloodbraid Chief
 	15 Sigiled Gargantuan
 	15 Corrupted Sigil
@@ -3511,7 +3511,7 @@
 	6 Aspect of the Coatl
 	4 Sedris, Grave Monarch
 	15 Sigil of Valor
-	15 Escape Route
+	15 Patrol Protocol
 	15 Flight Fabricator
 	6 Syncopate
 	15 Zombie Haven
@@ -3529,8 +3529,8 @@
 	15 White Orchid Paladin
 	7 Filigree Formthief
 	15 Regulation Stone
-	15 Architects of Fate
-	6 Gargantuan Behemoth
+	7 Identity Fracture
+	6 Charging Gargantuan
 	15 Nurturing Sunseeder
 	15 Metallic Medic
 	15 Firestoker Exuberant
@@ -3574,7 +3574,7 @@
 	7 Monstrous Sapherd
 	7 Scavenger's Renown
 	7 Knight of Eos
-	7 Asha's Command
+	7 Defense of the Domain
 	7 Battlegrace Sigil
 	7 Endless Hordes
 	4 Ethersworn Enigma
@@ -3586,7 +3586,7 @@
 	7 Shardquake
 	7 Splintering Sphinx
 	15 Watchtower Lookout
-	7 Extractor Imp
+	15 Extractor Imp
 	7 Salvage Summoner
 	7 Tar Hulk
 	7 Shungus Nod, Fleshcrafter
@@ -3598,7 +3598,7 @@
 	7 Knight of Vengeance
 	7 Kess, Renegade Arcanist
 	15 Minion Maker
-	15 Essence Rejection
+	6 Exercise Authority
 	6 Reckoner's Bargain
 	15 Scrap Slasher
 	6 Artificer's Epiphany
@@ -3627,7 +3627,7 @@
 	15 Hadran, Sunseeder Chief
 	4 Maelstrom Shrine
 	7 Avenger of Valeron
-	15 Chalice of Malfegor
+	15 Whip of Vertebrae
 	6 Relic of Lost Alara
 	4 Bolas, Cruel Schemer
 	4 Lich's Obsession
@@ -3636,7 +3636,7 @@
 	15 Terrepository
 	15 Kaleidoshard
 	15 Lifecycle Wurm
-	4 Kresh, Mage Slayer
+	4 Kresh, Hellkite Hunter
 	15 Bant Emissary
 	15 Esper Emissary
 	15 Grixis Emissary
