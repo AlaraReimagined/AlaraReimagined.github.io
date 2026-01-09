@@ -1,4 +1,419 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Macabre Waltz added.
+Steward of Valeron added.
+Taani, Bloodbraid Chief added.
+Solitary Mosstodon added.
+Jenara, Stoic Asura added.
+Blessing of the Amesha added.
+Mayael, Sacred Anima added.
+Strixshaping added.
+Qala, Nacatl Uniter added.
+Skyward Eye Avenger added.
+Kresh of Tol Antaga added.
+Maelstrom Elemental added.
+
+Resource Requisition removed.
+Nimo, Bloodbraid Chief removed.
+Solitary Thoctar removed.
+Stoic Angel removed.
+Sigil of Mortar's Wings removed.
+Godspeaker Mayael removed.
+Artificer's Epiphany removed.
+Tiyan, Kha of Qasal removed.
+Avenger of Valeron removed.
+Whip of Vertebrae removed.
+Kresh, Hellkite Hunter removed.
+
+Court Homunculi
+
+Frontline Mage
+
+Gwafa Hazid, Racketeer
+
+Morbid Celebrant
+rules_text: Whenever another creature you control dies, you gain 1 life. If it was sacrificed, each opponent loses 1 life. => Whenever a creature token you control dies, each opponent loses 1 life.
+Whenever you discard a card, you gain 1 life.
+
+Gustglider Exuberant
+
+Fencing Ace
+
+Faerie Engineer
+
+Sculptor's Skill
+
+Seer Strix
+
+Kathari Scavenger
+
+Silverclad Winder
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+Basic landcycling {1}{U} [i]({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+Basic landcycling {1}{U} [i]({1}{U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Neutralize
+
+Numbing Chain
+
+Godseeker Druid
+
+Nesting Homunculus
+
+Court Archers
+
+Foundation Fracture
+
+Devastating Blow
+
+Bant Monument
+
+Limitless Coil
+
+Landscaper Plowbeast
+
+Gravebane Nacatl
+
+Crystallize
+
+Reconstruct
+
+Outmatch
+
+Guardians of the Sanctum
+
+Planeshift
+
+Rotting Rager
+type: Creature — Zombie Ogre => Creature — Zombie Ogre Warrior
+
+Jhessian Smuggler
+
+Etherium Sculptor
+
+Delicious Duo
+rules_text: [i]Morbid[/i] — If a creature died this turn, you may cast this spell as though it had flash.
+Create two 1/1 red Goblin creature tokens. => Create two 1/1 red Goblin creature tokens.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. Then exile this card.)[/i]
+
+Soul's Flame
+
+Thornwhip Runner
+type: Creature — Human Scout Shaman => Creature — Human Shaman Scout
+
+Gargantuan Gift
+
+Fungal Rebirth
+cost: {1}{G} => {2}{G}
+
+Ridgescale Behemoth
+
+Rhox Charger
+
+Onyx Capsule
+
+Undying Devourer
+rules_text: Flash
+Whenever one or more other artifacts and/or creatures you control leave the battlefield, put a +1/+1 counter on this creature. This ability triggers only once each turn.
+Sacrifice another artifact or creature: This creature gains indestructible until end of turn. => Flash
+Whenever one or more other artifacts and/or creatures you control leave the battlefield, put a +1/+1 counter on this creature.
+Sacrifice another artifact or creature: This creature gains indestructible until end of turn. Activate only once each turn.
+
+Mask of the Sphinxes
+rules_text: Whenever equipped creature attacks, surveil 2.
+Equipped creature has flying as long as it's attacking alone.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i] => Whenever equipped creature attacks alone, surveil 2.
+Equipped creature has flying.
+Equip {2} [i]({2}: Attach to target creature you control. Equip only as a sorcery.)[/i]
+
+Recoil from Reality
+
+Attended Aether-Lich
+
+Reality Lapse
+
+Scalegod Tracker
+type: Creature — Elf Shaman => Creature — Elf Warrior Shaman
+
+Grizzled Leotau
+
+Windwright Sage
+
+Scavenger Thrash
+
+Waveskimmer Sentinel
+
+Esper Monument
+
+Grixis Monument
+
+Jund Monument
+
+Naya Monument
+
+Maelstrom Boons
+
+Sludge Sifter
+
+Rhox War Monk
+
+Pawn of Malfegor
+
+Tine of Unbending
+
+Surge of Sangrite
+
+Sprouting Thrinax
+
+Woolly Thoctar
+
+Palandius Gargoyle
+
+Shrieking Strix
+
+Bellowing Brute
+type: Creature — Zombie Ogre => Creature — Zombie Ogre Warrior
+
+Sigiled Gargantuan
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+[i]Stout[/i] — At the beginning of combat on your turn, other creatures you control with toughness 4 or greater gain exalted until end of turn. => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+[i]Stout[/i] — Whenever a creature you control with toughness 4 or greater dies, draw a card if it was attacking. Otherwise, you gain 2 life.
+
+Necrotic Germination
+
+Territorial Tusker
+
+Unbeholden Stalker
+
+Scrivener's Bloodpact
+
+Silas Renn, Seeker Adept
+
+Olcot, Grixis Battlemage
+
+Esperzoa
+
+Sedris, Grave Monarch
+rules_text: Rather than pay the mana cost of the first spell you cast from anywhere other than your hand each turn, you may pay {2}{B}.
+Discard a card: Exile target creature card from a graveyard. You may cast a copy of that spell. Activate only as a sorcery. [i](You still pay costs. The copy becomes a token.)[/i] => Discard a card: Exile target creature card from a graveyard. You may cast a copy of that spell. Activate only as a sorcery. [i](You still pay costs. The copy becomes a token.)[/i]
+Pay 1 life: Add one mana of any color. Spend this mana only to activate an ability of a card in your graveyard or to cast a spell from your graveyard or from exile.
+
+Sigil of Valor
+
+Patrol Protocol
+
+Flight Fabricator
+
+Saproling Migration
+
+Edge of Conflux
+
+Avalanche Elemental
+rules_text: This creature has first strike during your turn.
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn. => This creature has first strike during your turn.
+[i]Morbid[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if a creature died this turn.
+
+Etherium Prison
+
+White Orchid Paladin
+rules_text: Whenever a Knight you control attacks alone, look at the top card of your library. If it's a permanent card with lesser mana value, you may reveal it and put it into your hand. If you don't put the card into your hand, put a +1/+1 counter on that Knight. => Whenever a Knight you control attacks alone, look at the top card of your library. If it's a permanent card with mana value 3 or less, you may reveal it and put it into your hand. If you don't put the card into your hand, put a +1/+1 counter on that Knight.
+
+Filigree Formthief
+
+Regulation Stone
+
+Nurturing Sunseeder
+
+Metallic Medic
+type: Artifact Creature — Human Cleric => Artifact Creature — Human Wizard
+
+Behemoth Seeker
+pt: 2/2 => 3/2
+
+Prowling Gharial
+rules_text: Ward {3}
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn. => Ward {3}
+[i]Morbid[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if a creature died this turn.
+pt: 1/1 => 2/2
+
+Scavenger Wyvern
+rules_text: Flying
+[i]Morbid[/i] — At the beginning of each end step, put a +1/+1 counter on this creature if a creature died this turn. => Flying
+[i]Morbid[/i] — At the beginning of your end step, put a +1/+1 counter on this creature if a creature died this turn.
+pt: 1/2 => 2/2
+
+Mycolossus
+
+Syeena, Godtoucher
+
+Sovereign of Steel Wind
+
+Swordshatter Behemoth
+
+Rannon, Vithian Holdout
+
+Marrow Cruncher
+cost: {1}{B}{G} => {2}{B}{G}
+pt: 2/2 => 2/3
+
+Knight-Captain Wyhorn
+
+Sculptor's Scepter
+
+Aerie Windcaller
+rules_text: Flying
+When you cycle this card or this creature enters, up to one target creature gains flying until end of turn.
+Cycling {2U} [i]({2U}, Discard this card: Draw a card.)[/i] => Flying
+When you discard this card or this creature enters, up to one target creature gains flying until end of turn.
+Cycling {2U} [i]({2U}, Discard this card: Draw a card.)[/i]
+
+Rafiq, Knight-General
+
+Maelstrom Crusade
+
+Shining Strike
+
+Mulchskulker
+cost: {3}{G} => {4}{G}
+
+Jorshu of Clan Nel Toth
+
+Runadi, Gargantuan Caller
+
+Paladin's Shield
+
+Spitting Iguanar
+rules_text: Reach
+{T}: This creature deals 1 damage to any target.
+Whenever you discard one or more cards, untap this creature. => Reach
+{T}: This creature deals 1 damage to any target. If a creature is dealt damage this way, you lose 1 life.
+Whenever you discard one or more cards, untap this creature.
+pt: 1/3 => 1/2
+
+Sharuum the Ascendant
+
+Monstrous Sapherd
+
+Scavenger's Renown
+
+Knight of Eos
+
+Defense of the Domain
+
+Ethersworn Enigma
+
+Relentless Archangel
+
+Callio of the Ethersworn
+
+Shardquake
+
+Splintering Sphinx
+
+Tar Hulk
+
+Parasitic Frenzy
+
+Seventh Sea Leviathan
+
+Telemin Restorer
+
+Seekers of Majesty
+
+Minion Maker
+
+Exercise Authority
+
+Reckoner's Bargain
+
+Scrap Slasher
+type: Artifact Creature — Human Assassin => Artifact Creature — Human Rogue
+
+Path to Exile
+
+Etherium Whirler
+
+Rannet Stomphowler
+
+Marble Capsule
+
+Messenger's Capsule
+
+The Endless Astrolabe
+rules_text: Flash
+[i]Metallurgy[/i] — When this artifact enters and whenever you cast an artifact spell, you may untap an artifact you control.
+{1}, {T}, Sacrifice an artifact: Draw a card. This ability costs {1} less to activate during your turn. => {1}, {T}, Discard a card: You gain 4 life.
+{1}, {T}, Pay 1 life: Create a 0/1 blue Homunculus artifact creature token.
+{1}, {T}, Sacrifice a creature: Return target artifact card from your graveyard to your hand.
+{1}, {T}, Sacrifice an artifact: Draw a card.
+
+Malfegor the Butcher
+
+Sarkhan, Dragons' Hunger
+
+Tezzeret, Prodigal Son
+
+Forbidden Inspiration
+rules_text: Discard a card, then draw two cards. Forbidden Inspiration deals 1 damage to each player.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. Exile this card.)[/i] => Discard a card, then draw two cards. Forbidden Inspiration deals 1 damage to each player.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. Then exile this card.)[/i]
+
+Tidehollow Dominator
+
+Vedalken Apostate
+
+Predatory Thrinax
+
+Rotting Rager
+type: Token Creature — Zombie Ogre => Creature — Zombie Ogre Warrior
+rules_text: Cycling {2B} [i]({2B}, Discard this card: Draw a card.)[/i]
+[i](This token's mana cost is {1}{B}{B}.)[/i] => Cycling—Pay 2 life [i](Pay 2 life, Discard this card: Draw a card.)[/i]
+[i](This token's mana cost is {1}{B}{B}.)[/i]
+
+Relic of Lost Alara
+
+Lich's Obsession
+
+Terror Tiller
+rules_text: {X}, {T}: Return target artifact or creature card with mana value X from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step. If it would leave the battlefield, exile it instead of putting it anywhere else. Activate only as a sorcery. => {T}: Each player mills a card.
+{X}, {T}: Exile target creature card with mana value X from your graveyard. Create a token that's a copy of it, except it has haste. Exile it at the beginning of the next end step. Activate only as a sorcery.
+
+Kaleidoshard
+
+Bant Emissary
+
+Esper Emissary
+rules_text: Flash
+{1}{W}, Sacrifice an artifact: Draw a card.
+{1}{B}, Exile an artifact card from your graveyard: Surveil 2. => Flash
+{1}{W}, Sacrifice an artifact: Draw a card.
+{2}{B}, Exile X artifact cards from your graveyard: Target creature gets -X/-X until end of turn.
+
+Grixis Emissary
+
+Jund Emissary
+
+Naya Emissary
+rules_text: Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{2}{W}, Exile a land card from your graveyard: Tap target creature. => Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{1}{W}, Exile a land card from your graveyard: Tap target creature.
+
+Bellowing Brute
+type: Token Creature — Zombie Ogre => Creature — Zombie Ogre Warrior
+
+Qasali Pridemage
+type: Creature — Cat Wizard => Token Creature — Cat Wizard
+cost: {G}{W} => 
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+{1}, Sacrifice this creature: Destroy target artifact or enchantment. => Exalted
+{1}, Sacrifice this creature: Destroy target artifact or enchantment.
+[i](This token's mana cost is {G}{W}.)[/i]
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Agent of Incursion added.
