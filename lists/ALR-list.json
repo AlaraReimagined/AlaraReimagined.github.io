@@ -756,7 +756,7 @@
         "set": "ALR"
     },
     {
-        "card_name": "Mask of the Sphinxes",
+        "card_name": "Mask of the Hegemon",
         "number": 47,
         "shape": "normal",
         "set": "ALR"
@@ -979,8 +979,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "The Endless Astrolabe",
-        "number": 176,
+        "card_name": "Sen Triplets, Puppeteers",
+        "number": 211,
         "shape": "normal",
         "set": "ALR"
     },
@@ -998,7 +998,7 @@
     },
     {
         "card_name": "Qala, Nacatl Uniter",
-        "number": 200,
+        "number": 201,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1010,7 +1010,7 @@
     },
     {
         "card_name": "Silas Renn, Seeker Adept",
-        "number": 213,
+        "number": 215,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1022,25 +1022,25 @@
     },
     {
         "card_name": "Taani, Bloodbraid Chief",
-        "number": 221,
+        "number": 223,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Syeena, Godtoucher",
-        "number": 220,
+        "number": 222,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Palandius Gargoyle",
-        "number": 197,
+        "number": 198,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Shrieking Strix",
-        "number": 211,
+        "number": 213,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1058,7 +1058,7 @@
     },
     {
         "card_name": "Sigiled Gargantuan",
-        "number": 212,
+        "number": 214,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1094,13 +1094,13 @@
     },
     {
         "card_name": "Reality Lapse",
-        "number": 202,
+        "number": 203,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Recoil from Reality",
-        "number": 203,
+        "number": 204,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1118,7 +1118,7 @@
     },
     {
         "card_name": "Steward of Valeron",
-        "number": 217,
+        "number": 219,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1138,8 +1138,8 @@
         "card_name": "er"
     },
     {
-        "card_name": "Telemin Restorer",
-        "number": 222,
+        "card_name": "Tidehollow Scrounger",
+        "number": 226,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1163,7 +1163,7 @@
     },
     {
         "card_name": "Seekers of Majesty",
-        "number": 209,
+        "number": 210,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1175,13 +1175,13 @@
     },
     {
         "card_name": "Scrivener's Bloodpact",
-        "number": 207,
+        "number": 208,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Necrotic Germination",
-        "number": 195,
+        "number": 196,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1198,8 +1198,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Tidehollow Dominator",
-        "number": 225,
+        "card_name": "Mentalist Dominator",
+        "number": 195,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1211,13 +1211,13 @@
     },
     {
         "card_name": "Predatory Thrinax",
-        "number": 199,
+        "number": 200,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Territorial Tusker",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1244,7 +1244,7 @@
     },
     {
         "card_name": "Sharuum the Ascendant",
-        "number": 210,
+        "number": 212,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1274,19 +1274,19 @@
     },
     {
         "card_name": "Tezzeret, Prodigal Son",
-        "number": 224,
+        "number": 225,
         "shape": "planeswalker",
         "set": "ALR"
     },
     {
         "card_name": "Sedris, Grave Monarch",
-        "number": 208,
+        "number": 209,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Sarkhan, Dragons' Hunger",
-        "number": 205,
+        "number": 206,
         "shape": "planeswalker",
         "set": "ALR"
     },
@@ -1298,19 +1298,19 @@
     },
     {
         "card_name": "Rafiq, Knight-General",
-        "number": 201,
+        "number": 202,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Sovereign of Steel Wind",
-        "number": 215,
+        "number": 217,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Olcot, Grixis Battlemage",
-        "number": 196,
+        "number": 197,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1322,7 +1322,7 @@
     },
     {
         "card_name": "Swordshatter Behemoth",
-        "number": 219,
+        "number": 221,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1333,8 +1333,8 @@
         "set": "ALR"
     },
     {
-        "card_name": "Sludge Sifter",
-        "number": 214,
+        "card_name": "Endless Astrolabe",
+        "number": 176,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1352,7 +1352,7 @@
     },
     {
         "card_name": "Surge of Sangrite",
-        "number": 218,
+        "number": 220,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1363,20 +1363,20 @@
         "set": "ALR"
     },
     {
-        "card_name": "Tine of Unbending",
-        "number": 226,
+        "card_name": "Sludge Sifter",
+        "number": 216,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Pawn of Malfegor",
-        "number": 198,
+        "number": 199,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Sprouting Thrinax",
-        "number": 216,
+        "number": 218,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1388,7 +1388,7 @@
     },
     {
         "card_name": "Rhox War Monk",
-        "number": 204,
+        "number": 205,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1436,7 +1436,7 @@
     },
     {
         "card_name": "Scavenger Thrash",
-        "number": 206,
+        "number": 207,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1593,13 +1593,13 @@
     },
     {
         "card_name": "Fieldmist Border",
-        "number": 257,
+        "number": 254,
         "shape": "normal",
         "set": "ALR"
     },
     {
         "card_name": "Mistvein Border",
-        "number": 259,
+        "number": 258,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1611,7 +1611,7 @@
     },
     {
         "card_name": "Firewild Border",
-        "number": 258,
+        "number": 255,
         "shape": "normal",
         "set": "ALR"
     },
@@ -1638,55 +1638,55 @@
     },
     {
         "card_name": "Maelstrom Shrine",
-        "number": 252,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Bant Triome",
         "number": 248,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Esper Triome",
+        "card_name": "Terrepository",
         "number": 249,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Grixis Triome",
+        "card_name": "Ash Barrens",
         "number": 250,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Jund Triome",
+        "card_name": "Bant Triome",
         "number": 251,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Naya Triome",
+        "card_name": "Contaminated Landscape",
+        "number": 252,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Esper Triome",
         "number": 253,
         "shape": "normal",
         "set": "ALR"
     },
     {
-        "card_name": "Terrepository",
-        "number": 254,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Ash Barrens",
-        "number": 255,
-        "shape": "normal",
-        "set": "ALR"
-    },
-    {
-        "card_name": "Contaminated Landscape",
+        "card_name": "Grixis Triome",
         "number": 256,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Jund Triome",
+        "number": 257,
+        "shape": "normal",
+        "set": "ALR"
+    },
+    {
+        "card_name": "Naya Triome",
+        "number": 259,
         "shape": "normal",
         "set": "ALR"
     },

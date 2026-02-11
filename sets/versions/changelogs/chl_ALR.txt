@@ -1,4 +1,306 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Mask of the Hegemon added.
+Sen Triplets, Puppeteers added.
+Tidehollow Scrounger added.
+Endless Astrolabe added.
+Mentalist Dominator added.
+
+Mask of the Sphinxes removed.
+Tine of Unbending removed.
+Telemin Restorer removed.
+The Endless Astrolabe removed.
+Tidehollow Dominator removed.
+
+Retromancy
+
+Frontline Mage
+
+Gwafa Hazid, Racketeer
+
+Pyroclast
+
+Agent of Incursion
+
+Gustglider Exuberant
+rules_text: Flying
+[i]Stout[/i] — Whenever this creature attacks, if you control a creature with toughness 4 or greater, untap this creature.
+{T}: Target creature gains flying until end of turn. => Flying
+[i]Stout[/i] — Whenever this creature attacks, untap it if you control another creature with toughness 4 or greater.
+{T}: Target creature gains flying until end of turn.
+
+Blistering Vermin
+rules_text: When this creature enters, target creature gets -1/-1 until end of turn.
+When this creature dies, each player discards a card. If it was sacrificed, target player discards a card instead. => When this creature enters or dies, choose one —
+• Target creature gets -1/-1 until end of turn.
+• Each player discards a card.
+
+Faerie Engineer
+
+Numbing Chain
+
+Godseeker Druid
+rules_text: {T}: Add {G}.
+[i]Stout[/i] — Whenever you tap this creature for mana, if you control a creature with toughness 4 or greater, add an additional mana of any color. => {T}: Add {G}.
+[i]Stout[/i] — Whenever you tap this creature for mana, add an additional mana of any color if you control a creature with toughness 4 or greater.
+
+Titan's Herald
+
+Devastating Blow
+
+Kathari Marauder
+
+Fieldmist Border
+
+Guardians of the Sanctum
+
+Planeshift
+
+Delicious Duo
+
+Thornwhip Runner
+rules_text: Haste
+[i]Stout[/i] — Whenever this creature attacks while you control a creature with toughness 4 or greater, this creature gets +1/+0 and gains menace until end of turn.
+{T}, Pay 1 life: Target creature gains haste until end of turn. => Haste
+[i]Stout[/i] — Whenever this creature attacks, it gets +1/+0 and gains menace until end of turn if you control another creature with toughness 4 or greater.
+{T}, Pay 1 life: Target creature gains haste until end of turn.
+
+Recoil from Reality
+
+Reality Lapse
+
+Scalegod Tracker
+rules_text: [i]Stout[/i] — At the beginning of your end step, if you control another creature with toughness 4 or greater, put a +1/+1 counter on this creature. => [i]Stout[/i] — Whenever this creature attacks, put a +1/+1 counter on it if you control another creature with toughness 4 or greater.
+
+Windwright Sage
+rules_text: Flying
+This creature has lifelink as long as you've cast an artifact spell this turn. => Flying
+This creature has lifelink as long as you've cast an artifact spell this turn.
+This creature has deathtouch as long as an artifact card is in your graveyard.
+pt: 3/2 => 2/2
+
+Steward of Valeron
+
+Scavenger Thrash
+
+Ash Barrens
+
+Mistvein Border
+
+Firewild Border
+
+Contaminated Landscape
+
+Bant Triome
+
+Esper Triome
+
+Grixis Triome
+
+Jund Triome
+
+Naya Triome
+
+Sludge Sifter
+
+Rhox War Monk
+
+Pawn of Malfegor
+
+Surge of Sangrite
+
+Sprouting Thrinax
+
+Palandius Gargoyle
+
+Shrieking Strix
+
+Taani, Bloodbraid Chief
+
+Sigiled Gargantuan
+
+Necrotic Germination
+
+Territorial Tusker
+
+Scrivener's Bloodpact
+
+Silas Renn, Seeker Adept
+
+Olcot, Grixis Battlemage
+
+Slime Invocation
+
+Sedris, Grave Monarch
+
+Syncopate
+
+Edge of Conflux
+
+White Orchid Paladin
+
+Identity Fracture
+
+Nurturing Sunseeder
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, you gain 2 life.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, you gain 2 life if you control a creature with toughness 4 or greater.
+{T}: Add {C}.
+
+Firestoker Exuberant
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, this creature deals 1 damage to each opponent.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, this creature deals 1 damage to each opponent if you control a creature with toughness 4 or greater.
+{T}: Add {C}.
+
+Behemoth Seeker
+rules_text: [i]Stout — [/i]At the beginning of your end step, if you control a creature with toughness 4 or greater, draw a card.
+{T}: Add {C}. => [i]Stout — [/i]At the beginning of your end step, draw a card if you control a creature with toughness 4 or greater.
+{T}: Add {C}.
+
+Jenara, Stoic Asura
+
+Syeena, Godtoucher
+
+Sovereign of Steel Wind
+
+Swordshatter Behemoth
+
+Sedraxis Brute
+type: Creature — Zombie Giant => Creature — Zombie Giant Warrior
+rules_text: When this creature enters, exile up to one card from a graveyard and create a 2/2 black Zombie creature token.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i] => When this creature leaves the battlefield, create a 2/2 black Zombie creature token.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+pt: 3/3 => 4/4
+
+Aerie Windcaller
+rules_text: Flying
+When you discard this card or this creature enters, up to one target creature gains flying until end of turn.
+Cycling {2U} [i]({2U}, Discard this card: Draw a card.)[/i] => Flying
+When you discard this card or this creature enters, target creature gains flying until end of turn.
+Cycling {2U} [i]({2U}, Discard this card: Draw a card.)[/i]
+
+Rafiq, Knight-General
+
+Blessing of the Amesha
+rules_text: Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When this artifact enters, return target creature card with mana value 3 or less from your graveyard to the battlefield.
+Whenever a nontoken creature you control dies, you may exile it and this artifact. If you do, return this artifact to the battlefield. => When this artifact enters, return target creature card with mana value 3 or less from your graveyard to the battlefield with an additional +1/+1 counter on it.
+Whenever a nontoken creature you control dies, you may exile it and this artifact. If you do, return this artifact to the battlefield.
+
+Jorshu of Clan Nel Toth
+
+Vectis Gargoyle
+rules_text: Flash
+Flying
+When this creature enters, return an artifact you control to its owner's hand and exile up to one card from a graveyard. => Flash
+Flying
+When this creature enters, return an artifact you control to its owner's hand and exile a card from an opponent's graveyard.
+
+Spitting Iguanar
+
+Mayael, Sacred Anima
+
+Sharuum the Ascendant
+
+Monstrous Sapherd
+
+Knight of Eos
+
+Battlegrace Sigil
+
+Callio of the Ethersworn
+
+Shardquake
+
+Splintering Sphinx
+
+Watchtower Lookout
+
+Seekers of Majesty
+
+Strixshaping
+
+Benediction Angel
+rules_text: Flying
+Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, tap up to one target creature. => Flying
+Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+Whenever a creature you control attacks alone, tap target creature.
+
+Qala, Nacatl Uniter
+
+Sarkhan, Dragons' Hunger
+
+Tezzeret, Prodigal Son
+
+Vedalken Apostate
+
+Predatory Thrinax
+
+Maelstrom Shrine
+
+Human Soldier
+
+Beast
+
+Cesspool Scrapfiend
+
+Attended Aether-Lich
+
+Kathari Shrieker
+
+Goblin Hordelord
+
+Extractor Imp
+
+Feral Undead
+
+Dregscape Reaver
+
+Rotting Rager
+
+Sedraxis Brute
+type: Token Creature — Zombie Giant => Creature — Zombie Giant Warrior
+rules_text: When this creature enters, exile up to one card from a graveyard and create a 2/2 black Zombie creature token.
+[i](This token's mana cost is {4}{B}.)[/i] => When this creature leaves the battlefield, create a 2/2 black Zombie creature token.
+[i](This token's mana cost is {4}{B}.)[/i]
+pt: 3/3 => 4/4
+
+Skyward Eye Avenger
+
+Relic of Lost Alara
+rules_text: When this artifact enters or leaves the battlefield, exile up to one target card from a graveyard.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Relic of Lost Alara: Draw a card. => When this artifact enters or leaves the battlefield, exile target card from an opponent's graveyard.
+{1}, {T}: Add one mana of any color.
+{2}, {T}, Sacrifice Relic of Lost Alara: Draw a card.
+
+Fire-Field Fiend
+
+Dragon
+
+Angel
+
+Starving Ogre
+
+Elemental
+
+Terror Tiller
+
+Terrepository
+
+Kresh of Tol Antaga
+
+Vithian Sparkslinger
+
+Filigree Formthief
+
+Bellowing Brute
+
+Qasali Pridemage
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Macabre Waltz added.
