@@ -1,4 +1,242 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Irate Incurable added.
+Scrapyard Ravager added.
+Faith of the Disturbed added.
+Battleflight Aven added.
+Rakka Mar, Rage Sculptor added.
+Pitch-Thrash Patrol added.
+
+Defiant Incurable removed.
+Undying Devourer removed.
+Zombie Haven removed.
+Aerie Windcaller removed.
+Rakka Mar, Elementalist removed.
+
+Viashino Fearblade
+
+Goblin Death-Raider
+
+Fiery Fall
+
+Agent of Incursion
+
+Morbid Celebrant
+
+Spiny Thallid
+rules_text: When this creature dies, create a 1/1 green Saproling creature token. If it was sacrificed, you gain 1 life for each creature that died this turn => When this creature dies, create a 1/1 green Saproling creature token. If it was sacrificed, you gain 3 life.
+
+Feral Undead
+
+Nesting Homunculus
+
+World-Weary
+
+Kathari Marauder
+
+Guardians of the Sanctum
+
+Rotting Rager
+
+Delicious Duo
+
+Hellkite Juvenile
+
+Gargantuan Gift
+type: Sorcery => Instant
+rules_text: Reveal the top four cards of your library. You may put a creature card from among them into your hand. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in any order. => Reveal the top four cards of your library. You may put up to two creature and/or land cards from among them into your hand. Put the rest on the bottom of your library in any order.
+
+Onyx Capsule
+
+Tragic Slip
+
+Macabre Waltz
+
+Attended Aether-Lich
+
+Scavenger Thrash
+cost: {2}{B}{R}{G} => {1}{B}{R}{G}
+rules_text: Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+When this creature enters, return target creature card with lesser mana value from your graveyard to your hand. => Devour 2 [i](As this enters, you may sacrifice any number of creatures. This creature enters with twice that many +1/+1 counters on it.)[/i]
+[i]Morbid[/i] — When this creature enters, return target creature card from your graveyard to your hand if a creature died this turn.
+
+Plasma Rift
+cost: {2}{R} => {3}{R}
+rules_text: Whenever you discard a card, you may pay {1}. When you do, this enchantment deals 2 damage to any target. => Whenever you discard a card, you may pay {1}. When you do, this enchantment deals 2 damage to target creature or planeswalker.
+
+Pawn of Malfegor
+type: Instant => Sorcery
+rules_text: Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step. => Gain control of target creature. Untap that creature. It gains haste until end of turn. At the beginning of the next end step, each player sacrifices a creature.
+
+Sigiled Gargantuan
+
+Olcot, Grixis Battlemage
+rules_text: Whenever you discard one or more cards, you may pay {1}. If you do, each opponent loses 2 life and you gain 2 life.
+Whenever Olcot attacks, you may discard a card. If you do, create a tapped and attacking token that's a copy of a creature token you control. => Whenever Olcot attacks, you may discard a card. When you do, create a tapped and attacking token that's a copy of a creature token you control. Sacrifice the copy at end of combat.
+Whenever you discard a card, you may pay {B}. If you do, create a tapped 2/2 black Zombie creature token.
+
+Unearth
+
+Pitch-Thrash Patrol
+rules_text: When this creature enters, exile up to one card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card. => When this creature enters, exile up to one card with a cycling ability from your graveyard. Until the end of your next turn, you may play that card.
+Lunge [i](You may cast a copy of this spell from your graveyard by discarding a card in addition to its other costs. The copy becomes a token. Exile this card.)[/i]
+
+Flamespit Hellkite
+
+White Orchid Paladin
+rules_text: Whenever a Knight you control attacks alone, look at the top card of your library. If it's a permanent card with mana value 3 or less, you may reveal it and put it into your hand. If you don't put the card into your hand, put a +1/+1 counter on that Knight. => Whenever a Knight you control attacks alone, look at the top card of your library. If it's a permanent card with mana value 2 or less, you may reveal it and put it into your hand. If you don't put the card into your hand, put a +1/+1 counter on that Knight.
+pt: 3/4 => 3/3
+
+Identity Fracture
+type: Sorcery => Instant
+cost: {2}{B}{B} => {3}{B}{B}
+
+Firestoker Exuberant
+
+Scavenger Wyvern
+
+Jenara, Stoic Asura
+
+Cunning Archdemon
+
+Swordshatter Behemoth
+rules_text: Whenever this creature attacks, you may return a land card from your graveyard to your hand.
+[i]Landfall[/i] — Whenever a land you control enters, target creature gains indestructible until end of turn. => [i]Stout[/i] — Whenever you attack with one or more creatures with toughness 4 or greater, you may return a land card from your graveyard to your hand.
+[i]Landfall[/i] — Whenever a land you control enters, target creature gains indestructible until end of turn.
+
+Sedraxis Brute
+
+Knight-Captain Wyhorn
+rules_text: When Knight-Captain Wyhorn enters and whenever a Knight you control attacks alone, choose one —
+• Tap or untap target creature.
+• Exile target creature with mana value 0.
+• Create a 1/1 white Soldier creature token. => Whenever a Knight you control attacks alone, choose one —
+• Tap or untap target creature.
+• Exile target creature with mana value 0.
+• Create a 1/1 white Soldier creature token.
+pt: 2/2 => 2/3
+
+Stinging Swarm
+
+Molten Hellion
+rules_text: Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, it deals damage to each creature equal to 2 plus the number of creatures it devoured. => Devour 1 [i](As this enters, you may sacrifice any number of creatures. This creature enters with that many +1/+1 counters on it.)[/i]
+When this creature enters, choose one —
+• It deals 2 damage to each creature.
+• It deals X damage to target creature, where X is this creature's power.
+
+Endless Hordes
+cost: {3}{R} => {2}{R}{R}
+rules_text: At the beginning of combat on your turn, you may discard a card. If you do, create a token that's a copy of a creature you control. It gains haste and “When this creature dies, draw a card.” Exile it at end of combat.
+Cycling {2} => At the beginning of combat on your turn, you may discard a card. If you do, create a token that's a copy of a creature you control. It gains haste and “When this creature dies, draw a card.” Exile it at end of combat.
+
+Shardquake
+rules_text: Return all nontoken creatures to their owners' hands. All creature tokens you don't control phase out. => Return all nontoken creatures to their owners' hands.
+Cycling {2}{U} [i]({2}{U}, Discard this card: Draw a card.)[/i]
+When you cycle this card, return target creature to its owner's hand.
+
+Watchtower Lookout
+rules_text: Vigilance
+Whenever a creature attacks alone, surveil 2.
+Whenever two or more creatures attack, you may have their controllers each mill X cards, where X is the number of attacking creatures. => Vigilance
+Whenever a Rogue you control attacks alone, create a 1/1 white Bird Soldier creature token with flying. You may have that token enter tapped and attacking.
+
+Salvage Summoner
+
+Tar Hulk
+
+Shungus Nod, Fleshcrafter
+
+Parasitic Frenzy
+
+Goblin Hordelord
+
+Minion Maker
+
+Reckoner's Bargain
+
+Scrap Slasher
+
+Benediction Angel
+
+Unx Alchemist
+
+Gruesome Realization
+
+Ajani, Soul Sculptor
+rules_text: [-1]: You gain life equal to the greatest power among creatures you control.
+[-2]: Put X +1/+1 counters on target creature, where X is the greatest power among creatures you control.
+[-2]: Ajani deals damage to any target equal to the greatest power among creatures you control.
+[-4]: Draw cards equal to the greatest power among creatures you control. => Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.
+[+1]: Put a +1/+1 counter on up to one target creature. That creature gains first strike or lifelink until end of turn.
+[-2]: Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.
+special_text: [-1]: You gain life equal to the greatest power among creatures you control.
+[-2]: Put X +1/+1 counters on target creature, where X is the greatest power among creatures you control.
+[-2]: Ajani deals damage to any target equal to the greatest power among creatures you control.
+[-4]: Draw cards equal to the greatest power among creatures you control. => Each creature you control with toughness greater than its power assigns combat damage equal to its toughness rather than its power.
+[+1]: Put a +1/+1 counter on up to one target creature. That creature gains first strike or lifelink until end of turn.
+[-2]: Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its toughness to the other.
+
+Gargantuan Impact
+type: Instant => Sorcery
+
+Hadran, Sunseeder Chief
+
+Beast
+
+Cesspool Scrapfiend
+
+Bolas, Cruel Schemer
+cost: {4}{U}{B}{R} => {3}{U}{B}{B}{R}
+rules_text: Whenever you discard a card, put a loyalty counter on Bolas.
+[0]: Draw a card, then each player discards a card.
+[-4]: Gain control of target creature, then each player sacrifices a creature of their choice.
+[-7]: Each opponent sacrifices a creature of their choice, discards two cards, and loses 3 life. You return a creature card from your graveyard to your hand, draw two cards, and gain 3 life. => Whenever you discard a card, put a loyalty counter on Bolas.
+[0]: Draw a card, then each player discards a card.
+[-4]: Gain control of target creature. Untap it.
+[-7]: Each opponent sacrifices a creature of their choice, discards two cards, and loses 3 life. You return a creature card from your graveyard to your hand, draw two cards, and gain 3 life.
+special_text: Whenever you discard a card, put a loyalty counter on Bolas.
+[0]: Draw a card, then each player discards a card.
+[-4]: Gain control of target creature, then each player sacrifices a creature of their choice.
+[-7]: Each opponent sacrifices a creature of their choice, discards two cards, and loses 3 life. You return a creature card from your graveyard to your hand, draw two cards, and gain 3 life. => Whenever you discard a card, put a loyalty counter on Bolas.
+[0]: Draw a card, then each player discards a card.
+[-4]: Gain control of target creature. Untap it.
+[-7]: Each opponent sacrifices a creature of their choice, discards two cards, and loses 3 life. You return a creature card from your graveyard to your hand, draw two cards, and gain 3 life.
+
+Fire-Field Fiend
+
+Dragon
+
+Starving Ogre
+
+Grixis Emissary
+rules_text: Ward—Discard a card [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+{1}{U}: Draw a card, then discard a card.
+{2}{R}: Discard a card, then draw a card. => Ward—Discard a card [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player discards a card.)[/i]
+{1}{U}: Draw a card, then discard a card.
+{1}{R}: Discard a card, then draw a card.
+
+Naya Emissary
+rules_text: Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{1}{W}, Exile a land card from your graveyard: Tap target creature. => Double strike, trample
+{2}{R}, Sacrifice a land: Draw a card.
+{2}{W}, Exile a land card from your graveyard: Tap target creature.
+
+Vithian Sparkslinger
+
+Bellowing Brute
+
+Maelstrom Elemental
+rules_text: Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+Cycling {3} => Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+Qasali Pridemage
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Mask of the Hegemon added.
